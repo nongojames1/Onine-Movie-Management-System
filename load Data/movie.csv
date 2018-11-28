@@ -1,0 +1,3239 @@
+movie_id,Title,Year,Rating,Runtime,Critic.Score,Box.Office,availability
+1,The Whole Nine Yards,2000,R,98,45,57.3,True
+2,Gladiator,2000,R,155,76,187.3,True
+3,Cirque du Soleil,2000,G,39,45,13.4,True
+4,Dinosaur,2000,PG,82,65,135.6,True
+5,Big Momma's House,2000,PG-13,99,30,0.5,True
+6,Gone in Sixty Seconds,2000,PG-13,118,24,101.0,True
+7,Shaft,2000,R,99,68,70.3,True
+8,"Me, Myself & Irene",2000,R,116,48,0.6,True
+9,Chicken Run,2000,G,84,97,106.6,True
+10,The Patriot,2000,R,165,62,2.3,True
+11,The Adventures of Rocky & Bullwinkle,2000,PG,92,43,0.4,True
+12,The Kid,2000,PG,104,49,68.5,True
+13,X-Men,2000,PG-13,104,82,156.2,True
+14,What Lies Beneath,2000,PG-13,130,46,155.0,True
+15,Thomas and the Magic Railroad,2000,G,85,19,2.0,True
+16,Nutty Professor II: The Klumps,2000,PG-13,106,26,122.4,True
+17,Hollow Man,2000,R,112,27,72.1,True
+18,Coyote Ugly,2000,PG-13,100,22,59.8,True
+19,Space Cowboys,2000,PG-13,130,78,89.4,True
+20,The Replacements,2000,PG-13,118,40,44.0,True
+21,Bless the Child,2000,R,107,3,28.1,True
+22,The Original Kings of Comedy,2000,R,115,86,37.7,True
+23,The Cell,2000,R,107,45,60.0,True
+24,The Crew,2000,PG-13,88,20,12.5,True
+25,Bring It On,2000,PG-13,98,63,67.9,True
+26,The Art of War,2000,R,117,16,29.5,True
+27,The Tao of Steve,2000,R,87,80,2.6,True
+28,Whipped,2000,R,82,13,3.8,True
+29,Backstage,2000,R,86,31,0.7,True
+30,Turn It Up,2000,R,86,8,0.7,True
+31,The Way of the Gun,2000,R,119,48,5.2,True
+32,Nurse Betty,2000,R,110,84,25.0,True
+33,The Watcher,2000,R,97,10,28.6,True
+34,Duets,2000,R,112,20,4.3,True
+35,Bait,2000,R,119,26,14.9,True
+36,Urban Legends: Final Cut,2000,R,97,9,21.0,True
+37,Woman on Top,2000,R,92,34,4.5,True
+38,Almost Famous,2000,R,122,88,31.7,True
+39,Remember the Titans,2000,PG,113,73,114.3,True
+40,Beautiful,2000,PG-13,112,16,2.8,True
+41,Dancer in the Dark,2000,R,140,68,2.8,True
+42,Meet the Parents,2000,PG-13,108,84,164.5,True
+43,Girlfight,2000,R,110,87,0.8,True
+44,Digimon: The Movie,2000,PG,82,25,9.0,True
+45,Get Carter,2000,R,102,12,14.6,True
+46,Dr. T and the Women,2000,R,122,57,12.1,True
+47,The Contender,2000,R,126,76,16.1,True
+48,Lost Souls,2000,R,97,7,16.4,True
+49,The Ladies Man,2000,R,84,11,13.4,True
+50,Best in Show,2000,PG-13,90,95,16.6,True
+51,Pay It Forward,2000,PG-13,123,40,32.8,True
+52,Bamboozled,2000,R,135,48,1.9,True
+53,Bedazzled,2000,PG-13,93,49,37.0,True
+54,Lucky Numbers,2000,R,105,22,9.5,True
+55,The Little Vampire,2000,PG,95,55,13.4,True
+56,Charlie's Angels,2000,PG-13,98,67,124.4,True
+57,The Legend of Bagger Vance,2000,PG-13,126,43,30.4,True
+58,Red Planet,2000,PG-13,106,14,17.1,True
+59,Little Nicky,2000,PG-13,90,22,38.5,True
+60,Men of Honor,2000,R,129,41,46.2,True
+61,The 6th Day,2000,PG-13,123,41,33.8,True
+62,How the Grinch Stole Christmas,2000,PG,104,53,259.0,True
+63,102 Dalmatians,2000,G,100,31,65.4,True
+64,What's Cooking?,2000,PG-13,109,52,0.7,True
+65,Dungeons & Dragons,2000,PG-13,107,10,14.8,True
+66,Proof of Life,2000,R,135,40,31.2,True
+67,Vertical Limit,2000,PG-13,124,48,67.8,True
+68,What Women Want,2000,PG-13,127,54,181.5,True
+69,Requiem for a Dream,2000,R,102,78,2.5,True
+70,The Emperor's New Groove,2000,G,78,85,87.3,True
+71,"Dude, Where's My Car?",2000,PG-13,83,18,45.0,True
+72,The Family Man,2000,PG-13,125,53,73.7,True
+73,You Can Count on Me,2000,R,111,95,8.4,True
+74,Miss Congeniality,2000,PG-13,109,42,105.5,True
+75,Quills,2000,R,124,75,4.3,True
+76,All the Pretty Horses,2000,PG-13,116,32,14.7,True
+77,Traffic,2000,R,147,92,123.8,True
+78,State and Main,2000,R,105,86,5.8,True
+79,"Crouching Tiger, Hidden Dragon",2000,PG-13,120,97,127.7,True
+80,Thirteen Days,2000,PG-13,145,83,33.1,True
+81,Finding Forrester,2000,PG-13,136,74,51.4,True
+82,The Gift,2000,R,111,57,11.2,True
+83,Chocolat,2000,PG-13,121,63,71.3,True
+84,Snatch.,2000,R,102,73,30.1,True
+85,Shadow of the Vampire,2000,R,92,81,7.5,True
+86,"O Brother, Where Art Thou?",2000,PG-13,106,77,45.2,True
+87,Before Night Falls,2000,R,133,73,2.8,True
+88,An Everlasting Piece,2000,R,103,48,0.0091,True
+89,Pollock,2000,R,122,81,7.3,True
+90,Memento,2000,R,113,92,23.8,True
+91,The Golden Bowl,2000,R,130,54,2.2,True
+92,Songcatcher,2000,PG-13,109,74,1.6,True
+93,The Endurance,2000,G,97,95,2.1,True
+94,Tadpole,2000,PG-13,78,78,2.9,True
+95,The Debut,2000,R,88,74,1.5,True
+96,Antitrust,2001,PG-13,109,24,11.0,True
+97,Double Take,2001,PG-13,88,12,28.5,True
+98,The Pledge,2001,R,124,78,18.9,True
+99,"Scotland, Pa.",2001,R,104,59,0.2,True
+100,Sugar & Spice,2001,PG-13,81,28,12.4,True
+101,Head Over Heels,2001,PG-13,86,10,9.9,True
+102,Valentine,2001,R,96,8,19.8,True
+103,Hannibal,2001,R,131,39,163.9,True
+104,Saving Silverman,2001,PG-13,90,18,19.0,True
+105,Recess: School's Out,2001,G,82,61,34.8,True
+106,Sweet November,2001,PG-13,119,16,24.4,True
+107,Down to Earth,2001,PG-13,87,20,63.1,True
+108,Haunted Castle,2001,PG,38,25,12.4,True
+109,Monkeybone,2001,PG-13,93,20,4.9,True
+110,3000 Miles to Graceland,2001,R,125,14,15.3,True
+111,See Spot Run,2001,PG,94,23,32.5,True
+112,The Mexican,2001,R,123,56,66.6,True
+113,Carman: The Champion,2001,PG-13,82,11,1.3,True
+114,Get Over It,2001,PG-13,87,44,11.3,True
+115,15 Minutes,2001,R,120,33,24.2,True
+116,Bartleby,2001,PG-13,83,35,0.0603,True
+117,Never Again,2001,R,98,31,0.2,True
+118,Enemy at the Gates,2001,R,131,54,50.5,True
+119,Exit Wounds,2001,R,101,32,51.4,True
+120,Heartbreakers,2001,PG-13,123,53,39.9,True
+121,The Brothers,2001,R,106,63,26.6,True
+122,Say It Isn't So,2001,R,95,9,4.8,True
+123,Spy Kids,2001,PG,88,93,110.8,True
+124,Someone Like You...,2001,PG-13,97,43,26.7,True
+125,Along Came a Spider,2001,R,104,32,73.6,True
+126,Blow,2001,R,124,55,52.8,True
+127,Joe Dirt,2001,PG-13,91,11,27.1,True
+128,Kingdom Come,2001,PG,94,28,22.6,True
+129,Josie and the Pussycats,2001,PG-13,98,53,14.1,True
+130,Crocodile Dundee in Los Angeles,2001,PG,92,11,25.3,True
+131,Freddy Got Fingered,2001,R,87,11,13.7,True
+132,Driven,2001,PG-13,116,14,32.4,True
+133,One Night at McCool's,2001,R,93,33,5.7,True
+134,The Forsaken,2001,R,90,7,6.3,True
+135,Town & Country,2001,R,104,13,6.3,True
+136,The Mummy Returns,2001,PG-13,130,47,200.7,True
+137,The Tailor of Panama,2001,R,109,77,13.1,True
+138,A Knight's Tale,2001,PG-13,132,58,55.0,True
+139,Shrek,2001,PG,90,88,267.0,True
+140,Pearl Harbor,2001,PG-13,183,25,197.8,True
+141,Startup.com,2001,R,107,92,0.5,True
+142,What's the Worst That Could Happen?,2001,PG-13,94,10,31.1,True
+143,Moulin Rouge!,2001,PG-13,127,76,55.1,True
+144,The Animal,2001,PG-13,84,30,54.4,True
+145,Swordfish,2001,R,99,26,68.8,True
+146,Evolution,2001,PG-13,101,43,37.6,True
+147,Lara Croft: Tomb Raider,2001,PG-13,100,19,129.5,True
+148,Atlantis: The Lost Empire,2001,PG,95,49,83.6,True
+149,The Fast and the Furious,2001,PG-13,106,53,142.5,True
+150,Dr. Dolittle 2,2001,PG,87,42,111.5,True
+151,Baby Boy,2001,R,130,71,27.8,True
+152,Pootie Tang,2001,PG-13,81,29,2.8,True
+153,The Anniversary Party,2001,R,115,60,3.0,True
+154,Crazy/Beautiful,2001,PG-13,99,63,16.2,True
+155,A.I. Artificial Intelligence,2001,PG-13,146,73,77.6,True
+156,Cats & Dogs,2001,PG,87,54,90.9,True
+157,Kiss of the Dragon,2001,R,98,51,34.7,True
+158,Final Fantasy: The Spirits Within,2001,PG-13,106,44,31.5,True
+159,The Score,2001,R,124,73,70.3,True
+160,Jurassic Park III,2001,PG-13,92,50,180.1,True
+161,America's Sweethearts,2001,PG-13,102,31,93.0,True
+162,Planet of the Apes,2001,PG-13,119,45,178.1,True
+163,Original Sin,2001,R,116,12,15.1,True
+164,The Princess Diaries,2001,G,115,47,107.8,True
+165,Rush Hour 2,2001,PG-13,90,52,226.0,True
+166,The Others,2001,PG-13,104,83,96.1,True
+167,Osmosis Jones,2001,PG,95,55,12.3,True
+168,American Pie 2,2001,R,108,52,144.0,True
+169,Captain Corelli's Mandolin,2001,R,131,29,25.3,True
+170,American Outlaws,2001,PG-13,94,14,11.9,True
+171,Rat Race,2001,PG-13,112,44,55.8,True
+172,The Believer,2001,R,102,82,0.2,True
+173,Jay and Silent Bob Strike Back,2001,R,104,53,29.9,True
+174,Bubble Boy,2001,PG-13,84,29,4.2,True
+175,Ghosts of Mars,2001,R,98,21,7.3,True
+176,Summer Catch,2001,PG-13,108,8,19.0,True
+177,The Curse of the Jade Scorpion,2001,PG-13,103,45,6.8,True
+178,The Deep End,2001,R,101,82,8.3,True
+179,O,2001,R,95,64,15.5,True
+180,Tortilla Soup,2001,PG-13,102,74,2.9,True
+181,Made,2001,R,95,71,3.7,True
+182,Hedwig and the Angry Inch,2001,R,95,92,1.5,True
+183,Jeepers Creepers,2001,R,90,45,37.5,True
+184,Soul Survivors,2001,PG-13,84,4,2.0,True
+185,The Musketeer,2001,PG-13,104,11,26.6,True
+186,Two Can Play That Game,2001,R,90,43,22.0,True
+187,The Glass House,2001,PG-13,106,21,17.4,True
+188,Megiddo: The Omega Code 2,2001,PG-13,104,10,5.6,True
+189,Ghost World,2001,R,111,92,4.7,True
+190,Glitter,2001,PG-13,104,7,3.9,True
+191,Hearts in Atlantis,2001,PG-13,101,50,23.6,True
+192,Zoolander,2001,PG-13,89,64,44.7,True
+193,Don't Say a Word,2001,R,113,24,54.2,True
+194,Extremedays,2001,PG,93,43,0.5,True
+195,Big Bad Love,2001,R,111,41,0.1,True
+196,Joy Ride,2001,R,97,73,21.3,True
+197,Serendipity,2001,PG-13,90,59,50.0,True
+198,Training Day,2001,R,122,72,76.1,True
+199,Max Keeble's Big Move,2001,PG,86,29,16.5,True
+200,Corky Romano,2001,PG-13,86,6,23.0,True
+201,Bandits,2001,PG-13,123,65,41.2,True
+202,Riding in Cars with Boys,2001,PG-13,132,49,29.6,True
+203,The Last Castle,2001,R,131,52,17.9,True
+204,From Hell,2001,R,122,57,30.7,True
+205,Mulholland Drive,2001,R,147,81,7.1,True
+206,Bones,2001,R,96,21,6.8,True
+207,Thir13en Ghosts,2001,R,91,14,41.6,True
+208,K-PAX,2001,PG-13,120,41,50.0,True
+209,Domestic Disturbance,2001,PG-13,89,24,44.4,True
+210,The One,2001,PG-13,87,14,43.9,True
+211,"Monsters, Inc.",2001,G,92,96,34.0,True
+212,Storytelling,2001,R,87,53,0.9,True
+213,Life as a House,2001,R,125,47,15.4,True
+214,Shallow Hal,2001,PG-13,114,51,70.7,True
+215,Heist,2001,R,109,65,23.3,True
+216,The Wash,2001,R,93,8,9.8,True
+217,Harry Potter and the Sorcerer's Stone,2001,PG,152,80,317.6,True
+218,The Man Who Wasn't There,2001,R,116,81,7.4,True
+219,Waking Life,2001,R,99,80,2.1,True
+220,Spy Game,2001,R,126,66,62.3,True
+221,Out Cold,2001,PG-13,89,8,13.9,True
+222,Black Knight,2001,PG-13,95,14,33.3,True
+223,Behind Enemy Lines,2001,PG-13,106,37,58.8,True
+224,Sidewalks of New York,2001,R,108,57,2.1,True
+225,Ocean's Eleven,2001,PG-13,116,82,183.3,True
+226,Vanilla Sky,2001,R,136,41,100.5,True
+227,Novocaine,2001,R,95,38,1.5,True
+228,Not Another Teen Movie,2001,R,89,28,37.9,True
+229,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,91,313.8,True
+230,The Majestic,2001,PG,152,42,27.7,True
+231,The Business of Strangers,2001,R,84,80,0.5,True
+232,Jimmy Neutron: Boy Genius,2001,G,82,75,80.9,True
+233,How High,2001,R,93,27,31.2,True
+234,Who Is Cletis Tout?,2001,R,92,23,0.0649,True
+235,Kate & Leopold,2001,PG-13,118,50,47.1,True
+236,Ali,2001,R,157,67,58.2,True
+237,The Royal Tenenbaums,2001,R,110,80,52.3,True
+238,A Beautiful Mind,2001,PG-13,135,75,170.7,True
+239,Impostor,2001,R,95,22,5.3,True
+240,American Adobo,2001,R,104,30,0.2,True
+241,The Shipping News,2001,R,111,55,11.4,True
+242,Gosford Park,2001,R,137,85,41.3,True
+243,Black Hawk Down,2001,R,144,76,108.6,True
+244,I Am Sam,2001,PG-13,132,34,40.3,True
+245,Birthday Girl,2001,R,93,58,4.9,True
+246,In the Bedroom,2001,R,130,93,35.7,True
+247,Super Troopers,2001,R,100,35,18.4,True
+248,Monster's Ball,2001,R,111,85,31.3,True
+249,The Mystic Masseur,2001,PG,117,52,0.3,True
+250,Iris,2001,R,91,79,5.4,True
+251,Kissing Jessica Stein,2001,R,97,84,7.0,True
+252,Human Nature,2001,R,96,49,0.7,True
+253,The Other Side of Heaven,2001,PG,113,29,4.4,True
+254,Frailty,2001,R,100,73,13.1,True
+255,Piñero,2001,R,103,43,0.2,True
+256,Monsoon Wedding,2001,R,114,95,13.7,True
+257,Jason X,2001,R,91,19,12.6,True
+258,The Cat's Meow,2001,PG-13,114,75,3.2,True
+259,Dogtown and Z-Boys,2001,PG-13,91,92,1.2,True
+260,CQ,2001,R,88,67,0.3,True
+261,Enigma,2001,R,119,72,3.8,True
+262,Thirteen Conversations About One Thing,2001,R,104,83,3.0,True
+263,Festival in Cannes,2001,PG-13,100,65,0.040999999999999995,True
+264,Lovely & Amazing,2001,R,91,86,4.2,True
+265,Little Secrets,2001,PG,96,60,0.4,True
+266,Knockaround Guys,2001,R,92,20,11.5,True
+267,Pokémon 4: The Movie,2001,G,75,14,1.6,True
+268,The Man from Elysian Fields,2001,R,106,51,1.3,True
+269,Cowboy Bebop: The Movie,2001,R,115,64,0.9,True
+270,The Safety of Objects,2001,R,121,49,0.0862,True
+271,On_Line,2002,R,97,38,0.0257,True
+272,Orange County,2002,PG-13,82,46,41.0,True
+273,State Property,2002,R,88,0,2.1,True
+274,Snow Dogs,2002,PG,99,24,81.1,True
+275,A Walk to Remember,2002,PG,101,27,41.1,True
+276,Kung Pow: Enter the Fist,2002,PG-13,81,11,15.9,True
+277,The Count of Monte Cristo,2002,PG-13,131,73,54.1,True
+278,The Mothman Prophecies,2002,PG-13,119,52,35.2,True
+279,The Singles Ward,2002,PG,102,50,1.1,True
+280,Slackers,2002,R,86,10,4.8,True
+281,Big Fat Liar,2002,PG,88,42,47.8,True
+282,Collateral Damage,2002,R,108,19,40.0,True
+283,Rollerball,2002,R,98,3,18.9,True
+284,Crossroads,2002,PG-13,93,14,37.1,True
+285,John Q,2002,PG-13,116,23,71.0,True
+286,Hart's War,2002,R,125,60,19.0,True
+287,Return to Never Land,2002,G,72,45,48.3,True
+288,Heaven,2002,R,97,74,0.6,True
+289,Dragonfly,2002,PG-13,104,7,30.1,True
+290,Queen of the Damned,2002,R,101,17,30.3,True
+291,We Were Soldiers,2002,R,138,63,78.1,True
+292,The Time Machine,2002,PG-13,96,29,56.7,True
+293,All About the Benjamins,2002,R,95,30,25.5,True
+294,Showtime,2002,PG-13,95,25,37.9,True
+295,Ice Age,2002,PG,81,77,176.2,True
+296,Resident Evil,2002,R,100,33,39.5,True
+297,Sorority Boys,2002,R,93,13,10.2,True
+298,Blade II,2002,R,117,59,81.6,True
+299,Clockstoppers,2002,PG,94,29,36.9,True
+300,Panic Room,2002,R,112,76,95.3,True
+301,Death to Smoochy,2002,R,109,42,8.3,True
+302,The Rookie,2002,G,127,83,75.5,True
+303,Van Wilder: Party Liaison,2002,R,92,18,21.0,True
+304,Big Trouble,2002,PG-13,85,48,7.3,True
+305,Changing Lanes,2002,R,98,77,66.7,True
+306,The Sweetest Thing,2002,R,88,26,24.4,True
+307,The Scorpion King,2002,PG-13,92,41,90.3,True
+308,Life or Something Like It,2002,PG-13,103,28,14.4,True
+309,Deuces Wild,2002,R,96,3,6.0,True
+310,Hollywood Ending,2002,PG-13,112,47,4.8,True
+311,The New Guy,2002,PG-13,88,7,29.0,True
+312,Unfaithful,2002,R,124,49,52.7,True
+313,Star Wars: Episode II - Attack of the Clones,2002,PG,142,67,310.3,True
+314,The Salton Sea,2002,R,103,62,0.6,True
+315,About a Boy,2002,PG-13,101,93,40.6,True
+316,Spirit: Stallion of the Cimarron,2002,G,83,69,73.2,True
+317,Enough,2002,PG-13,115,22,39.2,True
+318,Insomnia,2002,R,118,92,67.2,True
+319,Civil Brand,2002,R,95,16,0.1,True
+320,Undercover Brother,2002,PG-13,86,77,38.2,True
+321,The Sum of All Fears,2002,PG-13,124,59,118.5,True
+322,Divine Secrets of the Ya-Ya Sisterhood,2002,PG-13,116,44,69.5,True
+323,Bad Company,2002,PG-13,116,10,30.1,True
+324,The Bourne Identity,2002,PG-13,119,83,121.5,True
+325,Scooby-Doo,2002,PG,86,30,153.2,True
+326,Windtalkers,2002,R,134,32,40.5,True
+327,Passionada,2002,PG-13,108,58,0.5,True
+328,Minority Report,2002,PG-13,145,90,131.9,True
+329,Juwanna Mann,2002,PG-13,91,10,13.4,True
+330,Lilo & Stitch,2002,PG,85,86,145.8,True
+331,Mr. Deeds,2002,PG-13,96,22,126.2,True
+332,Hey Arnold! The Movie,2002,PG,76,29,13.6,True
+333,Like Mike,2002,PG,99,57,51.4,True
+334,Men in Black II,2002,PG-13,88,39,190.4,True
+335,The Powerpuff Girls Movie,2002,PG,73,63,11.3,True
+336,Sunshine State,2002,PG-13,141,80,2.8,True
+337,Halloween: Resurrection,2002,R,94,12,30.3,True
+338,Reign of Fire,2002,PG-13,101,40,42.9,True
+339,Road to Perdition,2002,R,117,81,104.1,True
+340,The Crocodile Hunter: Collision Course,2002,PG,90,53,28.3,True
+341,Eight Legged Freaks,2002,PG-13,99,48,17.2,True
+342,K-19: The Widowmaker,2002,PG-13,138,60,35.1,True
+343,Stuart Little 2,2002,PG,77,81,64.7,True
+344,Austin Powers in Goldmember,2002,PG-13,94,54,213.1,True
+345,The Country Bears,2002,G,88,30,16.9,True
+346,The Master of Disguise,2002,PG,80,1,40.3,True
+347,Signs,2002,PG-13,106,74,227.9,True
+348,Martin Lawrence Live: Runteldat,2002,R,113,39,19.1,True
+349,My Big Fat Greek Wedding,2002,PG,95,76,241.3,True
+350,Spy Kids 2: Island of Lost Dreams,2002,PG,100,74,85.6,True
+351,xXx,2002,PG-13,124,48,141.1,True
+352,Blood Work,2002,R,110,53,26.1,True
+353,Blue Crush,2002,PG-13,104,36,1.0,True
+354,The Adventures of Pluto Nash,2002,PG-13,95,5,4.4,True
+355,S1m0ne,2002,PG-13,117,51,9.5,True
+356,Serving Sara,2002,PG-13,99,4,16.9,True
+357,Possession,2002,PG-13,102,65,10.1,True
+358,Feardotcom,2002,R,101,3,13.1,True
+359,City by the Sea,2002,R,108,48,22.4,True
+360,Swimfan,2002,PG-13,85,14,28.3,True
+361,Stealing Harvard,2002,PG-13,85,9,13.9,True
+362,Barbershop,2002,PG-13,102,82,75.1,True
+363,Manna from Heaven,2002,PG,119,22,0.1,True
+364,Ballistic: Ecks vs. Sever,2002,R,91,0,14.2,True
+365,Charly,2002,PG,103,20,0.7,True
+366,The Banger Sisters,2002,R,98,47,30.2,True
+367,The Four Feathers,2002,PG-13,132,41,18.2,True
+368,Trapped,2002,R,106,18,6.9,True
+369,Pandora's Box,2002,R,103,0,0.8,True
+370,Sweet Home Alabama,2002,PG-13,108,38,127.2,True
+371,The Tuxedo,2002,PG-13,98,22,50.2,True
+372,Jonah: A VeggieTales Movie,2002,G,82,65,25.4,True
+373,Igby Goes Down,2002,R,98,76,4.6,True
+374,Red Dragon,2002,R,124,69,92.9,True
+375,Moonlight Mile,2002,PG-13,117,63,6.7,True
+376,Anything But Love,2002,PG-13,102,37,0.0587,True
+377,Secretary,2002,R,104,75,3.8,True
+378,The Transporter,2002,PG-13,92,53,25.2,True
+379,The Rules of Attraction,2002,R,110,43,6.5,True
+380,White Oleander,2002,PG-13,109,70,16.3,True
+381,Brown Sugar,2002,PG-13,109,66,27.2,True
+382,Tuck Everlasting,2002,PG,90,61,19.0,True
+383,The Ring,2002,PG-13,115,72,128.6,True
+384,Welcome to Collinwood,2002,R,86,54,0.0752,True
+385,Abandon,2002,PG-13,99,16,10.7,True
+386,Hansel & Gretel,2002,PG,89,0,0.1,True
+387,Paid in Full,2002,R,97,51,3.0,True
+388,Jackass: The Movie,2002,R,87,48,64.2,True
+389,The Truth About Charlie,2002,PG-13,104,33,5.3,True
+390,Ghost Ship,2002,R,91,14,30.1,True
+391,Auto Focus,2002,R,105,72,1.8,True
+392,Comedian,2002,R,82,76,2.7,True
+393,Punch-Drunk Love,2002,R,95,79,17.8,True
+394,The Santa Clause 2,2002,G,104,55,139.2,True
+395,8 Mile,2002,R,110,76,116.6,True
+396,Real Women Have Curves,2002,PG-13,90,83,5.7,True
+397,Bowling for Columbine,2002,R,120,96,21.2,True
+398,Harry Potter and the Chamber of Secrets,2002,PG,161,82,261.8,True
+399,Half Past Dead,2002,PG-13,98,3,15.4,True
+400,Frida,2002,R,123,76,25.7,True
+401,Friday After Next,2002,R,85,25,33.0,True
+402,The Emperor's Club,2002,PG-13,109,50,14.0,True
+403,Roger Dodger,2002,R,106,88,1.2,True
+404,Die Another Day,2002,PG-13,133,57,160.2,True
+405,Eight Crazy Nights,2002,PG-13,76,12,23.3,True
+406,Solaris,2002,PG-13,99,66,14.8,True
+407,Treasure Planet,2002,PG,95,68,38.1,True
+408,They,2002,PG-13,89,38,12.6,True
+409,Standing in the Shadows of Motown,2002,PG,108,92,1.2,True
+410,Analyze That,2002,R,96,27,32.1,True
+411,Empire,2002,R,90,21,17.5,True
+412,Drumline,2002,PG-13,118,82,56.2,True
+413,Maid in Manhattan,2002,PG-13,105,39,93.8,True
+414,Star Trek: Nemesis,2002,PG-13,116,37,43.1,True
+415,The Hot Chick,2002,PG-13,104,21,34.9,True
+416,The Lord of the Rings: The Two Towers,2002,PG-13,179,96,340.5,True
+417,The Wild Thornberrys Movie,2002,PG,85,80,39.8,True
+418,Gangs of New York,2002,R,167,75,77.6,True
+419,Two Weeks Notice,2002,PG-13,101,42,93.2,True
+420,Catch Me If You Can,2002,PG-13,141,96,164.4,True
+421,Pinocchio,2002,G,108,0,3.6,True
+422,Evelyn,2002,PG,94,64,1.3,True
+423,About Schmidt,2002,R,125,85,65.0,True
+424,25th Hour,2002,R,135,78,12.8,True
+425,Narc,2002,R,105,83,10.2,True
+426,Antwone Fisher,2002,PG-13,120,79,20.8,True
+427,Far from Heaven,2002,PG-13,107,87,15.8,True
+428,Cherish,2002,R,99,51,0.2,True
+429,Chicago,2002,PG-13,113,86,170.6,True
+430,Confessions of a Dangerous Mind,2002,R,113,79,15.9,True
+431,Spun,2002,R,101,37,0.2,True
+432,Adaptation.,2002,R,114,91,22.2,True
+433,The Hours,2002,PG-13,114,81,41.5,True
+434,The Guru,2002,R,94,57,2.9,True
+435,Dark Blue,2002,R,118,58,9.1,True
+436,Poolhall Junkies,2002,R,99,34,0.5,True
+437,Boat Trip,2002,R,94,7,8.5,True
+438,City of Ghosts,2002,R,116,47,0.3,True
+439,Personal Velocity: Three Portraits,2002,R,86,69,0.6,True
+440,Laurel Canyon,2002,R,103,68,3.6,True
+441,Phone Booth,2002,R,81,71,46.5,True
+442,Better Luck Tomorrow,2002,R,101,81,3.7,True
+443,Raising Victor Vargas,2002,R,88,96,2.0,True
+444,The Dancer Upstairs,2002,R,132,64,2.3,True
+445,Spellbound,2002,G,97,98,5.5,True
+446,Nicholas Nickleby,2002,PG,132,77,1.3,True
+447,Stolen Summer,2002,PG,91,36,0.1,True
+448,Bend It Like Beckham,2002,PG-13,112,85,32.4,True
+449,The Secret Lives of Dentists,2002,R,104,85,3.6,True
+450,Assassination Tango,2002,R,114,48,0.9,True
+451,Cabin Fever,2002,R,93,63,21.1,True
+452,Pumpkin,2002,R,113,36,0.1,True
+453,Darkness,2002,PG-13,88,4,22.0,True
+454,G,2002,R,97,24,3.0,True
+455,National Security,2003,PG-13,88,11,35.8,True
+456,A Guy Thing,2003,PG-13,101,24,15.4,True
+457,Darkness Falls,2003,PG-13,86,9,32.0,True
+458,The R.M.,2003,PG,101,64,0.4,True
+459,Final Destination 2,2003,R,90,48,46.5,True
+460,Biker Boyz,2003,PG-13,110,23,21.7,True
+461,The Recruit,2003,PG-13,115,43,52.7,True
+462,Deliver Us from Eva,2003,R,105,44,17.3,True
+463,Shanghai Knights,2003,PG-13,114,66,60.4,True
+464,How to Lose a Guy in 10 Days,2003,PG-13,116,42,105.8,True
+465,Daredevil,2003,PG-13,103,45,102.5,True
+466,The Jungle Book 2,2003,G,72,19,47.8,True
+467,Gods and Generals,2003,PG-13,219,8,12.9,True
+468,Old School,2003,R,88,60,74.6,True
+469,The Life of David Gale,2003,R,130,19,19.6,True
+470,Cradle 2 the Grave,2003,R,101,26,34.5,True
+471,Tears of the Sun,2003,R,121,33,43.4,True
+472,Bringing Down the House,2003,PG-13,105,34,132.5,True
+473,The Hunted,2003,R,94,29,34.2,True
+474,Agent Cody Banks,2003,PG,102,39,47.3,True
+475,Willard,2003,PG-13,100,64,6.8,True
+476,Dreamcatcher,2003,R,134,30,33.6,True
+477,View from the Top,2003,PG-13,87,14,15.5,True
+478,Piglet's Big Movie,2003,G,75,71,23.1,True
+479,The Core,2003,PG-13,135,41,31.0,True
+480,Head of State,2003,PG-13,95,31,37.8,True
+481,Basic,2003,R,98,21,26.5,True
+482,DysFunktional Family,2003,R,89,43,2.2,True
+483,What a Girl Wants,2003,PG,105,35,36.0,True
+484,A Man Apart,2003,R,109,11,26.2,True
+485,House of 1000 Corpses,2003,R,89,19,12.6,True
+486,Anger Management,2003,PG-13,106,43,133.8,True
+487,Bulletproof Monk,2003,PG-13,104,23,23.0,True
+488,Chasing Papi,2003,PG,80,14,6.1,True
+489,Ghosts of the Abyss,2003,PG,59,80,16.3,True
+490,Malibu's Most Wanted,2003,PG-13,86,31,34.3,True
+491,Holes,2003,PG,117,77,67.3,True
+492,It Runs in the Family,2003,PG-13,109,28,7.4,True
+493,Confidence,2003,R,97,70,12.1,True
+494,The Real Cancun,2003,R,96,35,3.7,True
+495,Identity,2003,R,90,62,51.5,True
+496,The Lizzie McGuire Movie,2003,PG,94,40,42.7,True
+497,X-Men 2,2003,PG-13,134,87,214.8,True
+498,A Mighty Wind,2003,PG-13,91,88,17.5,True
+499,Daddy Day Care,2003,PG,92,28,104.1,True
+500,The Matrix Reloaded,2003,R,138,73,281.5,True
+501,The Shape of Things,2003,R,96,64,0.7,True
+502,The In-Laws,2003,PG-13,98,34,20.4,True
+503,Bruce Almighty,2003,PG-13,101,48,242.6,True
+504,Wrong Turn,2003,R,84,41,15.2,True
+505,Finding Nemo,2003,G,100,99,41.1,True
+506,The Italian Job,2003,PG-13,111,73,106.0,True
+507,2 Fast 2 Furious,2003,PG-13,107,36,127.1,True
+508,Hollywood Homicide,2003,PG-13,116,30,30.0,True
+509,Dumb and Dumberer: When Harry Met Lloyd,2003,PG-13,85,10,26.1,True
+510,Rugrats Go Wild,2003,PG,80,41,39.4,True
+511,From Justin to Kelly,2003,PG,81,10,4.6,True
+512,Hulk,2003,PG-13,138,62,132.1,True
+513,Alex & Emma,2003,PG-13,96,11,14.1,True
+514,Charlie's Angels: Full Throttle,2003,PG-13,106,43,100.7,True
+515,"Legally Blonde 2: Red, White & Blonde",2003,PG-13,95,38,89.8,True
+516,Sinbad: Legend of the Seven Seas,2003,PG,86,46,26.3,True
+517,Terminator 3: Rise of the Machines,2003,R,109,70,150.3,True
+518,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,143,79,305.3,True
+519,The League of Extraordinary Gentlemen,2003,PG-13,110,17,66.3,True
+520,Johnny English,2003,PG,87,33,28.0,True
+521,How to Deal,2003,PG-13,101,28,14.1,True
+522,Bad Boys II,2003,R,147,23,138.4,True
+523,Lara Croft Tomb Raider: The Cradle of Life,2003,PG-13,117,24,65.7,True
+524,Seabiscuit,2003,PG-13,140,77,120.1,True
+525,Spy Kids 3-D: Game Over,2003,PG,84,45,111.7,True
+526,American Wedding,2003,R,96,55,104.4,True
+527,Northfork,2003,PG-13,103,56,1.3,True
+528,All the Real Girls,2003,R,108,71,0.1,True
+529,Freaky Friday,2003,PG,97,88,110.2,True
+530,Masked and Anonymous,2003,PG-13,112,24,0.1,True
+531,S.W.A.T.,2003,PG-13,117,48,116.6,True
+532,Uptown Girls,2003,PG-13,92,14,36.9,True
+533,Freddy vs. Jason,2003,R,97,40,82.2,True
+534,Open Range,2003,R,139,79,58.3,True
+535,Grind,2003,PG-13,105,8,5.1,True
+536,The Medallion,2003,PG-13,88,18,22.0,True
+537,Marci X,2003,R,84,9,1.5,True
+538,Camp,2003,PG-13,114,63,1.6,True
+539,Le divorce,2003,PG-13,117,37,8.9,True
+540,Step Into Liquid,2003,PG,88,82,3.6,True
+541,Jeepers Creepers II,2003,R,104,23,35.1,True
+542,The Order,2003,R,102,8,7.5,True
+543,Dickie Roberts: Former Child Star,2003,PG-13,98,23,22.7,True
+544,American Splendor,2003,R,101,94,6.0,True
+545,Matchstick Men,2003,PG-13,116,82,36.9,True
+546,Once Upon a Time in Mexico,2003,R,102,68,55.8,True
+547,Anything Else,2003,R,108,40,3.1,True
+548,Underworld,2003,R,121,31,51.5,True
+549,Thirteen,2003,R,100,81,4.5,True
+550,Cold Creek Manor,2003,R,118,12,21.3,True
+551,Secondhand Lions,2003,PG,109,59,41.4,True
+552,The Fighting Temptations,2003,PG-13,123,42,30.2,True
+553,Luther,2003,PG-13,123,44,5.7,True
+554,Under the Tuscan Sun,2003,PG-13,113,62,43.5,True
+555,The Rundown,2003,PG-13,104,71,47.6,True
+556,School of Rock,2003,PG-13,108,92,81.2,True
+557,Lost in Translation,2003,R,101,95,44.6,True
+558,House of the Dead,2003,R,90,4,10.2,True
+559,Good Boy!,2003,PG,87,45,37.6,True
+560,Intolerable Cruelty,2003,PG-13,100,75,35.1,True
+561,Mystic River,2003,R,138,87,90.1,True
+562,Party Monster,2003,R,98,29,0.3,True
+563,The Texas Chainsaw Massacre,2003,R,98,36,80.1,True
+564,Runaway Jury,2003,PG-13,127,72,49.2,True
+565,Scary Movie 3,2003,PG-13,84,36,109.8,True
+566,Wonderland,2003,R,104,34,1.0,True
+567,Beyond Borders,2003,R,127,14,4.4,True
+568,Radio,2003,PG,109,36,52.3,True
+569,In the Cut,2003,R,119,34,4.7,True
+570,Brother Bear,2003,G,85,38,85.1,True
+571,The Matrix Revolutions,2003,R,129,36,139.1,True
+572,Elf,2003,PG,97,84,173.4,True
+573,Master and Commander: The Far Side of the World,2003,PG-13,138,85,93.9,True
+574,Love Actually,2003,R,135,63,59.4,True
+575,The Singing Detective,2003,R,109,39,0.3,True
+576,Elephant,2003,R,81,72,1.2,True
+577,Looney Tunes: Back in Action,2003,PG,91,57,20.9,True
+578,Tupac: Resurrection,2003,R,112,78,7.6,True
+579,Dr. Seuss' The Cat in the Hat,2003,PG,82,10,100.4,True
+580,Gothika,2003,R,98,14,59.5,True
+581,The Missing,2003,R,137,58,26.8,True
+582,Timeline,2003,PG-13,116,12,19.4,True
+583,Shattered Glass,2003,PG-13,94,91,2.1,True
+584,The Haunted Mansion,2003,PG,88,13,75.8,True
+585,Pieces of April,2003,PG-13,80,84,2.4,True
+586,Honey,2003,PG-13,94,21,30.2,True
+587,Pride and Prejudice,2003,PG,104,66,0.0814,True
+588,The Last Samurai,2003,R,154,65,111.1,True
+589,Love Don't Cost a Thing,2003,PG-13,100,13,21.7,True
+590,Something's Gotta Give,2003,PG-13,128,71,124.6,True
+591,The Lord of the Rings: The Return of the King,2003,PG-13,201,95,377.0,True
+592,Mona Lisa Smile,2003,PG-13,117,35,63.7,True
+593,Paycheck,2003,PG-13,119,27,53.7,True
+594,Peter Pan,2003,PG,113,77,48.4,True
+595,Cheaper by the Dozen,2003,PG,98,24,138.5,True
+596,The Young Black Stallion,2003,G,45,45,6.1,True
+597,Calendar Girls,2003,PG-13,108,74,30.9,True
+598,Casa de los babys,2003,R,95,58,0.3,True
+599,Big Fish,2003,PG-13,125,77,66.3,True
+600,House of Sand and Fog,2003,R,126,75,12.9,True
+601,"The Book of Mormon Movie, Volume 1: The Journey",2003,PG-13,120,17,1.1,True
+602,21 Grams,2003,R,124,80,16.2,True
+603,The Cooler,2003,R,101,77,8.2,True
+604,Monster,2003,R,109,82,34.2,True
+605,Concert for George,2003,PG-13,146,94,0.07,True
+606,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,2003,PG-13,95,98,4.1,True
+607,Touching the Void,2003,R,106,93,4.5,True
+608,Billabong Odyssey,2003,PG,88,36,0.054000000000000006,True
+609,Easy,2003,R,99,59,0.0148,True
+610,Bukowski: Born into This,2003,R,130,83,0.0817,True
+611,I'll Sleep When I'm Dead,2003,R,103,43,0.2,True
+612,The Company,2003,R,112,71,2.2,True
+613,Where's the Party Yaar?,2003,PG-13,110,69,0.0488,True
+614,Coffee and Cigarettes,2003,R,95,65,2.0,True
+615,Latter Days,2003,R,107,43,0.6,True
+616,Open Water,2003,R,79,72,30.5,True
+617,I Am David,2003,PG,90,38,0.3,True
+618,The Yes Men,2003,R,83,84,0.2,True
+619,Baadasssss!,2003,R,109,91,0.3,True
+620,Saints and Soldiers,2003,PG-13,90,66,1.0,True
+621,The United States of Leland,2003,R,108,34,0.3,True
+622,The Wild Parrots of Telegraph Hill,2003,G,83,95,2.7,True
+623,Off the Map,2003,PG-13,105,70,1.3,True
+624,The Woodsman,2004,R,87,88,1.5,True
+625,Torque,2004,PG-13,84,23,21.1,True
+626,Along Came Polly,2004,PG-13,90,26,87.9,True
+627,Teacher's Pet,2004,PG,74,76,6.3,True
+628,Win a Date with Tad Hamilton!,2004,PG-13,95,53,16.9,True
+629,The Butterfly Effect,2004,R,113,33,57.7,True
+630,The Big Bounce,2004,PG-13,88,16,6.3,True
+631,The Perfect Score,2004,PG-13,93,17,10.3,True
+632,Catch That Kid,2004,PG,91,12,16.5,True
+633,Miracle,2004,PG,135,80,64.3,True
+634,Barbershop 2: Back in Business,2004,PG-13,106,68,65.0,True
+635,50 First Dates,2004,PG-13,99,44,120.8,True
+636,Highwaymen,2004,R,80,13,0.3,True
+637,Against the Ropes,2004,PG-13,111,12,5.7,True
+638,The Best Two Years,2004,PG,112,73,0.2,True
+639,Welcome to Mooseport,2004,PG-13,110,13,14.2,True
+640,Confessions of a Teenage Drama Queen,2004,PG,89,13,29.2,True
+641,The Passion of the Christ,2004,R,127,49,370.2,True
+642,Club Dread,2004,R,104,29,4.6,True
+643,Twisted,2004,R,97,1,25.0,True
+644,Stateside,2004,R,97,24,0.1,True
+645,Dirty Dancing: Havana Nights,2004,PG-13,86,22,14.1,True
+646,Starsky & Hutch,2004,PG-13,101,63,88.2,True
+647,Hidalgo,2004,PG-13,136,47,67.2,True
+648,Spartan,2004,R,106,64,4.3,True
+649,Agent Cody Banks 2: Destination London,2004,PG,100,13,23.2,True
+650,Secret Window,2004,PG-13,96,46,47.8,True
+651,NASCAR: The IMAX Experience,2004,PG,40,61,19.9,True
+652,Taking Lives,2004,R,103,22,32.6,True
+653,Eternal Sunshine of the Spotless Mind,2004,R,108,93,34.1,True
+654,Dawn of the Dead,2004,R,101,75,58.9,True
+655,Never Die Alone,2004,R,88,25,5.5,True
+656,Scooby-Doo 2: Monsters Unleashed,2004,PG,93,21,84.0,True
+657,Hellboy,2004,PG-13,122,81,59.0,True
+658,The Prince and Me,2004,PG,111,28,28.1,True
+659,Walking Tall,2004,PG-13,86,25,45.9,True
+660,Home on the Range,2004,PG,76,54,49.9,True
+661,Johnson Family Vacation,2004,PG-13,97,6,31.0,True
+662,The Girl Next Door,2004,R,108,55,14.5,True
+663,The Whole Ten Yards,2004,PG-13,98,4,16.2,True
+664,Ella Enchanted,2004,PG,96,50,22.8,True
+665,Connie and Carla,2004,PG-13,98,44,8.0,True
+666,The Punisher,2004,R,124,29,33.7,True
+667,Clifford's Really Big Movie,2004,G,73,53,2.8,True
+668,Man on Fire,2004,R,146,39,77.7,True
+669,13 Going on 30,2004,PG-13,98,64,56.0,True
+670,Envy,2004,PG-13,99,7,12.2,True
+671,Bobby Jones: Stroke of Genius,2004,PG,120,26,2.5,True
+672,Godsend,2004,PG-13,102,4,14.3,True
+673,Mean Girls,2004,PG-13,97,83,86.0,True
+674,New York Minute,2004,PG,91,11,14.0,True
+675,Troy,2004,R,163,54,133.1,True
+676,Breakin' All the Rules,2004,PG-13,85,31,11.8,True
+677,Shrek 2,2004,PG,93,88,436.5,True
+678,A Day Without a Mexican,2004,R,100,27,4.0,True
+679,Raising Helen,2004,PG-13,119,23,37.4,True
+680,The Day After Tomorrow,2004,PG-13,124,45,186.6,True
+681,Soul Plane,2004,R,86,18,13.9,True
+682,Harry Potter and the Prisoner of Azkaban,2004,PG,142,91,249.4,True
+683,Garfield,2004,PG,80,15,75.3,True
+684,Saved!,2004,PG-13,92,61,8.8,True
+685,The Chronicles of Riddick,2004,PG-13,119,29,56.8,True
+686,The Stepford Wives,2004,PG-13,93,26,59.3,True
+687,Around the World in 80 Days,2004,PG,120,31,23.9,True
+688,Dodgeball: A True Underdog Story,2004,PG-13,92,70,114.2,True
+689,The Terminal,2004,PG-13,128,61,77.0,True
+690,White Chicks,2004,PG-13,109,15,69.1,True
+691,Fahrenheit 9/11,2004,R,122,83,119.1,True
+692,Spider-Man 2,2004,PG-13,127,94,373.4,True
+693,King Arthur,2004,R,126,31,51.7,True
+694,Sleepover,2004,PG,89,15,8.1,True
+695,Anchorman: The Legend of Ron Burgundy,2004,PG-13,94,66,84.1,True
+696,A Cinderella Story,2004,PG,95,11,51.4,True
+697,The Clearing,2004,R,95,43,5.6,True
+698,The Bourne Supremacy,2004,PG-13,108,81,176.0,True
+699,Catwoman,2004,PG-13,104,9,40.2,True
+700,She Hate Me,2004,R,138,19,0.0814,True
+701,Thunderbirds,2004,PG,95,19,6.8,True
+702,The Manchurian Candidate,2004,R,129,81,65.7,True
+703,The Village,2004,PG-13,108,43,114.2,True
+704,Harold & Kumar Go to White Castle,2004,R,88,74,18.2,True
+705,Before Sunset,2004,R,80,95,5.6,True
+706,Lightning in a Bottle,2004,PG-13,103,87,0.078,True
+707,De-Lovely,2004,PG-13,125,48,13.1,True
+708,The Door in the Floor,2004,R,111,67,3.6,True
+709,Maria Full of Grace,2004,R,101,97,6.5,True
+710,Little Black Book,2004,PG-13,111,21,20.4,True
+711,Collateral,2004,R,120,86,100.0,True
+712,The Princess Diaries 2: Royal Engagement,2004,G,113,25,95.1,True
+713,Yu-Gi-Oh!: The Movie,2004,PG,89,5,19.7,True
+714,Riding Giants,2004,PG-13,105,93,2.1,True
+715,AVP: Alien vs. Predator,2004,PG-13,101,21,80.2,True
+716,Without a Paddle,2004,PG-13,95,14,58.2,True
+717,Garden State,2004,R,102,86,26.7,True
+718,Benji: Off the Leash!,2004,PG,97,33,3.6,True
+719,Exorcist: The Beginning,2004,R,114,11,41.8,True
+720,Napoleon Dynamite,2004,PG,96,71,44.5,True
+721,Suspect Zero,2004,R,99,18,8.6,True
+722,Anacondas: The Hunt for the Blood Orchid,2004,PG-13,97,26,31.5,True
+723,Superbabies: Baby Geniuses 2,2004,PG,88,0,9.0,True
+724,Vanity Fair,2004,PG-13,141,51,16.1,True
+725,Paparazzi,2004,PG-13,84,18,15.6,True
+726,Wicker Park,2004,PG-13,114,25,12.8,True
+727,The Cookout,2004,PG-13,97,5,11.5,True
+728,We Don't Live Here Anymore,2004,R,101,65,1.9,True
+729,Gunner Palace,2004,PG-13,85,85,0.0635,True
+730,Cellular,2004,PG-13,94,55,32.0,True
+731,Resident Evil: Apocalypse,2004,R,94,21,50.7,True
+732,Mr 3000,2004,PG-13,104,54,21.8,True
+733,Wimbledon,2004,PG-13,98,60,16.8,True
+734,Sky Captain and the World of Tomorrow,2004,PG,106,72,37.6,True
+735,First Daughter,2004,PG,106,8,9.0,True
+736,The Forgotten,2004,PG-13,91,31,66.6,True
+737,Shaun of the Dead,2004,R,99,92,13.5,True
+738,Criminal,2004,R,87,69,0.7,True
+739,Mean Creek,2004,R,90,90,0.3,True
+740,Shark Tale,2004,PG,90,35,160.8,True
+741,Going Upriver: The Long War of John Kerry,2004,PG-13,87,89,0.5,True
+742,Taxi,2004,PG-13,97,10,36.5,True
+743,Friday Night Lights,2004,PG-13,118,81,60.6,True
+744,Raise Your Voice,2004,PG,103,15,10.4,True
+745,A Home at the End of the World,2004,R,97,49,0.9,True
+746,Shall We Dance,2004,PG-13,106,46,57.8,True
+747,Team America: World Police,2004,R,98,77,32.7,True
+748,The Motorcycle Diaries,2004,R,126,84,16.7,True
+749,Hair Show,2004,PG-13,105,17,0.2,True
+750,The Final Cut,2004,PG-13,95,37,0.5,True
+751,Surviving Christmas,2004,PG-13,91,7,11.2,True
+752,Woman Thou Art Loosed,2004,R,94,50,6.8,True
+753,The Assassination of Richard Nixon,2004,R,95,68,0.6,True
+754,I Heart Huckabees,2004,R,107,62,12.7,True
+755,The Grudge,2004,PG-13,92,39,110.2,True
+756,Birth,2004,R,100,38,5.0,True
+757,Thérèse: The Story of Saint Thérèse of Lisieux,2004,PG,96,11,0.6,True
+758,Saw,2004,R,103,48,0.7,True
+759,Ray,2004,PG-13,152,81,75.2,True
+760,Alfie,2004,R,103,49,13.4,True
+761,The Last Shot,2004,R,93,61,0.4,True
+762,Fade to Black,2004,R,109,58,1.0,True
+763,The Polar Express,2004,G,100,55,0.5,True
+764,Seed of Chucky,2004,R,87,32,17.0,True
+765,After the Sunset,2004,PG-13,97,18,28.3,True
+766,The SpongeBob SquarePants Movie,2004,PG,87,68,85.4,True
+767,Bridget Jones: The Edge of Reason,2004,R,108,27,40.2,True
+768,National Treasure,2004,PG,131,44,173.0,True
+769,Alexander,2004,R,175,16,34.3,True
+770,Christmas with the Kranks,2004,PG,99,5,73.7,True
+771,Eros,2004,R,104,34,0.0537,True
+772,The Machinist,2004,R,101,77,0.9,True
+773,Blade: Trinity,2004,R,113,26,52.4,True
+774,Ocean's Twelve,2004,PG-13,125,55,125.4,True
+775,Closer,2004,R,104,68,34.0,True
+776,Spanglish,2004,PG-13,131,53,42.0,True
+777,Flight of the Phoenix,2004,PG-13,113,30,20.9,True
+778,Lemony Snicket's A Series of Unfortunate Events,2004,PG,108,72,118.5,True
+779,Meet the Fockers,2004,PG-13,115,38,279.2,True
+780,The Phantom of the Opera,2004,PG-13,143,32,51.2,True
+781,Fat Albert,2004,PG,93,25,48.0,True
+782,The Aviator,2004,PG-13,170,87,102.6,True
+783,Beyond the Sea,2004,PG-13,118,42,6.1,True
+784,Kinsey,2004,R,118,90,10.2,True
+785,Duck Season,2004,R,90,90,0.1,True
+786,A Very Long Engagement,2004,R,133,78,6.2,True
+787,In Good Company,2004,PG-13,109,83,45.5,True
+788,Around the Bend,2004,R,85,28,0.1,True
+789,Sideways,2004,R,126,96,71.4,True
+790,A Love Song for Bobby Long,2004,R,119,43,0.1,True
+791,The Work and the Glory,2004,PG,118,17,3.0,True
+792,Million Dollar Baby,2004,PG-13,132,91,100.4,True
+793,Riding the Bullet,2004,R,98,27,0.1,True
+794,Hotel Rwanda,2004,PG-13,121,90,23.5,True
+795,P.S.,2004,R,97,55,0.1,True
+796,Being Julia,2004,R,104,76,7.7,True
+797,The Merchant of Venice,2004,R,138,72,3.8,True
+798,Eulogy,2004,R,91,32,0.0418,True
+799,Born Into Brothels: Calcutta's Red Light Kids,2004,R,85,96,3.4,True
+800,Bride & Prejudice,2004,PG-13,122,64,6.5,True
+801,Melinda and Melinda,2004,PG-13,99,53,3.7,True
+802,House of D,2004,PG-13,97,10,0.4,True
+803,Jiminy Glick in Lalawood,2004,R,90,22,0.0257,True
+804,Crash,2004,R,112,75,55.4,True
+805,A Good Woman,2004,PG,93,37,0.0971,True
+806,Primer,2004,PG-13,77,72,0.4,True
+807,Saving Face,2004,R,91,87,1.0,True
+808,Yes,2004,R,100,52,0.2,True
+809,My Date with Drew,2004,PG,90,71,0.0852,True
+810,Innocent Voices,2004,R,120,71,0.2,True
+811,Winter Solstice,2004,R,90,60,0.2,True
+812,Paper Clips,2004,G,82,72,1.0,True
+813,Haven,2004,R,115,13,0.1,True
+814,Romance & Cigarettes,2005,R,105,54,0.4,True
+815,The Dying Gaul,2005,R,101,49,0.3,True
+816,The Salon,2005,PG-13,90,12,0.0924,True
+817,Why We Fight,2005,PG-13,98,78,1.9,True
+818,White Noise,2005,PG-13,101,8,55.9,True
+819,Elektra,2005,PG-13,97,10,24.3,True
+820,Racing Stripes,2005,PG,102,35,49.2,True
+821,Coach Carter,2005,PG-13,136,65,67.2,True
+822,Assault on Precinct 13,2005,R,109,60,20.0,True
+823,Are We There Yet?,2005,PG,95,11,82.3,True
+824,Hide and Seek,2005,R,101,13,51.0,True
+825,Alone in the Dark,2005,R,96,1,5.1,True
+826,Boogeyman,2005,PG-13,89,13,46.4,True
+827,The Wedding Date,2005,PG-13,90,10,32.0,True
+828,Hitch,2005,PG-13,118,69,177.6,True
+829,Pooh's Heffalump Movie,2005,G,68,79,18.0,True
+830,Constellation,2005,PG-13,96,0,0.2,True
+831,Constantine,2005,R,121,46,75.5,True
+832,Because of Winn-Dixie,2005,PG,106,54,32.6,True
+833,Son of the Mask,2005,PG,94,6,17.0,True
+834,Diary of a Mad Black Woman,2005,PG-13,116,16,50.4,True
+835,Man of the House,2005,PG-13,100,9,19.1,True
+836,The Jacket,2005,R,103,44,6.3,True
+837,The Pacifier,2005,PG,95,20,113.0,True
+838,Be Cool,2005,PG-13,118,30,55.6,True
+839,Hostage,2005,R,113,35,34.6,True
+840,Robots,2005,PG,91,64,128.1,True
+841,The Ring Two,2005,PG-13,110,20,75.9,True
+842,Ice Princess,2005,G,98,52,24.4,True
+843,Miss Congeniality 2: Armed and Fabulous,2005,PG-13,115,15,48.4,True
+844,Guess Who,2005,PG-13,105,43,68.0,True
+845,Beauty Shop,2005,PG-13,105,37,36.3,True
+846,The Upside of Anger,2005,R,118,74,18.7,True
+847,The Ballad of Jack and Rose,2005,R,112,47,0.6,True
+848,Fever Pitch,2005,PG-13,104,65,42.0,True
+849,Sahara,2005,PG-13,124,39,68.6,True
+850,State Property 2,2005,R,94,14,1.7,True
+851,Down and Derby,2005,PG,90,22,0.0439,True
+852,The Amityville Horror,2005,R,90,23,64.3,True
+853,The Great New Wonderful,2005,R,87,73,0.0397,True
+854,The Interpreter,2005,PG-13,128,56,72.5,True
+855,A Lot Like Love,2005,PG-13,107,41,21.8,True
+856,Dust to Glory,2005,PG,97,60,0.6,True
+857,The Game of Their Lives,2005,PG,101,26,0.4,True
+858,King's Ransom,2005,PG-13,95,2,4.0,True
+859,Madison,2005,PG,99,29,0.5,True
+860,Factotum,2005,R,94,76,0.6,True
+861,xXx: State of the Union,2005,PG-13,101,16,26.1,True
+862,House of Wax,2005,R,113,25,32.0,True
+863,Kingdom of Heaven,2005,R,144,39,47.3,True
+864,Last Days,2005,R,97,57,0.4,True
+865,Monster-in-Law,2005,PG-13,101,16,82.8,True
+866,Unleashed,2005,R,103,65,24.4,True
+867,Kicking & Screaming,2005,PG,95,41,52.6,True
+868,Star Wars: Episode III - Revenge of the Sith,2005,PG-13,140,80,380.2,True
+869,Dominion: Prequel to the Exorcist,2005,R,117,30,0.2,True
+870,The Longest Yard,2005,PG-13,113,31,158.0,True
+871,Madagascar,2005,PG,86,55,193.1,True
+872,Duma,2005,PG,100,93,0.8,True
+873,The Sisterhood of the Traveling Pants,2005,PG,119,77,43.5,True
+874,Cinderella Man,2005,PG-13,144,80,61.6,True
+875,Lords of Dogtown,2005,PG-13,107,55,11.0,True
+876,Mr. & Mrs. Smith,2005,PG-13,120,59,186.1,True
+877,The Honeymooners,2005,PG-13,90,14,12.8,True
+878,Batman Begins,2005,PG-13,140,85,205.2,True
+879,The Perfect Man,2005,PG,100,6,16.2,True
+880,Herbie Fully Loaded,2005,G,101,41,65.9,True
+881,Bewitched,2005,PG-13,102,25,62.3,True
+882,Land of the Dead,2005,R,93,74,20.4,True
+883,Rize,2005,PG-13,86,83,3.3,True
+884,War of the Worlds,2005,PG-13,116,74,234.1,True
+885,Mad Hot Ballroom,2005,PG,105,84,7.9,True
+886,Rebound,2005,PG,103,13,16.7,True
+887,Dark Water,2005,PG-13,105,46,25.4,True
+888,Fantastic Four,2005,PG-13,106,26,154.5,True
+889,Heights,2005,R,93,64,1.0,True
+890,Charlie and the Chocolate Factory,2005,PG,115,83,206.4,True
+891,Wedding Crashers,2005,R,119,75,209.2,True
+892,March of the Penguins,2005,G,80,94,77.4,True
+893,The Island,2005,PG-13,136,40,35.8,True
+894,Hustle & Flow,2005,R,116,82,22.1,True
+895,The Devil's Rejects,2005,R,107,53,16.9,True
+896,Stealth,2005,PG-13,121,13,31.7,True
+897,Sky High,2005,PG,100,73,63.9,True
+898,Must Love Dogs,2005,PG-13,98,35,43.8,True
+899,Happy Endings,2005,R,128,54,1.2,True
+900,The Wendell Baker Story,2005,PG-13,99,40,0.0481,True
+901,The Dukes of Hazzard,2005,PG-13,104,13,80.2,True
+902,Murderball,2005,R,88,98,1.3,True
+903,Me and You and Everyone We Know,2005,R,91,81,3.7,True
+904,Deuce Bigalow: European Gigolo,2005,R,83,9,22.3,True
+905,The Skeleton Key,2005,PG-13,104,38,47.7,True
+906,The Great Raid,2005,R,132,37,10.1,True
+907,Supercross,2005,PG-13,80,6,3.0,True
+908,Valiant,2005,G,76,31,19.4,True
+909,The 40-Year-Old Virgin,2005,R,116,85,109.2,True
+910,Red Eye,2005,PG-13,85,79,57.9,True
+911,Don't Come Knocking,2005,R,122,42,0.3,True
+912,Aliens of the Deep,2005,G,100,84,8.3,True
+913,Broken Flowers,2005,R,106,88,13.6,True
+914,The Cave,2005,PG-13,97,11,14.9,True
+915,Undiscovered,2005,PG-13,97,8,1.0,True
+916,The Constant Gardener,2005,R,129,84,33.6,True
+917,Grizzly Man,2005,R,103,93,2.9,True
+918,A Sound of Thunder,2005,PG-13,101,6,1.7,True
+919,Underclassman,2005,PG-13,95,6,5.6,True
+920,Nine Lives,2005,R,115,75,0.1,True
+921,Mobsters and Mormons,2005,PG,90,75,0.0679,True
+922,The Man,2005,PG-13,83,11,8.3,True
+923,Green Street Hooligans,2005,R,109,47,0.1,True
+924,Lord of War,2005,R,122,61,24.0,True
+925,An Unfinished Life,2005,PG-13,108,53,8.5,True
+926,Cry_Wolf,2005,PG-13,90,22,10.0,True
+927,Just Like Heaven,2005,PG-13,95,56,48.3,True
+928,Venom,2005,R,85,11,0.8,True
+929,Junebug,2005,R,106,86,2.4,True
+930,Corpse Bride,2005,PG,77,83,53.3,True
+931,Flightplan,2005,PG-13,98,38,89.6,True
+932,The Thing About My Folks,2005,PG-13,96,45,0.7,True
+933,A History of Violence,2005,R,96,87,31.4,True
+934,Serenity,2005,PG-13,119,82,25.3,True
+935,Into the Blue,2005,PG-13,110,21,18.5,True
+936,The Greatest Game Ever Played,2005,PG,120,63,15.3,True
+937,In Her Shoes,2005,PG-13,130,75,32.8,True
+938,Thumbsucker,2005,R,96,71,1.1,True
+939,Two for the Money,2005,R,122,22,22.9,True
+940,Waiting...,2005,R,94,31,16.1,True
+941,The Gospel,2005,PG,105,32,15.8,True
+942,Proof,2005,PG-13,100,62,7.5,True
+943,The Curse of the Were-Rabbit,2005,G,85,95,56.1,True
+944,Elizabethtown,2005,PG-13,123,28,26.8,True
+945,The Fog,2005,PG-13,100,4,29.5,True
+946,Everything Is Illuminated,2005,PG-13,106,66,1.6,True
+947,Stay,2005,R,99,27,3.3,True
+948,North Country,2005,R,126,68,18.3,True
+949,The Work and the Glory II: American Zion,2005,PG-13,100,45,1.9,True
+950,Doom,2005,R,105,19,28.0,True
+951,El vacilón: The Movie,2005,R,90,0,1.7,True
+952,Dreamer: Inspired by a True Story,2005,PG,106,64,33.0,True
+953,Prime,2005,PG-13,105,50,22.7,True
+954,The Weather Man,2005,R,102,58,12.5,True
+955,Saw II,2005,R,93,36,87.0,True
+956,The Legend of Zorro,2005,PG,129,26,45.4,True
+957,Shopgirl,2005,R,106,61,10.1,True
+958,Jarhead,2005,R,125,61,62.6,True
+959,Chicken Little,2005,G,81,36,135.3,True
+960,"Good Night, and Good Luck.",2005,PG,93,93,31.5,True
+961,Get Rich or Die Tryin',2005,R,117,16,30.9,True
+962,Zathura: A Space Adventure,2005,PG,101,75,28.0,True
+963,Derailed,2005,R,108,20,35.9,True
+964,Harry Potter and the Goblet of Fire,2005,PG-13,157,88,290.0,True
+965,Kiss Kiss Bang Bang,2005,R,103,85,4.2,True
+966,Walk the Line,2005,PG-13,136,82,119.3,True
+967,In the Mix,2005,PG-13,95,14,10.1,True
+968,"Yours, Mine & Ours",2005,PG,90,6,53.4,True
+969,Rent,2005,PG-13,135,46,29.1,True
+970,Pride & Prejudice,2005,PG,129,85,38.3,True
+971,Just Friends,2005,PG-13,96,41,32.6,True
+972,Bee Season,2005,PG-13,104,43,1.1,True
+973,First Descent,2005,PG-13,110,52,0.7,True
+974,Æon Flux,2005,PG-13,93,10,25.9,True
+975,Down in the Valley,2005,R,114,52,0.4,True
+976,Syriana,2005,R,128,72,50.8,True
+977,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,PG,143,76,291.7,True
+978,King Kong,2005,PG-13,187,84,218.1,True
+979,The Family Stone,2005,PG-13,103,51,59.9,True
+980,The Squid and the Whale,2005,R,81,93,7.1,True
+981,Fun with Dick and Jane,2005,PG-13,90,29,110.3,True
+982,Cheaper by the Dozen 2,2005,PG,94,6,82.5,True
+983,The Ringer,2005,PG-13,94,40,35.0,True
+984,Memoirs of a Geisha,2005,PG-13,145,35,57.0,True
+985,The Producers,2005,PG-13,134,51,19.2,True
+986,Rumor Has It...,2005,PG-13,97,20,42.7,True
+987,Little Manhattan,2005,PG,90,77,0.4,True
+988,BloodRayne,2005,R,95,4,1.6,True
+989,Casanova,2005,R,112,44,11.2,True
+990,Hostel,2005,R,94,61,47.3,True
+991,Munich,2005,R,164,78,47.4,True
+992,Marilyn Hotchkiss' Ballroom Dancing & Charm School,2005,PG-13,103,22,0.2,True
+993,Hoodwinked!,2005,PG,80,46,50.8,True
+994,Brokeback Mountain,2005,R,134,87,83.0,True
+995,End of the Spear,2005,PG-13,108,40,11.7,True
+996,Match Point,2005,R,124,76,23.1,True
+997,The New World,2005,PG-13,135,62,12.5,True
+998,Looking for Comedy in the Muslim World,2005,PG-13,98,42,0.8,True
+999,Nanny McPhee,2005,PG,97,73,47.1,True
+1000,The Matador,2005,R,96,74,12.4,True
+1001,Capote,2005,R,114,90,28.3,True
+1002,Mrs Henderson Presents,2005,R,103,67,11.0,True
+1003,The Three Burials of Melquiades Estrada,2005,R,121,85,4.9,True
+1004,Transamerica,2005,R,103,76,8.7,True
+1005,Block Party,2005,R,103,92,11.7,True
+1006,Mirrormask,2005,PG,101,54,0.8,True
+1007,V for Vendetta,2005,R,132,73,70.5,True
+1008,The World's Fastest Indian,2005,PG-13,127,82,5.0,True
+1009,The White Countess,2005,PG-13,135,50,1.6,True
+1010,Wassup Rockers,2005,R,111,36,0.1,True
+1011,When Do We Eat?,2005,R,86,42,0.4,True
+1012,Brick,2005,R,110,80,2.0,True
+1013,Preaching to the Choir,2005,PG-13,103,36,0.3,True
+1014,Thank You for Smoking,2005,R,92,86,24.6,True
+1015,La mujer de mi hermano,2005,R,89,20,2.8,True
+1016,Hard Candy,2005,R,104,68,1.0,True
+1017,The Promise,2005,PG-13,121,31,0.6,True
+1018,The Notorious Bettie Page,2005,R,91,56,1.4,True
+1019,An American Haunting,2005,PG-13,83,12,16.2,True
+1020,Goal! The Dream Begins,2005,PG-13,118,44,4.2,True
+1021,Pretty Persuasion,2005,R,104,32,0.0586,True
+1022,The Lost City,2005,R,144,25,2.4,True
+1023,Kinky Boots,2005,PG-13,107,57,1.7,True
+1024,The Heart of the Game,2005,PG-13,97,86,0.4,True
+1025,Shadowboxer,2005,R,93,18,0.3,True
+1026,Strangers with Candy,2005,R,97,52,1.9,True
+1027,Leonard Cohen: I'm Your Man,2005,PG-13,105,69,0.8,True
+1028,Boynton Beach Club,2005,R,105,60,3.0,True
+1029,The Quiet,2005,R,96,21,0.3,True
+1030,Trust the Man,2005,R,103,27,1.5,True
+1031,Lassie,2005,PG,100,93,0.5,True
+1032,The Protector,2005,R,81,54,11.9,True
+1033,Harsh Times,2005,R,116,48,3.3,True
+1034,Slow Burn,2005,R,93,12,1.2,True
+1035,Adam & Steve,2005,R,99,55,0.2,True
+1036,"The Prize Winner of Defiance, Ohio",2005,PG-13,99,57,0.4,True
+1037,How the Garcia Girls Spent Their Summer,2005,R,128,79,0.0914,True
+1038,Sweet Land,2005,PG,110,85,1.3,True
+1039,Love's Abiding Joy,2006,PG,87,13,0.2,True
+1040,Grandma's Boy,2006,R,94,18,5.9,True
+1041,Last Holiday,2006,PG-13,112,55,38.4,True
+1042,Tristan + Isolde,2006,PG-13,125,32,14.6,True
+1043,Underworld: Evolution,2006,R,106,16,62.3,True
+1044,Big Momma's House 2,2006,PG-13,99,6,70.1,True
+1045,Roving Mars,2006,G,40,70,10.0,True
+1046,Annapolis,2006,PG-13,108,10,16.8,True
+1047,Something New,2006,PG-13,99,61,11.4,True
+1048,When a Stranger Calls,2006,PG-13,87,9,47.9,True
+1049,Believe in Me,2006,PG,131,60,0.2,True
+1050,Final Destination 3,2006,R,93,43,54.1,True
+1051,Curious George,2006,G,86,69,58.3,True
+1052,The Pink Panther,2006,PG,93,22,82.2,True
+1053,Firewall,2006,PG-13,105,19,48.7,True
+1054,Freedomland,2006,R,113,23,12.3,True
+1055,Eight Below,2006,PG,120,72,81.6,True
+1056,The Second Chance,2006,PG-13,102,40,0.4,True
+1057,Date Movie,2006,PG-13,83,7,48.5,True
+1058,Madea's Family Reunion,2006,PG-13,107,25,63.2,True
+1059,Running Scared,2006,R,122,40,6.7,True
+1060,Doogal,2006,G,78,8,7.3,True
+1061,Deep Sea,2006,G,41,91,42.0,True
+1062,Aquamarine,2006,PG,104,51,18.6,True
+1063,Ultraviolet,2006,PG-13,88,9,18.3,True
+1064,16 Blocks,2006,PG-13,105,55,36.9,True
+1065,Failure to Launch,2006,PG-13,97,24,88.7,True
+1066,The Shaggy Dog,2006,PG,98,26,61.0,True
+1067,The Hills Have Eyes,2006,R,107,49,41.7,True
+1068,Don't Trip... He Ain't Through with Me Yet,2006,PG,90,45,0.2,True
+1069,Church Ball,2006,PG,91,18,0.3,True
+1070,Find Me Guilty,2006,R,125,61,0.6,True
+1071,Inside Man,2006,R,129,86,88.4,True
+1072,Larry the Cable Guy: Health Inspector,2006,PG-13,89,5,15.7,True
+1073,Stay Alive,2006,PG-13,85,9,23.0,True
+1074,Slither,2006,R,95,86,7.8,True
+1075,ATL,2006,PG-13,105,62,21.2,True
+1076,Basic Instinct 2,2006,R,114,7,5.9,True
+1077,Ice Age: The Meltdown,2006,PG,91,57,195.3,True
+1078,The Benchwarmers,2006,PG-13,80,11,57.7,True
+1079,Phat Girlz,2006,PG-13,99,23,6.9,True
+1080,Take the Lead,2006,PG-13,118,44,34.7,True
+1081,Ask the Dust,2006,R,117,35,0.6,True
+1082,Scary Movie 4,2006,PG-13,83,37,90.7,True
+1083,The Wild,2006,G,94,20,37.3,True
+1084,The Sentinel,2006,PG-13,108,33,36.2,True
+1085,American Dreamz,2006,PG-13,107,41,7.2,True
+1086,Journey from the Fall,2006,R,135,92,0.5,True
+1087,Silent Hill,2006,R,125,29,47.0,True
+1088,Akeelah and the Bee,2006,PG,112,84,18.8,True
+1089,Stick It,2006,PG-13,103,31,26.9,True
+1090,The TV Set,2006,R,88,64,0.0345,True
+1091,United 93,2006,R,111,91,31.5,True
+1092,RV,2006,PG,99,23,71.4,True
+1093,Hoot,2006,PG,91,26,8.1,True
+1094,Mission: Impossible III,2006,PG-13,126,70,133.4,True
+1095,Art School Confidential,2006,R,102,36,3.2,True
+1096,Just My Luck,2006,PG-13,103,13,17.2,True
+1097,Poseidon,2006,PG-13,98,33,60.7,True
+1098,See No Evil,2006,R,84,8,15.0,True
+1099,Over the Hedge,2006,PG,83,75,155.0,True
+1100,The Da Vinci Code,2006,PG-13,149,25,217.5,True
+1101,X-Men: The Last Stand,2006,PG-13,104,58,234.2,True
+1102,The Break-Up,2006,PG-13,106,33,118.7,True
+1103,Keeping Up with the Steins,2006,PG-13,90,37,4.3,True
+1104,The Omen,2006,R,110,27,54.6,True
+1105,A Prairie Home Companion,2006,PG-13,105,81,20.2,True
+1106,Cars,2006,G,117,74,244.1,True
+1107,Garfield 2,2006,PG,78,11,28.3,True
+1108,The Fast and the Furious: Tokyo Drift,2006,PG-13,104,37,62.5,True
+1109,The Lake House,2006,PG,99,35,52.3,True
+1110,Nacho Libre,2006,PG,92,40,80.2,True
+1111,Click,2006,PG-13,107,32,137.3,True
+1112,Peaceful Warrior,2006,PG-13,120,25,1.0,True
+1113,Romeo & Juliet: Sealed with a Kiss,2006,G,76,20,0.0809,True
+1114,Waist Deep,2006,R,97,27,21.3,True
+1115,Superman Returns,2006,PG-13,154,76,200.0,True
+1116,The Devil Wears Prada,2006,PG-13,109,75,124.7,True
+1117,An Inconvenient Truth,2006,PG,100,93,23.7,True
+1118,Quinceañera,2006,R,90,86,1.5,True
+1119,Pirates of the Caribbean: Dead Man's Chest,2006,PG-13,151,54,423.0,True
+1120,"You, Me and Dupree",2006,PG-13,108,21,75.6,True
+1121,Littleman,2006,PG-13,98,12,58.3,True
+1122,The Celestine Prophecy,2006,PG,99,4,1.0,True
+1123,Monster House,2006,PG,91,74,73.7,True
+1124,Lady in the Water,2006,PG-13,110,24,42.2,True
+1125,Wordplay,2006,PG,94,95,2.9,True
+1126,Clerks II,2006,R,97,63,24.0,True
+1127,My Super Ex-Girlfriend,2006,PG-13,95,40,22.4,True
+1128,Miami Vice,2006,R,134,47,63.4,True
+1129,John Tucker Must Die,2006,PG-13,89,26,40.9,True
+1130,Scoop,2006,PG-13,96,39,10.5,True
+1131,The Ant Bully,2006,PG,88,63,28.1,True
+1132,A Scanner Darkly,2006,R,100,69,5.3,True
+1133,Barnyard,2006,PG,90,22,72.6,True
+1134,Talladega Nights: The Ballad of Ricky Bobby,2006,PG-13,108,72,148.2,True
+1135,Who Killed the Electric Car?,2006,PG,92,88,1.3,True
+1136,The Night Listener,2006,R,91,40,7.8,True
+1137,World Trade Center,2006,PG-13,129,68,70.2,True
+1138,The Butterfly Effect 2,2006,R,92,0,57.0,True
+1139,Pulse,2006,PG-13,90,10,20.2,True
+1140,Step Up,2006,PG-13,104,19,65.3,True
+1141,Zoom,2006,PG,83,3,11.6,True
+1142,Snakes on a Plane,2006,R,105,68,33.9,True
+1143,Accepted,2006,PG-13,93,36,36.3,True
+1144,Little Miss Sunshine,2006,R,101,91,59.8,True
+1145,Material Girls,2006,PG,97,4,11.3,True
+1146,Invincible,2006,PG,105,71,57.8,True
+1147,How to Eat Fried Worms,2006,PG,98,59,13.0,True
+1148,Idlewild,2006,R,121,48,12.5,True
+1149,Beerfest,2006,R,110,41,19.0,True
+1150,Crank,2006,R,88,61,27.8,True
+1151,Crossover,2006,PG-13,95,2,7.0,True
+1152,The Illusionist,2006,PG-13,110,74,39.7,True
+1153,The Covenant,2006,PG-13,97,3,23.3,True
+1154,Hollywoodland,2006,R,126,69,14.3,True
+1155,Broken Bridges,2006,PG-13,105,5,0.2,True
+1156,Everyone's Hero,2006,G,88,41,14.5,True
+1157,The Last Kiss,2006,R,104,46,11.5,True
+1158,Beer League,2006,R,86,27,0.5,True
+1159,Gridiron Gang,2006,PG-13,125,42,38.4,True
+1160,The Black Dahlia,2006,R,121,32,22.5,True
+1161,Flyboys,2006,PG-13,140,33,13.0,True
+1162,Jackass Number Two,2006,R,92,63,72.8,True
+1163,Half Nelson,2006,R,106,90,2.6,True
+1164,Open Season,2006,PG,83,48,84.3,True
+1165,School for Scoundrels,2006,PG-13,100,25,17.8,True
+1166,Facing the Giants,2006,PG,111,13,10.1,True
+1167,The Guardian,2006,PG-13,139,37,55.0,True
+1168,The Texas Chainsaw Massacre: The Beginning,2006,R,91,12,39.4,True
+1169,The Departed,2006,R,151,91,132.3,True
+1170,Employee of the Month,2006,PG-13,103,20,28.4,True
+1171,Infamous,2006,R,110,73,1.1,True
+1172,The Grudge 2,2006,PG-13,102,10,39.1,True
+1173,One Night with the King,2006,PG,123,19,13.4,True
+1174,A Guide to Recognizing Your Saints,2006,R,100,76,0.4,True
+1175,Alex Rider: Operation Stormbreaker,2006,PG,93,34,0.6,True
+1176,Man of the Year,2006,PG-13,115,21,37.4,True
+1177,The Marine,2006,PG-13,92,20,18.7,True
+1178,O Jerusalem,2006,R,100,35,0.2,True
+1179,Fur: An Imaginary Portrait of Diane Arbus,2006,R,122,32,0.1,True
+1180,Flags of Our Fathers,2006,R,135,73,33.6,True
+1181,Marie Antoinette,2006,PG-13,123,55,16.0,True
+1182,The Prestige,2006,PG-13,130,76,53.0,True
+1183,Flicka,2006,PG,95,54,20.9,True
+1184,Lonely Hearts,2006,R,108,48,0.1,True
+1185,Running with Scissors,2006,R,116,31,6.8,True
+1186,Saw III,2006,R,108,28,80.2,True
+1187,Conversations with God,2006,PG,109,7,0.3,True
+1188,Catch a Fire,2006,PG-13,101,76,4.3,True
+1189,Little Children,2006,R,136,80,5.3,True
+1190,The Santa Clause 3: The Escape Clause,2006,G,97,15,84.4,True
+1191,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,R,84,91,128.4,True
+1192,Flushed Away,2006,PG,85,72,64.5,True
+1193,Babel,2006,R,143,69,34.2,True
+1194,Breaking and Entering,2006,R,120,34,0.9,True
+1195,The Return,2006,PG-13,85,16,7.7,True
+1196,A Good Year,2006,PG-13,117,25,7.4,True
+1197,Goya's Ghosts,2006,R,113,30,0.7,True
+1198,Stranger Than Fiction,2006,PG-13,113,72,40.1,True
+1199,The Queen,2006,PG-13,103,97,56.2,True
+1200,Happy Feet,2006,PG,108,75,197.9,True
+1201,Fast Food Nation,2006,R,116,50,0.9,True
+1202,Let's Go to Prison,2006,R,84,12,5.5,True
+1203,Casino Royale,2006,PG-13,144,95,167.0,True
+1204,The Fountain,2006,PG-13,96,51,10.0,True
+1205,For Your Consideration,2006,PG-13,86,50,5.5,True
+1206,Deck the Halls,2006,PG,93,6,35.1,True
+1207,Tenacious D in The Pick of Destiny,2006,R,93,54,8.2,True
+1208,Deja Vu,2006,PG-13,126,55,63.9,True
+1209,Bobby,2006,R,120,46,11.1,True
+1210,The Nativity Story,2006,PG,101,38,37.6,True
+1211,Turistas,2006,R,93,16,6.9,True
+1212,Van Wilder 2: The Rise of Taj,2006,R,97,7,3.8,True
+1213,The U.S. vs. John Lennon,2006,PG-13,99,77,1.0,True
+1214,The Holiday,2006,PG-13,138,47,63.2,True
+1215,Apocalypto,2006,R,139,65,50.8,True
+1216,Unaccompanied Minors,2006,PG,90,31,16.6,True
+1217,Blood Diamond,2006,R,143,62,57.3,True
+1218,Charlotte's Web,2006,G,97,78,82.1,True
+1219,The Pursuit of Happyness,2006,PG-13,117,67,162.6,True
+1220,Rocky Balboa,2006,PG,102,76,70.1,True
+1221,We Are Marshall,2006,PG,131,49,43.5,True
+1222,Night at the Museum,2006,PG,108,44,250.8,True
+1223,The Good Shepherd,2006,R,167,54,59.8,True
+1224,Dreamgirls,2006,PG-13,130,78,103.3,True
+1225,Happily N'Ever After,2006,PG,87,4,151.9,True
+1226,Thr3e,2006,PG-13,101,5,1.0,True
+1227,Children of Men,2006,R,109,92,35.3,True
+1228,Alpha Dog,2006,R,122,55,15.1,True
+1229,God Grew Tired of Us,2006,PG,89,91,0.1,True
+1230,Pan's Labyrinth,2006,R,118,95,37.4,True
+1231,The Painted Veil,2006,PG-13,125,74,7.9,True
+1232,The Good German,2006,R,105,33,0.9,True
+1233,Idiocracy,2006,R,84,73,0.3,True
+1234,Smokin' Aces,2006,R,108,29,35.6,True
+1235,Catch and Release,2006,PG-13,124,21,15.3,True
+1236,Letters from Iwo Jima,2006,R,141,91,13.7,True
+1237,10 Items or Less,2006,R,82,63,0.0693,True
+1238,Factory Girl,2006,R,90,19,1.6,True
+1239,The Bridge,2006,R,94,67,0.0493,True
+1240,The Astronaut Farmer,2006,PG,104,57,11.0,True
+1241,Amazing Grace,2006,PG,118,70,21.2,True
+1242,Black Snake Moan,2006,R,116,66,9.3,True
+1243,Copying Beethoven,2006,PG-13,104,28,0.2,True
+1244,300,2006,R,117,60,210.6,True
+1245,Starter for 10,2006,PG-13,92,89,0.2,True
+1246,Miss Potter,2006,PG,92,66,2.9,True
+1247,The Ultimate Gift,2006,PG,114,32,3.2,True
+1248,First Snow,2006,R,101,58,0.1,True
+1249,The Namesake,2006,PG-13,122,87,13.5,True
+1250,Seraphim Falls,2006,R,115,55,0.3,True
+1251,Jesus Camp,2006,PG-13,87,87,0.8,True
+1252,Blind Dating,2006,PG-13,95,25,0.0619,True
+1253,The Ex,2006,PG-13,89,19,3.0,True
+1254,Away from Her,2006,PG-13,110,94,15.8,True
+1255,Bug,2006,R,102,61,7.0,True
+1256,Hollywood Dreams,2006,R,100,36,0.0892,True
+1257,DOA: Dead or Alive,2006,PG-13,87,34,0.3,True
+1258,Rescue Dawn,2006,PG-13,120,91,5.3,True
+1259,El cantante,2006,R,106,25,7.5,True
+1260,Mini's First Time,2006,R,91,54,0.0218,True
+1261,Skinwalkers,2006,R,110,14,1.0,True
+1262,Come Early Morning,2006,R,97,83,0.0502,True
+1263,Fay Grim,2006,R,118,44,0.0618,True
+1264,Bella,2006,PG-13,91,44,7.9,True
+1265,Southland Tales,2006,R,145,36,0.2,True
+1266,Wild West Comedy Show: 30 Days & 30 Nights - Hollywood to the Heartland,2006,R,100,57,0.5,True
+1267,Penelope,2006,PG,104,53,9.8,True
+1268,Bonneville,2006,PG,93,40,0.3,True
+1269,Little Chenier,2006,R,120,60,0.0444,True
+1270,The Fall,2006,R,117,59,2.1,True
+1271,Civic Duty,2006,R,98,56,0.0549,True
+1272,The Foot Fist Way,2006,R,85,54,0.2,True
+1273,The Heart Specialist,2006,R,99,0,1.1,True
+1274,Starting Out in the Evening,2007,PG-13,111,87,0.6,True
+1275,Music Within,2007,R,94,33,0.1,True
+1276,Code Name: The Cleaner,2007,PG-13,84,4,8.1,True
+1277,Freedom Writers,2007,PG-13,123,69,36.5,True
+1278,Primeval,2007,R,93,19,10.4,True
+1279,Stomp the Yard,2007,PG-13,109,26,61.4,True
+1280,The Hitcher,2007,R,84,21,16.2,True
+1281,Blood and Chocolate,2007,PG-13,98,11,3.4,True
+1282,Epic Movie,2007,PG-13,86,2,39.7,True
+1283,Because I Said So,2007,PG-13,102,5,42.6,True
+1284,The Messengers,2007,PG-13,90,12,35.4,True
+1285,The Last Sin Eater,2007,PG-13,117,19,0.2,True
+1286,Norbit,2007,PG-13,102,9,95.3,True
+1287,Daddy's Little Girls,2007,PG-13,100,26,31.3,True
+1288,Music and Lyrics,2007,PG-13,96,62,50.5,True
+1289,Bridge to Terabithia,2007,PG,96,85,82.2,True
+1290,Breach,2007,PG-13,110,84,33.0,True
+1291,Ghost Rider,2007,PG-13,114,26,115.8,True
+1292,The Number 23,2007,R,101,8,35.1,True
+1293,Reno 911!: Miami,2007,R,84,35,20.3,True
+1294,Wild Hogs,2007,PG-13,100,14,168.2,True
+1295,Zodiac,2007,R,157,89,33.0,True
+1296,Shoot Down,2007,PG-13,85,80,0.0514,True
+1297,Dead Silence,2007,R,89,21,16.5,True
+1298,Premonition,2007,PG-13,96,8,47.9,True
+1299,Reign Over Me,2007,R,124,64,19.7,True
+1300,Shooter,2007,R,124,48,47.0,True
+1301,The Hills Have Eyes II,2007,R,89,11,20.8,True
+1302,TMNT,2007,PG,87,34,54.1,True
+1303,Pride,2007,PG,104,45,7.0,True
+1304,The Last Mimzy,2007,PG,90,53,21.4,True
+1305,Blades of Glory,2007,PG-13,93,69,118.2,True
+1306,Meet the Robinsons,2007,G,95,66,97.7,True
+1307,The Lookout,2007,R,99,87,4.5,True
+1308,Are We Done Yet?,2007,PG,92,8,50.0,True
+1309,Firehouse Dog,2007,PG,111,38,13.9,True
+1310,The Reaping,2007,R,99,8,25.1,True
+1311,Grindhouse,2007,R,191,83,24.9,True
+1312,Redline,2007,PG-13,95,0,6.8,True
+1313,Disturbia,2007,PG-13,105,68,80.1,True
+1314,Aqua Teen Hunger Force Colon Movie Film for Theaters,2007,R,86,48,5.4,True
+1315,My Name Is Bruce,2007,R,86,40,0.1,True
+1316,Perfect Stranger,2007,R,109,11,23.7,True
+1317,Pathfinder,2007,R,99,11,10.2,True
+1318,Hot Fuzz,2007,R,121,91,23.6,True
+1319,Fracture,2007,R,113,71,39.0,True
+1320,Vacancy,2007,R,85,56,19.0,True
+1321,In the Land of Women,2007,PG-13,97,43,11.0,True
+1322,The Hammer,2007,R,88,80,0.3,True
+1323,The Condemned,2007,R,113,15,7.3,True
+1324,The Invisible,2007,PG-13,102,20,20.5,True
+1325,Next,2007,PG-13,96,28,18.0,True
+1326,Spider-Man 3,2007,PG-13,139,63,336.5,True
+1327,Lucky You,2007,PG-13,124,29,5.7,True
+1328,Interview,2007,R,84,57,0.3,True
+1329,Delta Farce,2007,PG-13,90,5,8.1,True
+1330,Georgia Rule,2007,R,113,17,18.9,True
+1331,Year of the Dog,2007,PG-13,97,69,1.5,True
+1332,Shrek the Third,2007,PG,93,40,320.7,True
+1333,Pirates of the Caribbean: At World's End,2007,PG-13,169,45,309.4,True
+1334,Waitress,2007,PG-13,108,89,18.7,True
+1335,Mr. Brooks,2007,R,120,55,28.4,True
+1336,Crazy Love,2007,PG-13,92,78,0.2,True
+1337,Gracie,2007,PG-13,95,60,2.9,True
+1338,Hostel: Part II,2007,R,94,44,17.5,True
+1339,Ocean's Thirteen,2007,PG-13,122,70,117.1,True
+1340,Surf's Up,2007,PG,85,78,58.9,True
+1341,The Living Wake,2007,PG-13,91,50,0.0121,True
+1342,Fantastic 4: Rise of the Silver Surfer,2007,PG,92,37,131.8,True
+1343,Nancy Drew,2007,PG,99,49,25.5,True
+1344,1408,2007,PG-13,104,79,71.9,True
+1345,A Mighty Heart,2007,R,108,79,9.1,True
+1346,Evan Almighty,2007,PG,96,23,100.3,True
+1347,Live Free or Die Hard,2007,PG-13,128,82,134.5,True
+1348,Ratatouille,2007,G,111,96,206.4,True
+1349,Evening,2007,PG-13,117,27,12.4,True
+1350,License to Wed,2007,PG-13,91,7,43.7,True
+1351,Nanking,2007,R,88,96,0.0455,True
+1352,Sicko,2007,PG-13,123,92,24.3,True
+1353,Rise: Blood Hunter,2007,R,97,33,0.0594,True
+1354,Harry Potter and the Order of the Phoenix,2007,PG-13,138,79,292.0,True
+1355,You Kill Me,2007,R,93,78,2.3,True
+1356,Captivity,2007,R,96,9,2.6,True
+1357,Joshua,2007,R,106,62,0.4,True
+1358,I Now Pronounce You Chuck & Larry,2007,PG-13,115,14,119.7,True
+1359,Hairspray,2007,PG,117,91,118.8,True
+1360,Who's Your Caddy?,2007,PG-13,93,6,5.5,True
+1361,I Know Who Killed Me,2007,R,105,7,7.2,True
+1362,The Simpsons Movie,2007,PG-13,87,90,183.0,True
+1363,No Reservations,2007,PG,104,42,43.1,True
+1364,Bratz,2007,PG,110,9,9.9,True
+1365,Underdog,2007,PG,84,14,43.7,True
+1366,Hot Rod,2007,PG-13,88,40,13.9,True
+1367,Talk to Me,2007,R,118,82,4.4,True
+1368,The Bourne Ultimatum,2007,PG-13,115,93,227.4,True
+1369,Daddy Day Camp,2007,PG,93,1,13.2,True
+1370,The Walker,2007,R,108,54,0.0432,True
+1371,Rush Hour 3,2007,PG-13,91,18,140.1,True
+1372,Stardust,2007,PG-13,127,76,38.2,True
+1373,Superbad,2007,R,113,88,121.5,True
+1374,Arctic Tale,2007,G,96,61,0.6,True
+1375,The Invasion,2007,PG-13,99,19,15.0,True
+1376,September Dawn,2007,R,111,13,1.1,True
+1377,Resurrecting the Champ,2007,PG-13,112,60,2.9,True
+1378,Illegal Tender,2007,R,108,15,3.1,True
+1379,The Legend of God's Gun,2007,R,78,0,0.0772,True
+1380,Balls of Fury,2007,PG-13,90,23,32.8,True
+1381,Halloween,2007,R,109,25,58.2,True
+1382,Death Sentence,2007,R,105,20,9.5,True
+1383,Ladrón que roba a ladrón,2007,PG-13,98,66,4.0,True
+1384,The Brothers Solomon,2007,R,93,15,0.9,True
+1385,Shoot 'Em Up,2007,R,86,67,12.7,True
+1386,3:10 to Yuma,2007,R,122,89,53.6,True
+1387,Greetings from the Shore,2007,R,116,70,0.0405,True
+1388,Mr. Woodcock,2007,PG-13,87,13,25.8,True
+1389,The Brave One,2007,R,122,43,36.8,True
+1390,The Hunting Party,2007,R,101,53,0.8,True
+1391,Eastern Promises,2007,R,100,89,17.1,True
+1392,Sydney White,2007,PG-13,108,37,11.7,True
+1393,Resident Evil: Extinction,2007,R,94,22,50.6,True
+1394,Good Luck Chuck,2007,R,96,5,35.0,True
+1395,Feast of Love,2007,R,101,39,3.4,True
+1396,In the Valley of Elah,2007,R,121,73,6.6,True
+1397,Rocket Science,2007,R,101,84,0.6,True
+1398,The Kingdom,2007,R,110,51,47.5,True
+1399,The Game Plan,2007,PG,110,29,90.5,True
+1400,Feel the Noise,2007,PG-13,86,12,5.9,True
+1401,The Heartbreak Kid,2007,R,116,29,36.8,True
+1402,Control,2007,R,122,87,0.8,True
+1403,The Jane Austen Book Club,2007,PG-13,106,65,3.3,True
+1404,The 11th Hour,2007,PG,95,67,0.6,True
+1405,Elizabeth: The Golden Age,2007,PG-13,114,35,16.3,True
+1406,The Final Season,2007,PG,119,26,1.0,True
+1407,Michael Clayton,2007,R,119,90,49.0,True
+1408,We Own the Night,2007,R,117,57,28.6,True
+1409,Across the Universe,2007,PG-13,133,53,24.3,True
+1410,Trade,2007,R,120,29,0.1,True
+1411,Rendition,2007,R,122,47,9.7,True
+1412,Sarah Landon and the Paranormal Hour,2007,PG,81,0,0.8,True
+1413,Into the Wild,2007,R,148,82,18.2,True
+1414,The Ten Commandments,2007,PG,88,14,0.8,True
+1415,30 Days of Night,2007,R,113,51,39.6,True
+1416,Gone Baby Gone,2007,R,114,94,20.3,True
+1417,Things We Lost in the Fire,2007,R,118,65,3.2,True
+1418,The Assassination of Jesse James by the Coward Robert Ford,2007,R,160,76,3.8,True
+1419,The Comebacks,2007,PG-13,84,9,13.3,True
+1420,Paranoid Park,2007,R,85,76,0.2,True
+1421,The Darjeeling Limited,2007,R,91,68,11.7,True
+1422,Dan in Real Life,2007,PG-13,98,64,47.6,True
+1423,Saw IV,2007,R,93,17,63.3,True
+1424,Youth Without Youth,2007,R,124,30,0.1,True
+1425,Darfur Now,2007,PG,98,73,0.0639,True
+1426,Lars and the Real Girl,2007,PG-13,106,81,5.8,True
+1427,Bee Movie,2007,PG,91,51,126.6,True
+1428,In the Shadow of the Moon,2007,PG,100,95,0.9,True
+1429,Martian Child,2007,PG,106,33,7.5,True
+1430,American Gangster,2007,R,157,80,130.1,True
+1431,Lions for Lambs,2007,R,92,27,15.0,True
+1432,P2,2007,R,98,35,4.0,True
+1433,Fred Claus,2007,PG,116,21,72.0,True
+1434,Mr. Magorium's Wonder Emporium,2007,G,93,37,31.9,True
+1435,What Would Jesus Buy?,2007,PG,91,57,0.1,True
+1436,Love in the Time of Cholera,2007,R,139,26,4.6,True
+1437,Beowulf,2007,PG-13,115,71,82.2,True
+1438,Redacted,2007,R,90,45,0.0256,True
+1439,Enchanted,2007,PG,107,93,127.7,True
+1440,No Country for Old Men,2007,R,122,93,74.2,True
+1441,August Rush,2007,PG,114,37,31.5,True
+1442,The Mist,2007,R,126,73,25.5,True
+1443,This Christmas,2007,PG-13,117,56,49.1,True
+1444,Sleuth,2007,R,86,36,0.2,True
+1445,Awake,2007,R,84,23,14.3,True
+1446,The Golden Compass,2007,PG-13,113,42,70.1,True
+1447,I'm Not There.,2007,R,135,76,3.7,True
+1448,Before the Devil Knows You're Dead,2007,R,117,88,7.0,True
+1449,Noëlle,2007,PG,90,57,0.2,True
+1450,The Perfect Holiday,2007,PG,96,16,5.8,True
+1451,I Am Legend,2007,PG-13,101,70,256.3,True
+1452,Alvin and the Chipmunks,2007,PG,92,27,217.2,True
+1453,Margot at the Wedding,2007,R,91,52,1.9,True
+1454,Charlie Wilson's War,2007,R,102,82,66.6,True
+1455,Walk Hard: The Dewey Cox Story,2007,R,96,74,18.3,True
+1456,National Treasure: Book of Secrets,2007,PG,124,35,219.9,True
+1457,Sweeney Todd: The Demon Barber of Fleet Street,2007,R,116,86,52.8,True
+1458,Juno,2007,PG-13,96,94,143.4,True
+1459,Aliens vs. Predator: Requiem,2007,R,94,12,41.7,True
+1460,In the Name of the King: A Dungeon Siege Tale,2007,PG-13,127,4,4.5,True
+1461,The Kite Runner,2007,PG-13,128,66,15.7,True
+1462,The Bucket List,2007,PG-13,97,41,93.5,True
+1463,Atonement,2007,R,123,83,50.8,True
+1464,Cassandra's Dream,2007,PG-13,108,46,0.9,True
+1465,How She Move,2007,PG-13,94,66,7.0,True
+1466,There Will Be Blood,2007,R,158,91,40.1,True
+1467,The Savages,2007,R,113,89,6.4,True
+1468,The Diving Bell and the Butterfly,2007,PG-13,112,94,5.9,True
+1469,Diary of the Dead,2007,R,95,62,0.7,True
+1470,Charlie Bartlett,2007,R,97,56,3.7,True
+1471,Persepolis,2007,PG-13,96,96,4.3,True
+1472,U2 3D,2007,G,85,93,10.4,True
+1473,The King of Kong: A Fistful of Quarters,2007,PG-13,79,97,0.5,True
+1474,The Band's Visit,2007,PG-13,87,98,3.0,True
+1475,"Run, Fatboy, Run",2007,PG-13,100,48,5.9,True
+1476,Married Life,2007,PG-13,91,55,1.2,True
+1477,Teeth,2007,R,94,79,0.2,True
+1478,Funny Games,2007,R,111,52,1.0,True
+1479,Under the Same Moon,2007,PG-13,106,73,12.5,True
+1480,88 Minutes,2007,R,108,5,16.9,True
+1481,Then She Found Me,2007,R,100,50,3.7,True
+1482,Surfwise,2007,R,93,98,0.2,True
+1483,The Visitor,2007,PG-13,104,89,9.2,True
+1484,Trumbo,2007,PG-13,96,82,0.0281,True
+1485,Broken English,2007,PG-13,93,64,0.8,True
+1486,Encounters at the End of the World,2007,G,99,94,0.7,True
+1487,The Ten,2007,R,96,37,0.5,True
+1488,The Life Before Her Eyes,2007,R,90,24,0.2,True
+1489,Snow Angels,2007,R,107,68,0.3,True
+1490,Towelhead,2007,R,124,49,0.3,True
+1491,Tortilla Heaven,2007,PG-13,98,25,0.0735,True
+1492,Nobel Son,2007,R,110,25,0.3,True
+1493,Everybody Wants to Be Italian,2007,R,105,9,0.3,True
+1494,Earth,2007,G,90,87,32.0,True
+1495,Battle for Terra,2007,PG,85,48,1.6,True
+1496,Brooklyn Rules,2007,R,99,45,0.2,True
+1497,Paranormal Activity,2007,R,86,83,107.9,True
+1498,One Missed Call,2008,PG-13,87,0,26.8,True
+1499,The Pirates Who Don't Do Anything: A VeggieTales Movie,2008,G,85,39,12.7,True
+1500,Mad Money,2008,PG-13,104,22,20.5,True
+1501,27 Dresses,2008,PG-13,111,41,76.8,True
+1502,Cloverfield,2008,PG-13,85,77,80.0,True
+1503,Bigger Stronger Faster*,2008,PG-13,105,96,0.2,True
+1504,The Mysteries of Pittsburgh,2008,R,95,12,0.0328,True
+1505,Untraceable,2008,R,101,16,28.7,True
+1506,Meet the Spartans,2008,PG-13,86,2,38.2,True
+1507,Rambo,2008,R,92,37,42.7,True
+1508,Over Her Dead Body,2008,PG-13,95,15,7.5,True
+1509,Hannah Montana & Miley Cyrus: Best of Both Worlds Concert,2008,G,74,72,65.1,True
+1510,The Eye,2008,PG-13,98,22,31.4,True
+1511,Strange Wilderness,2008,R,87,2,6.5,True
+1512,Fool's Gold,2008,PG-13,112,11,70.2,True
+1513,"Welcome Home, Roscoe Jenkins",2008,PG-13,114,22,42.2,True
+1514,Jumper,2008,PG-13,88,16,80.1,True
+1515,Step Up 2: The Streets,2008,PG-13,98,27,58.0,True
+1516,The Spiderwick Chronicles,2008,PG,96,80,71.1,True
+1517,"Definitely, Maybe",2008,PG-13,112,71,32.0,True
+1518,Witless Protection,2008,PG-13,97,4,4.1,True
+1519,Be Kind Rewind,2008,PG-13,102,66,11.0,True
+1520,Vantage Point,2008,PG-13,90,35,72.3,True
+1521,Semi-Pro,2008,R,91,21,33.4,True
+1522,In Bruges,2008,R,107,84,7.6,True
+1523,The Other Boleyn Girl,2008,PG-13,115,42,26.8,True
+1524,"10,000 BC",2008,PG-13,109,8,94.8,True
+1525,Miss Pettigrew Lives for a Day,2008,PG-13,92,77,12.3,True
+1526,College Road Trip,2008,G,83,13,45.6,True
+1527,The Bank Job,2008,R,111,79,30.0,True
+1528,Never Back Down,2008,PG-13,110,22,24.8,True
+1529,Doomsday,2008,R,105,50,11.0,True
+1530,Horton Hears a Who!,2008,G,86,79,154.4,True
+1531,Meet the Browns,2008,PG-13,100,32,41.9,True
+1532,Shutter,2008,PG-13,85,7,25.9,True
+1533,Drillbit Taylor,2008,PG-13,110,25,32.9,True
+1534,Stop-Loss,2008,R,112,65,10.8,True
+1535,21,2008,PG-13,123,36,81.2,True
+1536,Superhero Movie,2008,PG-13,75,16,25.8,True
+1537,Nim's Island,2008,PG,96,51,47.9,True
+1538,Shine a Light,2008,PG-13,122,87,5.4,True
+1539,Leatherheads,2008,PG-13,114,52,31.2,True
+1540,The Ruins,2008,R,90,48,17.4,True
+1541,Street Kings,2008,R,109,36,26.4,True
+1542,Prom Night,2008,PG-13,88,8,43.8,True
+1543,Smart People,2008,R,95,49,9.5,True
+1544,Forgetting Sarah Marshall,2008,R,111,85,62.9,True
+1545,Expelled: No Intelligence Allowed,2008,PG,90,11,7.5,True
+1546,The Forbidden Kingdom,2008,PG-13,104,64,51.9,True
+1547,Deception,2008,R,107,14,4.6,True
+1548,Harold & Kumar Escape from Guantanamo Bay,2008,R,104,53,38.1,True
+1549,Baby Mama,2008,PG-13,99,64,60.3,True
+1550,Iron Man,2008,PG-13,126,94,318.3,True
+1551,Made of Honor,2008,PG-13,101,14,46.0,True
+1552,Speed Racer,2008,PG,135,39,43.9,True
+1553,What Happens in Vegas,2008,PG-13,99,27,80.2,True
+1554,Where in the World Is Osama Bin Laden?,2008,PG-13,90,38,0.3,True
+1555,Redbelt,2008,R,99,68,2.3,True
+1556,The Chronicles of Narnia: Prince Caspian,2008,PG,150,67,141.6,True
+1557,Indiana Jones and the Kingdom of the Crystal Skull,2008,PG-13,122,78,317.0,True
+1558,Sex and the City,2008,R,145,49,152.6,True
+1559,The Strangers,2008,R,86,45,52.5,True
+1560,Kung Fu Panda,2008,PG,92,87,215.4,True
+1561,You Don't Mess with the Zohan,2008,PG-13,113,38,100.0,True
+1562,Waltz with Bashir,2008,R,90,96,2.1,True
+1563,The Children of Huang Shi,2008,R,125,30,0.7,True
+1564,The Promotion,2008,R,86,53,0.4,True
+1565,The Happening,2008,R,91,17,64.5,True
+1566,The Incredible Hulk,2008,PG-13,112,67,134.5,True
+1567,"War, Inc.",2008,R,107,30,0.5,True
+1568,The Love Guru,2008,PG-13,87,14,32.2,True
+1569,Get Smart,2008,PG-13,110,51,130.2,True
+1570,Wanted,2008,R,110,72,134.3,True
+1571,WALL·E,2008,G,98,96,223.7,True
+1572,Kit Kittredge: An American Girl,2008,G,101,79,17.5,True
+1573,Hancock,2008,PG-13,92,41,227.9,True
+1574,CSNY/Déjà Vu,2008,R,96,68,0.0329,True
+1575,Journey to the Center of the Earth,2008,PG,93,61,101.7,True
+1576,Hellboy II: The Golden Army,2008,PG-13,120,86,75.8,True
+1577,Meet Dave,2008,PG,90,20,11.6,True
+1578,Outlander,2008,R,115,37,0.0596,True
+1579,Fireflies in the Garden,2008,R,120,20,0.0369,True
+1580,Gonzo: The Life and Work of Dr. Hunter S. Thompson,2008,R,120,86,1.0,True
+1581,The Dark Knight,2008,PG-13,152,94,533.3,True
+1582,Mamma Mia!,2008,PG-13,108,54,143.7,True
+1583,Space Chimps,2008,G,81,34,29.9,True
+1584,Step Brothers,2008,R,98,55,100.5,True
+1585,The X Files: I Want to Believe,2008,PG-13,104,31,20.8,True
+1586,The Wackness,2008,R,99,69,2.0,True
+1587,Swing Vote,2008,PG-13,120,38,16.2,True
+1588,The Mummy: Tomb of the Dragon Emperor,2008,PG-13,112,13,101.6,True
+1589,The Sisterhood of the Traveling Pants 2,2008,PG-13,117,65,44.0,True
+1590,The Midnight Meat Train,2008,R,100,71,0.0344,True
+1591,Beer for My Horses,2008,PG-13,86,0,0.6,True
+1592,Tropic Thunder,2008,R,107,83,110.4,True
+1593,Star Wars: The Clone Wars,2008,PG,98,18,35.1,True
+1594,Mirrors,2008,R,110,14,30.6,True
+1595,Vicky Cristina Barcelona,2008,PG-13,96,81,23.2,True
+1596,American Teen,2008,PG-13,95,69,0.8,True
+1597,Henry Poole Is Here,2008,PG,99,39,1.7,True
+1598,The Rocker,2008,PG-13,102,41,6.3,True
+1599,The Longshots,2008,PG,94,41,11.4,True
+1600,Death Race,2008,R,105,43,36.1,True
+1601,The House Bunny,2008,PG-13,97,42,48.2,True
+1602,Traitor,2008,PG-13,114,64,23.5,True
+1603,Hamlet 2,2008,R,92,62,4.8,True
+1604,College,2008,R,94,5,4.6,True
+1605,Elegy,2008,R,112,75,3.5,True
+1606,Man on Wire,2008,PG-13,94,100,2.6,True
+1607,Fly Me to the Moon 3D,2008,G,84,19,13.6,True
+1608,Disaster Movie,2008,PG-13,87,1,14.2,True
+1609,Bottle Shock,2008,PG-13,110,48,3.9,True
+1610,Frozen River,2008,R,97,88,2.1,True
+1611,Bangkok Dangerous,2008,R,99,9,15.2,True
+1612,The Women,2008,PG-13,114,13,26.8,True
+1613,The Family That Preys,2008,PG-13,111,51,37.0,True
+1614,Righteous Kill,2008,R,101,19,40.0,True
+1615,Burn After Reading,2008,R,96,78,60.3,True
+1616,Igor,2008,PG,87,36,19.4,True
+1617,My Best Friend's Girl,2008,R,101,14,19.2,True
+1618,Ghost Town,2008,PG-13,102,85,13.2,True
+1619,Lakeview Terrace,2008,PG-13,110,45,39.3,True
+1620,Eagle Eye,2008,PG-13,118,26,101.1,True
+1621,Fireproof,2008,PG,122,40,33.5,True
+1622,Nights in Rodanthe,2008,PG-13,97,30,41.8,True
+1623,Choke,2008,R,92,54,2.8,True
+1624,Forever Strong,2008,PG-13,112,29,0.5,True
+1625,Miracle at St. Anna,2008,R,160,34,7.8,True
+1626,The Lucky Ones,2008,R,115,37,0.2,True
+1627,Appaloosa,2008,R,115,77,20.2,True
+1628,Flash of Genius,2008,PG-13,119,59,4.2,True
+1629,Beverly Hills Chihuahua,2008,PG,91,41,94.5,True
+1630,Religulous,2008,R,101,70,13.0,True
+1631,An American Carol,2008,PG-13,83,11,7.0,True
+1632,Nick and Norah's Infinite Playlist,2008,PG-13,90,74,31.5,True
+1633,The Duchess,2008,PG-13,110,61,13.8,True
+1634,Quarantine,2008,R,89,58,31.7,True
+1635,The Express,2008,PG,130,61,9.6,True
+1636,Body of Lies,2008,R,128,54,39.4,True
+1637,City of Ember,2008,PG,90,53,7.8,True
+1638,Billy: The Early Years,2008,PG,98,0,0.3,True
+1639,The Secret Life of Bees,2008,PG-13,114,58,37.7,True
+1640,W.,2008,PG-13,129,59,25.5,True
+1641,Sex Drive,2008,R,109,45,8.4,True
+1642,Max Payne,2008,PG-13,100,16,40.6,True
+1643,Passengers,2008,PG-13,93,20,0.3,True
+1644,Noah's Arc: Jumping the Broom,2008,R,101,50,0.4,True
+1645,Pride and Glory,2008,R,130,35,15.7,True
+1646,Roadside Romeo,2008,PG,93,0,0.0418,True
+1647,Saw V,2008,R,92,12,56.7,True
+1648,High School Musical 3: Senior Year,2008,G,112,65,90.5,True
+1649,Changeling,2008,R,141,62,35.7,True
+1650,RocknRolla,2008,R,114,59,5.7,True
+1651,What Just Happened,2008,R,104,51,1.0,True
+1652,The Haunting of Molly Hartley,2008,PG-13,82,3,13.4,True
+1653,Zack and Miri Make a Porno,2008,R,101,65,31.4,True
+1654,Role Models,2008,R,99,78,67.3,True
+1655,House,2008,R,88,0,0.5,True
+1656,Rachel Getting Married,2008,R,113,85,12.7,True
+1657,Soul Men,2008,R,100,45,12.0,True
+1658,Madagascar: Escape 2 Africa,2008,PG,89,64,180.0,True
+1659,Quantum of Solace,2008,PG-13,106,65,168.4,True
+1660,I.O.U.S.A.,2008,PG,85,88,0.6,True
+1661,"Synecdoche, New York",2008,R,124,68,3.0,True
+1662,Twilight,2008,PG-13,122,48,191.4,True
+1663,Bolt,2008,PG,96,89,114.1,True
+1664,Four Christmases,2008,PG-13,88,25,120.1,True
+1665,The Boy in the Striped Pajamas,2008,PG-13,94,63,9.0,True
+1666,Transporter 3,2008,PG-13,104,37,31.3,True
+1667,Australia,2008,PG-13,165,55,49.4,True
+1668,Punisher: War Zone,2008,R,103,27,7.9,True
+1669,Cadillac Records,2008,R,109,67,8.1,True
+1670,Sleep Dealer,2008,PG-13,90,69,0.035,True
+1671,The Day the Earth Stood Still,2008,PG-13,104,21,79.1,True
+1672,Nothing Like the Holidays,2008,PG-13,98,52,7.5,True
+1673,Delgo,2008,PG,94,12,0.5,True
+1674,Seven Pounds,2008,PG-13,123,27,70.0,True
+1675,The Tale of Despereaux,2008,G,93,56,50.8,True
+1676,Yes Man,2008,PG-13,104,46,97.6,True
+1677,Free Style,2008,PG,94,29,0.0978,True
+1678,Bedtime Stories,2008,PG,99,25,110.0,True
+1679,The Curious Case of Benjamin Button,2008,PG-13,166,73,127.5,True
+1680,Slumdog Millionaire,2008,R,120,92,141.2,True
+1681,The Spirit,2008,PG-13,103,14,19.8,True
+1682,Valkyrie,2008,PG-13,121,62,83.0,True
+1683,Doubt,2008,PG-13,104,78,33.4,True
+1684,Marley & Me,2008,PG,115,63,143.1,True
+1685,Gran Torino,2008,R,116,79,148.1,True
+1686,Last Chance Harvey,2008,PG-13,93,70,14.8,True
+1687,Defiance,2008,R,137,57,28.6,True
+1688,Hell Ride,2008,R,84,10,0.2,True
+1689,Frost/Nixon,2008,R,122,92,18.6,True
+1690,Inkheart,2008,PG,106,38,17.3,True
+1691,Revolutionary Road,2008,R,119,67,22.9,True
+1692,The Reader,2008,R,124,61,34.1,True
+1693,Milk,2008,R,128,94,31.7,True
+1694,The Wrestler,2008,R,109,98,26.1,True
+1695,The Other End of the Line,2008,PG-13,106,37,0.0591,True
+1696,Wendy and Lucy,2008,R,80,85,0.7,True
+1697,Morning Light,2008,PG,97,33,0.1,True
+1698,Two Lovers,2008,R,110,82,3.0,True
+1699,The Great Buck Howard,2008,PG,90,72,0.6,True
+1700,Sunshine Cleaning,2008,R,91,72,12.0,True
+1701,American Violet,2008,PG-13,103,74,0.5,True
+1702,Sugar,2008,R,114,92,1.0,True
+1703,Valentino: The Last Emperor,2008,PG-13,96,77,1.6,True
+1704,Management,2008,R,94,46,0.8,True
+1705,Rudo y Cursi,2008,R,103,73,1.7,True
+1706,Tyson,2008,R,90,85,0.8,True
+1707,Soul Power,2008,PG-13,92,85,0.0239,True
+1708,Every Little Step,2008,PG-13,96,92,1.5,True
+1709,The Brothers Bloom,2008,PG-13,114,66,3.5,True
+1710,The Hurt Locker,2008,R,131,98,15.7,True
+1711,"Food, Inc.",2008,PG,94,96,4.2,True
+1712,Goodbye Solo,2008,R,91,94,0.8,True
+1713,It Might Get Loud,2008,PG,98,80,1.2,True
+1714,The Secrets of Jonathan Sperry,2008,PG,96,0,1.1,True
+1715,The Stoning of Soraya M.,2008,R,114,57,0.5,True
+1716,The Loss of a Teardrop Diamond,2008,PG-13,102,26,0.0945,True
+1717,More Than a Game,2008,PG,105,71,0.9,True
+1718,"New York, I Love You",2008,R,103,36,1.6,True
+1719,The Burning Plain,2008,R,107,35,0.0587,True
+1720,The Yellow Handkerchief,2008,PG-13,102,67,0.2,True
+1721,The Merry Gentleman,2008,R,110,63,0.3,True
+1722,Me and Orson Welles,2008,PG-13,114,85,1.1,True
+1723,"Lovely, Still",2008,PG,92,71,0.1,True
+1724,Youssou Ndour: I Bring What I Love,2008,PG,102,83,0.0326,True
+1725,Finding Amanda,2008,R,96,40,0.0313,True
+1726,The Wrecking Crew,2008,PG,101,92,0.8,True
+1727,Street Dreams,2009,R,88,0,0.0849,True
+1728,Alien Trespass,2009,PG,90,35,0.0434,True
+1729,The Unborn,2009,PG-13,88,10,42.6,True
+1730,Bride Wars,2009,PG,89,10,58.6,True
+1731,Not Easily Broken,2009,PG-13,99,33,10.6,True
+1732,My Bloody Valentine,2009,R,101,57,51.5,True
+1733,Paul Blart: Mall Cop,2009,PG,91,33,146.3,True
+1734,Chandni Chowk to China,2009,PG-13,154,44,0.9,True
+1735,Hotel for Dogs,2009,PG,100,45,73.0,True
+1736,Notorious,2009,R,122,51,36.7,True
+1737,The Slammin' Salmon,2009,R,90,35,0.0262,True
+1738,La mission,2009,R,117,48,1.1,True
+1739,Underworld: Rise of the Lycans,2009,R,92,29,45.8,True
+1740,The Uninvited,2009,PG-13,87,32,28.6,True
+1741,New in Town,2009,PG,97,29,16.7,True
+1742,Push,2009,PG-13,111,23,31.7,True
+1743,Coraline,2009,PG,100,90,75.2,True
+1744,He's Just Not That Into You,2009,PG-13,129,40,93.9,True
+1745,The Pink Panther 2,2009,PG,92,12,35.9,True
+1746,Friday the 13th,2009,R,97,25,65.0,True
+1747,The International,2009,R,118,59,25.5,True
+1748,Confessions of a Shopaholic,2009,PG,104,25,44.2,True
+1749,Under the Sea 3D,2009,G,40,94,34.6,True
+1750,Fanboys,2009,PG-13,90,32,0.5,True
+1751,Fired Up!,2009,PG-13,90,24,16.8,True
+1752,Madea Goes to Jail,2009,PG-13,103,29,90.5,True
+1753,Crossing Over,2009,R,113,16,0.4,True
+1754,Echelon Conspiracy,2009,PG-13,105,0,0.5,True
+1755,Street Fighter: The Legend of Chun-Li,2009,PG-13,96,18,8.6,True
+1756,Jonas Brothers: The 3D Concert Experience,2009,G,76,24,19.0,True
+1757,Watchmen,2009,R,162,65,107.5,True
+1758,Race to Witch Mountain,2009,PG,98,43,67.1,True
+1759,The Last House on the Left,2009,R,110,41,32.7,True
+1760,Miss March,2009,R,90,5,4.5,True
+1761,Brothers at War,2009,R,110,68,0.0331,True
+1762,That Evening Sun,2009,PG-13,109,81,0.0838,True
+1763,"I Love You, Man",2009,R,105,84,71.3,True
+1764,Duplicity,2009,PG-13,125,64,40.6,True
+1765,Knowing,2009,PG-13,121,33,79.9,True
+1766,The Cross,2009,PG,90,18,0.6,True
+1767,12 Rounds,2009,PG-13,108,29,12.2,True
+1768,Monsters vs. Aliens,2009,PG,94,72,198.3,True
+1769,The Haunting in Connecticut,2009,PG-13,92,17,55.3,True
+1770,Fast & Furious,2009,PG-13,107,28,155.0,True
+1771,Adventureland,2009,R,107,88,16.0,True
+1772,Dragonball: Evolution,2009,PG,85,14,9.4,True
+1773,Observe and Report,2009,R,86,51,24.0,True
+1774,Hannah Montana: The Movie,2009,G,102,44,79.5,True
+1775,17 Again,2009,PG-13,102,55,64.1,True
+1776,State of Play,2009,PG-13,127,84,37.0,True
+1777,Crank: High Voltage,2009,R,96,63,13.6,True
+1778,Sin Nombre,2009,R,96,89,2.4,True
+1779,Fighting,2009,PG-13,105,39,23.0,True
+1780,Obsessed,2009,PG-13,108,19,68.3,True
+1781,Outrage,2009,R,90,78,0.2,True
+1782,The Soloist,2009,PG-13,117,56,31.7,True
+1783,X-Men Origins: Wolverine,2009,PG-13,107,38,179.7,True
+1784,Ghosts of Girlfriends Past,2009,PG-13,100,27,55.2,True
+1785,Star Trek,2009,PG-13,127,95,257.7,True
+1786,Next Day Air,2009,R,84,21,10.0,True
+1787,Angels & Demons,2009,PG-13,138,37,133.4,True
+1788,Terminator Salvation,2009,PG-13,115,33,125.3,True
+1789,Dance Flick,2009,PG-13,83,18,25.6,True
+1790,Night at the Museum: Battle of the Smithsonian,2009,PG,105,44,177.1,True
+1791,Drag Me to Hell,2009,PG-13,99,92,42.1,True
+1792,Up,2009,PG,96,98,293.0,True
+1793,Land of the Lost,2009,PG-13,102,26,49.4,True
+1794,My Life in Ruins,2009,PG-13,95,9,8.5,True
+1795,The Hangover,2009,R,100,79,277.3,True
+1796,Saint John of Las Vegas,2009,R,85,24,0.0722,True
+1797,Imagine That,2009,PG,107,40,16.1,True
+1798,The Taking of Pelham 1 2 3,2009,R,106,51,65.5,True
+1799,Amreeka,2009,PG-13,96,87,0.4,True
+1800,Year One,2009,PG-13,97,15,43.3,True
+1801,The Proposal,2009,PG-13,108,44,163.9,True
+1802,Transformers: Revenge of the Fallen,2009,PG-13,150,19,402.1,True
+1803,Tetro,2009,R,127,71,0.3,True
+1804,Away We Go,2009,R,98,67,9.4,True
+1805,My Sister's Keeper,2009,PG-13,109,48,49.1,True
+1806,Ice Age: Dawn of the Dinosaurs,2009,PG,94,45,196.6,True
+1807,Public Enemies,2009,R,140,68,97.0,True
+1808,Whatever Works,2009,PG-13,92,49,5.2,True
+1809,Spread,2009,R,97,21,0.1,True
+1810,The Girlfriend Experience,2009,R,77,66,0.6,True
+1811,"I Love You, Beth Cooper",2009,PG-13,102,14,141.2,True
+1812,Brüno,2009,R,81,68,60.0,True
+1813,Harry Potter and the Half-Blood Prince,2009,PG,153,84,301.9,True
+1814,G-Force,2009,PG,88,22,119.4,True
+1815,The Ugly Truth,2009,R,96,13,88.9,True
+1816,Orphan,2009,R,123,55,41.5,True
+1817,Funny People,2009,R,146,68,51.8,True
+1818,Aliens in the Attic,2009,PG,86,31,25.0,True
+1819,The Collector,2009,R,90,30,7.7,True
+1820,Shrink,2009,R,104,29,0.0932,True
+1821,Julie & Julia,2009,PG-13,123,75,94.1,True
+1822,(500) Days of Summer,2009,PG-13,95,86,32.1,True
+1823,A Perfect Getaway,2009,R,98,61,15.5,True
+1824,G.I. Joe: The Rise of Cobra,2009,PG-13,118,35,150.2,True
+1825,The Cove,2009,PG-13,92,94,0.6,True
+1826,District 9,2009,R,112,90,115.6,True
+1827,"The Goods: Live Hard, Sell Hard",2009,R,89,27,15.0,True
+1828,Bandslam,2009,PG,111,81,5.2,True
+1829,The Time Traveler's Wife,2009,PG-13,107,38,63.4,True
+1830,X Games 3D: The Movie,2009,PG,92,40,0.8,True
+1831,Shorts,2009,PG,89,45,20.9,True
+1832,Inglourious Basterds,2009,R,153,89,120.5,True
+1833,Post Grad,2009,PG-13,88,8,6.3,True
+1834,Halloween II,2009,R,105,19,33.3,True
+1835,Paper Heart,2009,PG-13,88,58,1.1,True
+1836,Play the Game,2009,PG-13,105,27,0.5,True
+1837,The Final Destination,2009,R,82,29,66.4,True
+1838,Motherhood,2009,PG-13,90,20,0.0501,True
+1839,Taking Woodstock,2009,R,120,47,7.4,True
+1840,Adam,2009,PG-13,99,64,2.1,True
+1841,Carriers,2009,PG-13,84,63,0.0908,True
+1842,Extract,2009,R,92,63,10.6,True
+1843,All About Steve,2009,PG-13,99,7,33.8,True
+1844,Gamer,2009,R,95,28,20.5,True
+1845,9,2009,PG-13,79,56,31.7,True
+1846,I Can Do Bad All by Myself,2009,PG-13,113,63,51.7,True
+1847,Sorority Row,2009,R,101,22,11.9,True
+1848,Whiteout,2009,R,101,7,10.2,True
+1849,Humpday,2009,R,94,79,0.3,True
+1850,Love Happens,2009,PG-13,109,16,22.9,True
+1851,Jennifer's Body,2009,R,102,42,16.0,True
+1852,Cloudy with a Chance of Meatballs,2009,PG,90,87,124.9,True
+1853,The Informant!,2009,R,108,79,33.3,True
+1854,The Limits of Control,2009,R,116,44,0.4,True
+1855,I Hope They Serve Beer in Hell,2009,R,105,20,1.4,True
+1856,Fame,2009,PG,107,25,22.4,True
+1857,Surrogates,2009,PG-13,89,39,38.5,True
+1858,The September Issue,2009,PG-13,90,83,3.7,True
+1859,My One and Only,2009,PG-13,108,68,2.3,True
+1860,Capitalism: A Love Story,2009,R,127,75,14.3,True
+1861,The Invention of Lying,2009,PG-13,100,58,18.4,True
+1862,Whip It,2009,PG-13,111,84,13.0,True
+1863,Zombieland,2009,R,88,90,75.6,True
+1864,Couples Retreat,2009,PG-13,113,11,109.2,True
+1865,From Mexico with Love,2009,PG-13,96,0,0.5,True
+1866,Law Abiding Citizen,2009,R,109,25,73.3,True
+1867,The Stepfather,2009,PG-13,101,11,29.1,True
+1868,Where the Wild Things Are,2009,PG,101,73,77.2,True
+1869,Astro Boy,2009,PG,94,49,19.5,True
+1870,Amelia,2009,PG,111,20,14.2,True
+1871,Cirque du Freak: The Vampire's Assistant,2009,PG-13,109,38,13.8,True
+1872,Good Hair,2009,PG-13,96,95,4.1,True
+1873,Saw VI,2009,R,90,36,27.7,True
+1874,This Is It,2009,PG,111,81,71.8,True
+1875,A Christmas Carol,2009,PG,96,54,137.8,True
+1876,A Serious Man,2009,R,106,89,9.2,True
+1877,The Men Who Stare at Goats,2009,R,94,52,32.4,True
+1878,The Fourth Kind,2009,PG-13,98,19,25.5,True
+1879,The Box,2009,PG-13,115,45,114.9,True
+1880,Today's Special,2009,R,99,81,0.3,True
+1881,2012,2009,PG-13,158,39,166.1,True
+1882,Planet 51,2009,PG,91,21,42.2,True
+1883,The Blind Side,2009,PG-13,129,66,255.5,True
+1884,Precious,2009,R,110,91,47.5,True
+1885,The Twilight Saga: New Moon,2009,PG-13,130,28,296.6,True
+1886,Old Dogs,2009,PG,88,5,49.5,True
+1887,Fantastic Mr. Fox,2009,PG,87,92,20.9,True
+1888,Ninja Assassin,2009,R,99,26,38.1,True
+1889,Armored,2009,PG-13,88,40,16.0,True
+1890,Everybody's Fine,2009,PG-13,99,46,8.9,True
+1891,The Messenger,2009,R,113,90,1.0,True
+1892,Brothers,2009,R,105,63,28.5,True
+1893,The Boondock Saints II: All Saints Day,2009,R,118,23,10.2,True
+1894,Invictus,2009,PG-13,134,76,37.4,True
+1895,Bad Lieutenant: Port of Call New Orleans,2009,R,122,87,1.6,True
+1896,The Princess and the Frog,2009,G,97,85,104.4,True
+1897,Did You Hear About the Morgans?,2009,PG-13,103,12,29.6,True
+1898,Avatar,2009,PG-13,162,83,760.5,True
+1899,The Road,2009,R,111,75,8.0,True
+1900,Alvin and the Chipmunks: The Squeakquel,2009,PG,88,21,219.3,True
+1901,Up in the Air,2009,R,109,91,83.8,True
+1902,Nine,2009,PG-13,118,37,19.6,True
+1903,It's Complicated,2009,R,120,57,112.7,True
+1904,Sherlock Holmes,2009,PG-13,128,70,208.7,True
+1905,The Young Victoria,2009,PG,105,76,10.9,True
+1906,Daybreakers,2009,R,98,67,30.0,True
+1907,Youth in Revolt,2009,R,90,66,15.2,True
+1908,Black Dynamite,2009,R,84,85,0.1,True
+1909,The Lovely Bones,2009,PG-13,135,31,44.0,True
+1910,To Save a Life,2009,PG-13,120,33,3.7,True
+1911,An Education,2009,PG-13,100,94,12.5,True
+1912,Crazy Heart,2009,R,112,91,38.3,True
+1913,A Single Man,2009,R,99,85,9.1,True
+1914,The Good Guy,2009,R,90,35,0.0347,True
+1915,Brooklyn's Finest,2009,R,132,43,26.7,True
+1916,Ondine,2009,PG-13,111,70,0.5,True
+1917,Chloe,2009,R,96,51,1.8,True
+1918,Life During Wartime,2009,R,98,69,0.3,True
+1919,The Perfect Game,2009,PG,118,57,1.0,True
+1920,Oceans,2009,G,84,81,19.0,True
+1921,The Joneses,2009,R,96,62,1.0,True
+1922,City Island,2009,PG-13,104,81,6.7,True
+1923,Cold Souls,2009,PG-13,101,74,0.7,True
+1924,Princess Kaiulani,2009,PG,97,18,0.9,True
+1925,Splice,2009,R,104,74,17.0,True
+1926,The City of Your Final Destination,2009,PG-13,117,38,0.5,True
+1927,Solitary Man,2009,R,90,81,4.4,True
+1928,Mother and Child,2009,R,125,79,1.1,True
+1929,The Maiden Heist,2009,PG-13,90,0,0.5,True
+1930,Middle Men,2009,R,105,40,0.7,True
+1931,Get Low,2009,PG-13,103,84,9.2,True
+1932,Leaves of Grass,2009,R,105,59,0.068,True
+1933,Like Dandelion Dust,2009,PG-13,100,80,0.4,True
+1934,World's Greatest Dad,2009,R,99,89,0.2,True
+1935,Case 39,2009,R,109,22,13.2,True
+1936,Waking Sleeping Beauty,2009,PG,86,71,0.0331,True
+1937,The Other Woman,2009,R,102,39,0.0206,True
+1938,Chain Letter,2009,R,96,23,0.1,True
+1939,Oy Vey! My Son Is Gay!!,2009,PG-13,90,0,0.0872,True
+1940,I Love You Phillip Morris,2009,R,98,72,2.0,True
+1941,Down for Life,2009,R,92,0,0.0396,True
+1942,(Untitled),2009,R,96,65,0.2,True
+1943,The Mighty Macs,2009,G,99,46,1.9,True
+1944,Tanner Hall,2009,R,96,12,0.005,True
+1945,I'm Not Jesus Mommy,2010,R,89,0,0.0053,True
+1946,Immigration Tango,2010,R,92,7,0.0238,True
+1947,Leonie,2010,PG-13,102,42,0.0537,True
+1948,Passion Play,2010,R,94,3,0.0021,True
+1949,Smash His Camera,2010,PG-13,87,80,0.0024,True
+1950,Dumbstruck,2010,PG,85,71,0.015,True
+1951,Crazy on the Outside,2010,PG-13,96,8,0.0644,True
+1952,Leap Year,2010,PG,100,21,25.9,True
+1953,The Book of Eli,2010,R,118,48,94.3,True
+1954,The Spy Next Door,2010,PG,94,12,24.3,True
+1955,Tooth Fairy,2010,PG,101,18,58.6,True
+1956,Extraordinary Measures,2010,PG,106,28,11.9,True
+1957,Legion,2010,R,100,19,40.2,True
+1958,The Tillman Story,2010,R,94,93,0.8,True
+1959,The Dry Land,2010,R,92,61,0.0074,True
+1960,8: The Mormon Proposition,2010,R,80,63,0.0999,True
+1961,Edge of Darkness,2010,R,117,56,43.3,True
+1962,Preacher's Kid,2010,PG-13,110,50,0.4,True
+1963,When in Rome,2010,PG-13,91,17,32.6,True
+1964,Dear John,2010,PG-13,108,29,79.6,True
+1965,From Paris with Love,2010,R,92,37,24.0,True
+1966,Percy Jackson & the Olympians: The Lightning Thief,2010,PG,118,49,86.7,True
+1967,Valentine's Day,2010,PG-13,125,18,110.0,True
+1968,The Wolfman,2010,R,103,34,61.9,True
+1969,Shutter Island,2010,R,138,68,125.0,True
+1970,Blood Done Sign My Name,2010,PG-13,128,50,0.0827,True
+1971,Cop Out,2010,R,107,19,44.0,True
+1972,The Crazies,2010,R,101,71,38.2,True
+1973,"Lebanon, Pa.",2010,PG-13,100,50,0.0447,True
+1974,Alice in Wonderland,2010,PG,108,51,319.3,True
+1975,She's Out of My League,2010,R,104,58,28.7,True
+1976,Remember Me,2010,PG-13,113,27,18.2,True
+1977,Our Family Wedding,2010,PG-13,103,13,18.6,True
+1978,Green Zone,2010,R,115,53,33.1,True
+1979,Elektra Luxx,2010,R,100,28,0.0108,True
+1980,The Runaways,2010,R,106,68,2.0,True
+1981,The Bounty Hunter,2010,PG-13,110,13,56.0,True
+1982,Diary of a Wimpy Kid,2010,PG,94,53,64.0,True
+1983,Repo Men,2010,R,111,22,13.2,True
+1984,Frozen,2010,R,93,62,0.1,True
+1985,Hot Tub Time Machine,2010,R,101,63,48.9,True
+1986,How to Train Your Dragon,2010,PG,98,98,217.4,True
+1987,Greenberg,2010,R,107,75,2.3,True
+1988,The Last Song,2010,PG,107,20,42.4,True
+1989,Meet Monica Velour,2010,R,98,48,0.0316,True
+1990,Why Did I Get Married Too?,2010,PG-13,121,26,48.5,True
+1991,Clash of the Titans,2010,PG-13,106,28,163.2,True
+1992,Date Night,2010,PG-13,88,67,98.7,True
+1993,Letters to God,2010,PG,110,25,1.1,True
+1994,The Extraordinary Adventures of Adèle Blanc-Sec,2010,PG,107,83,0.1,True
+1995,Death at a Funeral,2010,R,92,41,16.0,True
+1996,Kick-Ass,2010,R,117,76,20.0,True
+1997,Redemption Road,2010,PG-13,95,57,0.0258,True
+1998,The Losers,2010,PG-13,97,49,23.0,True
+1999,The Back-up Plan,2010,PG-13,106,18,37.5,True
+2000,Every Day,2010,R,93,33,0.0099,True
+2001,Furry Vengeance,2010,PG,92,8,16.0,True
+2002,A Nightmare on Elm Street,2010,R,95,15,62.0,True
+2003,Iron Man 2,2010,PG-13,124,72,312.1,True
+2004,Just Wright,2010,PG,100,45,21.5,True
+2005,Letters to Juliet,2010,PG,105,40,53.0,True
+2006,Robin Hood,2010,PG-13,140,43,105.2,True
+2007,MacGruber,2010,R,90,47,8.0,True
+2008,Shrek Forever After,2010,PG,93,58,238.3,True
+2009,The Romantics,2010,PG-13,95,15,0.1,True
+2010,Sex and the City 2,2010,R,146,15,95.3,True
+2011,Prince of Persia: The Sands of Time,2010,PG-13,116,36,90.8,True
+2012,Get Him to the Greek,2010,R,109,73,60.9,True
+2013,Marmaduke,2010,PG,87,9,33.6,True
+2014,Killers,2010,PG-13,100,11,47.0,True
+2015,The Killer Inside Me,2010,R,109,55,0.2,True
+2016,The A-Team,2010,PG-13,117,47,77.2,True
+2017,The Karate Kid,2010,PG,140,66,176.6,True
+2018,Please Give,2010,R,90,86,4.0,True
+2019,Toy Story 3,2010,G,103,99,415.0,True
+2020,Jonah Hex,2010,PG-13,81,12,10.5,True
+2021,Knight and Day,2010,PG-13,109,52,76.4,True
+2022,Grown Ups,2010,PG-13,102,10,162.0,True
+2023,The Twilight Saga: Eclipse,2010,PG-13,124,49,300.5,True
+2024,The Last Airbender,2010,PG,103,6,131.6,True
+2025,Joan Rivers: A Piece of Work,2010,R,84,91,2.9,True
+2026,Despicable Me,2010,PG,95,81,251.5,True
+2027,Predators,2010,R,107,64,52.0,True
+2028,The Sorcerer's Apprentice,2010,PG,109,41,63.1,True
+2029,Cyrus,2010,R,91,80,7.5,True
+2030,Inception,2010,PG-13,148,86,292.6,True
+2031,Winter's Bone,2010,R,100,94,6.5,True
+2032,Standing Ovation,2010,PG,105,6,0.5,True
+2033,Salt,2010,PG-13,100,62,118.3,True
+2034,Ramona and Beezus,2010,G,103,70,26.2,True
+2035,Cats & Dogs: The Revenge of Kitty Galore,2010,PG,82,14,43.6,True
+2036,Dinner for Schmucks,2010,PG-13,114,42,73.0,True
+2037,Charlie St. Cloud,2010,PG-13,99,27,31.1,True
+2038,The Kids Are All Right,2010,R,106,93,20.8,True
+2039,Step Up 3D,2010,PG-13,107,46,42.4,True
+2040,Restrepo,2010,R,93,96,1.3,True
+2041,The Other Guys,2010,PG-13,107,79,119.2,True
+2042,The Wildest Dream,2010,PG,94,76,0.9,True
+2043,Twelve,2010,R,93,3,0.2,True
+2044,Scott Pilgrim vs. the World,2010,PG-13,112,82,31.5,True
+2045,The Expendables,2010,R,103,41,103.0,True
+2046,Eat Pray Love,2010,PG-13,133,36,80.6,True
+2047,Vampires Suck,2010,PG-13,82,5,36.7,True
+2048,Piranha 3D,2010,R,88,73,25.0,True
+2049,The Switch,2010,PG-13,101,51,27.8,True
+2050,Lottery Ticket,2010,PG-13,99,34,24.7,True
+2051,Nanny McPhee Returns,2010,PG,109,76,29.0,True
+2052,The Last Exorcism,2010,PG-13,87,72,41.0,True
+2053,Takers,2010,PG-13,107,28,57.7,True
+2054,Howl,2010,R,84,63,0.6,True
+2055,The American,2010,R,105,66,35.6,True
+2056,Freakonomics,2010,PG-13,85,65,0.1,True
+2057,Machete,2010,R,105,72,26.6,True
+2058,Going the Distance,2010,R,102,53,17.8,True
+2059,Legendary,2010,PG-13,107,17,0.2,True
+2060,Flipped,2010,PG,90,55,1.8,True
+2061,Resident Evil: Afterlife,2010,R,97,23,60.1,True
+2062,I'm Still Here,2010,R,108,53,0.4,True
+2063,Easy A,2010,PG-13,92,85,58.4,True
+2064,Alpha and Omega,2010,PG,88,16,25.1,True
+2065,The Town,2010,R,125,93,92.2,True
+2066,Legend of the Guardians: The Owls of Ga'Hoole,2010,PG,97,50,55.7,True
+2067,Wall Street: Money Never Sleeps,2010,PG-13,133,55,52.5,True
+2068,You Again,2010,PG,105,17,25.7,True
+2069,The Virginity Hit,2010,R,86,29,0.5,True
+2070,The Social Network,2010,PG-13,120,96,96.9,True
+2071,Catfish,2010,PG-13,87,80,3.2,True
+2072,Let Me In,2010,R,116,88,12.1,True
+2073,Life as We Know It,2010,PG-13,114,28,53.4,True
+2074,As Good as Dead,2010,R,100,0,0.0015,True
+2075,Secretariat,2010,PG,123,64,59.7,True
+2076,It's Kind of a Funny Story,2010,PG-13,101,58,6.4,True
+2077,My Soul to Take,2010,R,107,9,14.6,True
+2078,Ghetto Physics,2010,R,94,42,0.0101,True
+2079,RED,2010,PG-13,111,71,90.4,True
+2080,Jackass 3D,2010,R,94,65,117.2,True
+2081,Buried,2010,R,95,87,1.0,True
+2082,Never Let Me Go,2010,R,103,71,2.4,True
+2083,Under the Boardwalk: The Monopoly Story,2010,G,88,85,0.0051,True
+2084,I Want Your Money,2010,PG,92,0,0.4,True
+2085,Exporting Raymond,2010,PG,86,71,0.0839,True
+2086,Paranormal Activity 2,2010,R,91,58,84.7,True
+2087,Hereafter,2010,PG-13,129,46,32.7,True
+2088,Stone,2010,R,105,50,1.8,True
+2089,You Will Meet a Tall Dark Stranger,2010,R,98,46,3.2,True
+2090,Waiting for 'Superman',2010,PG,111,89,6.4,True
+2091,Saw 3D: The Final Chapter,2010,R,90,9,45.7,True
+2092,Hatchet II,2010,R,85,36,0.0526,True
+2093,For Colored Girls,2010,R,133,32,37.7,True
+2094,Conviction,2010,R,107,67,6.8,True
+2095,Due Date,2010,R,95,40,100.4,True
+2096,Megamind,2010,PG,95,72,148.2,True
+2097,Morning Glory,2010,PG-13,107,56,31.0,True
+2098,Skyline,2010,PG-13,97,15,12.0,True
+2099,Unstoppable,2010,PG-13,98,86,81.6,True
+2100,Inside Job,2010,PG-13,105,98,4.3,True
+2101,Senna,2010,PG-13,106,92,1.6,True
+2102,Brotherhood,2010,R,76,54,0.0195,True
+2103,Harry Potter and the Deathly Hallows: Part 1,2010,PG-13,146,78,295.0,True
+2104,Queen of the Lot,2010,R,120,29,0.2,True
+2105,The Next Three Days,2010,PG-13,133,52,21.1,True
+2106,The Way,2010,PG-13,123,82,4.4,True
+2107,Tangled,2010,PG,100,90,200.8,True
+2108,Love & Other Drugs,2010,R,112,49,32.4,True
+2109,Burlesque,2010,PG-13,119,36,39.4,True
+2110,Faster,2010,R,98,43,23.2,True
+2111,London Boulevard,2010,R,103,33,0.0105,True
+2112,Fair Game,2010,PG-13,108,79,9.5,True
+2113,Night Catches Us,2010,R,90,81,0.0753,True
+2114,All Good Things,2010,R,101,33,0.6,True
+2115,Tucker and Dale vs. Evil,2010,R,89,84,0.2,True
+2116,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,PG,113,49,104.4,True
+2117,The Tourist,2010,PG-13,103,20,67.6,True
+2118,Black Swan,2010,R,108,87,107.0,True
+2119,TRON: Legacy,2010,PG,125,51,172.1,True
+2120,How Do You Know,2010,PG-13,121,32,30.2,True
+2121,Yogi Bear,2010,PG,80,13,100.2,True
+2122,The Fighter,2010,R,116,91,93.6,True
+2123,Little Fockers,2010,PG-13,98,10,148.4,True
+2124,True Grit,2010,PG-13,110,96,171.0,True
+2125,Holy Rollers,2010,R,89,51,0.3,True
+2126,Gulliver's Travels,2010,PG,85,21,42.8,True
+2127,The King's Speech,2010,R,118,94,138.8,True
+2128,The Last Godfather,2010,PG-13,100,0,0.2,True
+2129,Jack Goes Boating,2010,R,89,68,0.5,True
+2130,Love Ranch,2010,R,117,12,0.1,True
+2131,The Tempest,2010,PG-13,110,30,0.3,True
+2132,Country Strong,2010,PG-13,117,22,20.2,True
+2133,Henry's Crime,2010,R,108,40,0.1,True
+2134,I Spit on Your Grave,2010,R,108,34,0.0924,True
+2135,Somewhere,2010,R,97,71,1.8,True
+2136,The Way Back,2010,PG-13,133,74,2.7,True
+2137,The Extra Man,2010,R,108,42,0.5,True
+2138,Rabbit Hole,2010,PG-13,91,86,2.2,True
+2139,127 Hours,2010,R,94,93,18.3,True
+2140,Waiting for Forever,2010,PG-13,95,6,0.021,True
+2141,Vanishing on 7th Street,2010,R,92,50,0.0222,True
+2142,The Company Men,2010,R,104,67,4.4,True
+2143,Last Night,2010,R,93,50,0.1,True
+2144,The Grace Card,2010,PG-13,101,35,2.4,True
+2145,Happythankyoumoreplease,2010,R,100,40,0.2,True
+2146,Client 9: The Rise and Fall of Eliot Spitzer,2010,R,117,91,0.2,True
+2147,Submarine,2010,R,97,86,0.5,True
+2148,Peep World,2010,R,79,23,0.0109,True
+2149,The 5th Quarter,2010,PG,90,50,0.4,True
+2150,Insidious,2010,PG-13,103,66,54.0,True
+2151,Road to Nowhere,2010,R,121,80,0.0403,True
+2152,The Conspirator,2010,PG-13,122,55,11.5,True
+2153,Meek's Cutoff,2010,PG,104,85,1.0,True
+2154,Trust,2010,R,106,78,0.1,True
+2155,Dylan Dog: Dead of Night,2010,PG-13,107,8,1.2,True
+2156,Sympathy for Delicious,2010,R,96,29,0.0131,True
+2157,Harvest,2010,R,102,73,0.0241,True
+2158,The Perfect Host,2010,R,93,44,0.0483,True
+2159,Skateland,2010,PG-13,96,38,0.0111,True
+2160,Bloodworth,2010,R,105,50,0.0096,True
+2161,Cost of a Soul,2010,R,107,27,0.0254,True
+2162,Cool It,2010,PG,87,51,0.0627,True
+2163,Rejoice and Shout,2010,PG,115,76,0.1,True
+2164,Beginners,2010,R,105,84,5.8,True
+2165,Super,2010,R,96,48,0.3,True
+2166,Wrecked,2010,R,91,46,0.0048,True
+2167,Ceremony,2010,R,89,40,0.0217,True
+2168,Stake Land,2010,R,98,75,0.0185,True
+2169,Cherry,2010,R,99,60,0.0111,True
+2170,The First Grader,2010,PG-13,103,59,0.3,True
+2171,Countdown to Zero,2010,PG,91,81,0.3,True
+2172,Hesher,2010,R,106,54,0.4,True
+2173,Amigo,2010,R,124,62,0.2,True
+2174,Dirty Girl,2010,R,90,27,0.0536,True
+2175,A Little Help,2010,R,109,41,0.0858,True
+2176,Don't Be Afraid of the Dark,2010,R,99,58,24.0,True
+2177,The Debt,2010,R,113,77,31.1,True
+2178,Cave of Forgotten Dreams,2010,G,90,96,5.2,True
+2179,Everything Must Go,2010,R,97,75,2.7,True
+2180,The Whistleblower,2010,R,112,74,1.1,True
+2181,Beautiful Boy,2010,R,100,69,0.0772,True
+2182,Tabloid,2010,R,87,91,0.7,True
+2183,Welcome to the Rileys,2010,R,110,55,0.2,True
+2184,Vidal Sassoon: The Movie,2010,PG,90,59,0.0852,True
+2185,I Kissed a Vampire,2010,PG,91,0,0.0014,True
+2186,Virginia,2010,R,111,4,0.0111,True
+2187,Main Street,2010,PG,92,13,0.0016,True
+2188,High School,2010,R,99,27,0.0827,True
+2189,Morning,2010,R,95,45,0.0029,True
+2190,Radio Free Albemuth,2010,R,111,36,0.2,True
+2191,Bringing Up Bobby,2011,PG-13,93,17,0.005,True
+2192,Restless City,2011,R,80,45,0.0081,True
+2193,The Last Mountain,2011,PG,95,80,0.1,True
+2194,Gun Hill Road,2011,R,86,62,0.1,True
+2195,The Details,2011,R,91,46,0.0636,True
+2196,Down the Shore,2011,R,93,50,0.0048,True
+2197,Season of the Witch,2011,PG-13,95,9,24.8,True
+2198,The Dilemma,2011,PG-13,111,24,48.4,True
+2199,The Green Hornet,2011,PG-13,119,43,98.8,True
+2200,Pariah,2011,R,86,93,0.8,True
+2201,"Connected: An Autoblogography About Love, Death & Technology",2011,PG,82,36,0.0133,True
+2202,No Strings Attached,2011,R,108,48,70.6,True
+2203,Little Birds,2011,R,94,53,0.0166,True
+2204,Thin Ice,2011,R,93,69,0.8,True
+2205,Life in a Day,2011,PG-13,95,80,0.2,True
+2206,The Mechanic,2011,R,93,53,29.1,True
+2207,From Prada to Nada,2011,PG-13,107,21,3.0,True
+2208,The Rite,2011,PG-13,114,21,33.0,True
+2209,Sanctum,2011,R,108,30,23.1,True
+2210,The Roommate,2011,PG-13,91,4,37.3,True
+2211,Gnomeo & Juliet,2011,G,84,55,99.8,True
+2212,Justin Bieber: Never Say Never,2011,G,105,64,73.0,True
+2213,The Eagle,2011,PG-13,114,39,19.5,True
+2214,Just Go with It,2011,PG-13,117,19,103.0,True
+2215,The Last Lions,2011,PG,88,87,0.6,True
+2216,"Big Mommas: Like Father, Like Son",2011,PG-13,107,5,37.9,True
+2217,I Am Number Four,2011,PG-13,109,33,55.1,True
+2218,Drive Angry,2011,R,104,45,10.7,True
+2219,Hall Pass,2011,R,105,34,45.0,True
+2220,Elevate,2011,PG,81,73,0.0035,True
+2221,Take Me Home Tonight,2011,R,97,28,6.9,True
+2222,Rango,2011,PG,107,87,123.2,True
+2223,Beastly,2011,PG-13,86,21,27.9,True
+2224,The Adjustment Bureau,2011,PG-13,106,72,62.5,True
+2225,Battle Los Angeles,2011,PG-13,116,35,83.5,True
+2226,Red Riding Hood,2011,PG-13,100,10,37.7,True
+2227,Mars Needs Moms,2011,PG,88,37,21.4,True
+2228,The FP,2011,R,82,48,0.0406,True
+2229,American Animal,2011,R,95,59,0.0059,True
+2230,Paul,2011,R,104,71,37.4,True
+2231,The Lincoln Lawyer,2011,R,118,83,58.0,True
+2232,Cedar Rapids,2011,R,87,86,6.9,True
+2233,Limitless,2011,PG-13,105,70,79.2,True
+2234,Sucker Punch,2011,PG-13,110,23,36.4,True
+2235,There Be Dragons,2011,PG-13,122,11,1.1,True
+2236,Diary of a Wimpy Kid: Rodrick Rules,2011,PG,99,48,52.7,True
+2237,Hop,2011,PG,95,25,108.0,True
+2238,Source Code,2011,PG-13,93,92,54.7,True
+2239,Restless,2011,PG-13,91,36,0.2,True
+2240,Hanna,2011,PG-13,111,71,40.2,True
+2241,Your Highness,2011,R,102,27,21.6,True
+2242,Arthur,2011,PG-13,110,26,33.0,True
+2243,Soul Surfer,2011,PG,106,46,43.9,True
+2244,Born to Be Wild,2011,G,40,98,24.2,True
+2245,Rio,2011,G,96,72,143.6,True
+2246,Atlas Shrugged: Part I,2011,PG-13,97,11,4.6,True
+2247,Scream 4,2011,R,111,59,38.2,True
+2248,Win Win,2011,R,106,94,10.2,True
+2249,New York Says Thank You,2011,G,86,0,0.5,True
+2250,African Cats,2011,G,89,71,15.4,True
+2251,Jane Eyre,2011,PG-13,120,84,11.2,True
+2252,Madea's Big Happy Family,2011,PG-13,106,38,53.3,True
+2253,Water for Elephants,2011,PG-13,120,60,58.7,True
+2254,The Perfect Family,2011,PG-13,84,48,0.1,True
+2255,Prom,2011,PG,104,36,10.1,True
+2256,Fast Five,2011,PG-13,131,78,209.8,True
+2257,Hoodwinked Too! Hood vs. Evil,2011,PG,86,11,10.1,True
+2258,Balls to the Wall,2011,R,85,0,0.0031,True
+2259,InSight,2011,R,92,0,0.017,True
+2260,"Wild Horse, Wild Ride",2011,PG,106,93,0.0946,True
+2261,Jumping the Broom,2011,PG-13,112,56,37.3,True
+2262,Thor,2011,PG-13,115,77,181.0,True
+2263,Priest,2011,PG-13,87,16,29.1,True
+2264,Bridesmaids,2011,R,125,90,169.1,True
+2265,The Tree of Life,2011,PG-13,139,84,13.3,True
+2266,The Beaver,2011,PG-13,91,61,1.0,True
+2267,35 and Ticking,2011,R,104,0,0.1,True
+2268,Pirates of the Caribbean: On Stranger Tides,2011,PG-13,136,33,241.1,True
+2269,Kung Fu Panda 2,2011,PG,91,81,165.2,True
+2270,The Hangover Part II,2011,R,102,34,254.5,True
+2271,The Ledge,2011,R,101,14,0.0052,True
+2272,X-Men: First Class,2011,PG-13,132,87,146.4,True
+2273,5 Days of War,2011,R,113,33,0.0172,True
+2274,Judy Moody and the Not Bummer Summer,2011,PG,91,19,15.0,True
+2275,Super 8,2011,PG-13,112,82,127.0,True
+2276,Midnight in Paris,2011,PG-13,94,93,56.8,True
+2277,Green Lantern,2011,PG-13,114,26,116.6,True
+2278,The Art of Getting By,2011,PG-13,83,18,1.4,True
+2279,Mr. Popper's Penguins,2011,PG,94,48,68.2,True
+2280,Snow Flower and the Secret Fan,2011,PG-13,120,21,1.3,True
+2281,Cars 2,2011,G,106,39,191.5,True
+2282,"Love, Wedding, Marriage",2011,PG-13,90,0,0.0014,True
+2283,Bad Teacher,2011,R,92,44,100.3,True
+2284,Transformers: Dark of the Moon,2011,PG-13,154,35,352.4,True
+2285,Larry Crowne,2011,PG-13,98,36,35.6,True
+2286,Monte Carlo,2011,PG,109,38,23.2,True
+2287,Zookeeper,2011,PG,102,14,80.4,True
+2288,Horrible Bosses,2011,R,98,69,117.5,True
+2289,The Son of No One,2011,R,90,16,0.0289,True
+2290,Salvation Boulevard,2011,R,96,21,0.0274,True
+2291,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,96,381.0,True
+2292,Winnie the Pooh,2011,G,63,90,26.7,True
+2293,Captain America: The First Avenger,2011,PG-13,124,79,176.6,True
+2294,Friends with Benefits,2011,R,109,70,55.8,True
+2295,A Better Life,2011,PG-13,98,85,1.8,True
+2296,"Crazy, Stupid, Love.",2011,PG-13,118,78,84.3,True
+2297,Cowboys & Aliens,2011,PG-13,119,44,100.2,True
+2298,The Smurfs,2011,PG,103,22,142.6,True
+2299,Rise of the Planet of the Apes,2011,PG-13,105,82,176.7,True
+2300,Magic Trip,2011,R,107,69,0.2,True
+2301,The Change-Up,2011,R,112,25,37.0,True
+2302,The Help,2011,PG-13,146,76,169.7,True
+2303,30 Minutes or Less,2011,R,83,44,37.1,True
+2304,Final Destination 5,2011,R,92,61,42.6,True
+2305,Glee: The 3D Concert Movie,2011,PG,84,60,11.9,True
+2306,Project Nim,2011,PG-13,93,98,0.4,True
+2307,The Future,2011,R,91,71,0.6,True
+2308,Conan O'Brien Can't Stop,2011,R,89,80,0.3,True
+2309,Fright Night,2011,R,106,72,18.3,True
+2310,Spy Kids: All the Time in the World in 4D,2011,PG,89,22,38.5,True
+2311,One Day,2011,PG-13,107,36,13.8,True
+2312,Conan the Barbarian,2011,R,113,24,21.3,True
+2313,The Greatest Movie Ever Sold,2011,PG-13,90,73,0.6,True
+2314,Higher Ground,2011,R,109,81,0.8,True
+2315,Colombiana,2011,PG-13,108,27,36.7,True
+2316,The Family Tree,2011,R,87,10,0.0037,True
+2317,Our Idiot Brother,2011,R,90,67,24.8,True
+2318,Seven Days in Utopia,2011,G,100,14,4.4,True
+2319,Shark Night 3D,2011,PG-13,90,17,18.9,True
+2320,Apollo 18,2011,PG-13,86,24,17.7,True
+2321,Seeking Justice,2011,R,105,27,0.4,True
+2322,Creature,2011,R,93,11,0.3,True
+2323,Bucky Larson: Born to Be a Star,2011,R,97,0,2.3,True
+2324,Warrior,2011,PG-13,140,83,13.7,True
+2325,Contagion,2011,PG-13,106,84,75.6,True
+2326,Drive,2011,R,100,93,35.1,True
+2327,Straw Dogs,2011,R,110,41,10.3,True
+2328,I Don't Know How She Does It,2011,PG-13,89,17,9.7,True
+2329,Answers to Nothing,2011,R,124,9,0.022000000000000002,True
+2330,Abduction,2011,PG-13,106,4,28.1,True
+2331,A Bird of the Air,2011,PG-13,108,30,0.0102,True
+2332,Dolphin Tale,2011,PG,113,82,72.3,True
+2333,Moneyball,2011,PG-13,133,95,75.6,True
+2334,Musical Chairs,2011,PG-13,102,37,0.0299,True
+2335,Page One: Inside the New York Times,2011,R,92,79,1.1,True
+2336,Margin Call,2011,R,107,88,5.4,True
+2337,Dream House,2011,PG-13,92,6,21.3,True
+2338,Red State,2011,R,88,58,1.0,True
+2339,Courageous,2011,PG-13,129,30,34.5,True
+2340,What's Your Number?,2011,R,106,23,14.0,True
+2341,50/50,2011,R,100,94,35.0,True
+2342,Munger Road,2011,PG-13,86,0,0.3,True
+2343,Intruders,2011,R,100,31,0.0647,True
+2344,Real Steel,2011,PG-13,127,60,85.5,True
+2345,The Ides of March,2011,R,101,85,41.0,True
+2346,Another Earth,2011,PG-13,92,63,1.3,True
+2347,Footloose,2011,PG-13,113,70,51.8,True
+2348,Texas Killing Fields,2011,R,105,33,0.0453,True
+2349,The Big Year,2011,PG,100,40,7.2,True
+2350,Addiction Incorporated,2011,PG-13,100,75,0.04,True
+2351,The Thing,2011,R,103,35,16.9,True
+2352,Johnny English Reborn,2011,PG,101,39,8.3,True
+2353,We Need to Talk About Kevin,2011,R,112,76,1.7,True
+2354,Trespass,2011,R,91,10,0.0168,True
+2355,Paranormal Activity 3,2011,R,83,68,104.0,True
+2356,The Three Musketeers,2011,PG-13,110,24,20.4,True
+2357,The Music Never Stopped,2011,PG,105,65,0.3,True
+2358,A Good Old Fashioned Orgy,2011,R,95,32,0.1,True
+2359,Puss in Boots,2011,PG,90,84,149.2,True
+2360,The Rum Diary,2011,R,120,50,13.1,True
+2361,Anonymous,2011,PG-13,130,46,4.5,True
+2362,The Double,2011,PG-13,98,20,0.1,True
+2363,In Time,2011,PG-13,109,36,37.6,True
+2364,Hide Away,2011,PG-13,88,42,0.0296,True
+2365,Machine Gun Preacher,2011,R,129,29,0.5,True
+2366,Tower Heist,2011,PG-13,104,68,78.0,True
+2367,A Very Harold & Kumar 3D Christmas,2011,R,90,68,35.0,True
+2368,Loosies,2011,PG-13,89,19,0.0033,True
+2369,Take Shelter,2011,R,120,91,1.7,True
+2370,Jack and Jill,2011,PG,91,3,74.2,True
+2371,Immortals,2011,R,110,35,83.5,True
+2372,J. Edgar,2011,R,137,43,37.3,True
+2373,The Twilight Saga: Breaking Dawn - Part 1,2011,PG-13,117,24,281.3,True
+2374,Arthur Christmas,2011,PG,97,92,46.4,True
+2375,The Muppets,2011,PG,103,96,88.6,True
+2376,Hugo,2011,PG,126,94,73.8,True
+2377,The Deep Blue Sea,2011,R,98,79,1.1,True
+2378,Another Happy Day,2011,R,119,45,0.0085,True
+2379,The Sitter,2011,R,81,21,30.2,True
+2380,The Descendants,2011,R,115,89,82.6,True
+2381,New Year's Eve,2011,PG-13,113,7,54.5,True
+2382,On the Ice,2011,R,96,67,0.0705,True
+2383,Alvin and the Chipmunks: Chipwrecked,2011,G,87,12,133.1,True
+2384,Sherlock Holmes: A Game of Shadows,2011,PG-13,129,59,186.8,True
+2385,Young Adult,2011,R,94,80,16.3,True
+2386,Martha Marcy May Marlene,2011,R,102,90,3.0,True
+2387,Mission: Impossible - Ghost Protocol,2011,PG-13,133,93,209.4,True
+2388,The Girl with the Dragon Tattoo,2011,R,158,86,102.5,True
+2389,The Adventures of Tintin,2011,PG,107,75,77.6,True
+2390,My Week with Marilyn,2011,R,99,83,14.6,True
+2391,We Bought a Zoo,2011,PG,124,66,75.6,True
+2392,The Darkest Hour,2011,PG-13,89,12,21.4,True
+2393,War Horse,2011,PG-13,146,77,79.9,True
+2394,Roadie,2011,R,95,72,0.0076,True
+2395,Haywire,2011,R,93,80,18.9,True
+2396,Extremely Loud & Incredibly Close,2011,PG-13,129,46,31.8,True
+2397,The Artist,2011,PG-13,100,97,44.7,True
+2398,The Grey,2011,R,117,79,51.5,True
+2399,Like Crazy,2011,PG-13,90,72,3.4,True
+2400,Circumstance,2011,R,107,86,0.5,True
+2401,In the Land of Blood and Honey,2011,R,127,55,0.3,True
+2402,Buck,2011,PG,88,89,4.0,True
+2403,Ghost Rider: Spirit of Vengeance,2011,PG-13,96,17,51.8,True
+2404,Corman's World: Exploits of a Hollywood Rebel,2011,R,95,92,0.006999999999999999,True
+2405,Albert Nobbs,2011,R,113,56,3.0,True
+2406,Rampart,2011,R,108,74,1.0,True
+2407,Goon,2011,R,92,82,4.2,True
+2408,Silent House,2011,R,86,41,12.6,True
+2409,Puncture,2011,R,100,51,0.0671,True
+2410,Jiro Dreams of Sushi,2011,PG,81,99,2.6,True
+2411,Friends with Kids,2011,R,107,66,7.3,True
+2412,Natural Selection,2011,R,90,71,0.0482,True
+2413,Bellflower,2011,R,106,74,0.2,True
+2414,The Trouble with Bliss,2011,PG-13,97,29,0.0109,True
+2415,The Innkeepers,2011,R,101,79,0.0775,True
+2416,Into the Abyss,2011,PG-13,107,91,0.2,True
+2417,The Island President,2011,PG,101,98,0.0752,True
+2418,Paul Williams Still Alive,2011,PG-13,87,97,0.0376,True
+2419,The Raid: Redemption,2011,R,101,85,4.1,True
+2420,Touchback,2011,PG-13,118,38,0.2,True
+2421,The Divide,2011,R,112,25,0.018000000000000002,True
+2422,Damsels in Distress,2011,PG-13,99,75,1.0,True
+2423,Being Elmo: A Puppeteer's Journey,2011,PG,80,95,0.3,True
+2424,Laugh at My Pain,2011,R,89,71,7.7,True
+2425,Bully,2011,PG-13,98,84,44.7,True
+2426,A Little Bit of Heaven,2011,PG-13,106,4,0.01,True
+2427,Last Call at the Oasis,2011,PG-13,105,83,0.0408,True
+2428,Kill the Irishman,2011,R,106,63,1.2,True
+2429,"Jeff, Who Lives at Home",2011,R,83,78,4.2,True
+2430,The Best Exotic Marigold Hotel,2011,PG-13,124,78,46.4,True
+2431,God Bless America,2011,R,105,67,0.1,True
+2432,Margaret,2011,R,150,74,0.0465,True
+2433,Bernie,2011,PG-13,104,90,9.2,True
+2434,Lovely Molly,2011,R,99,41,0.018000000000000002,True
+2435,Neil Young Journeys,2011,PG,87,88,0.2,True
+2436,Your Sister's Sister,2011,R,90,83,1.6,True
+2437,Killer Joe,2011,R,102,78,0.9,True
+2438,Revenge of the Electric Car,2011,PG-13,90,70,0.2,True
+2439,I Melt with You,2011,R,129,12,0.006,True
+2440,Undefeated,2011,PG-13,113,96,0.6,True
+2441,Sound of My Voice,2011,R,85,75,0.4,True
+2442,Terri,2011,R,105,86,0.7,True
+2443,"Peace, Love, & Misunderstanding",2011,R,96,29,0.5,True
+2444,Samsara,2011,PG-13,102,77,2.6,True
+2445,The Good Doctor,2011,PG-13,93,66,0.0032,True
+2446,The Day,2011,R,87,23,0.0205,True
+2447,Diana Vreeland: The Eye Has to Travel,2011,PG-13,86,94,1.0,True
+2448,10 Years,2011,PG-13,100,60,0.2,True
+2449,The Oranges,2011,R,90,34,0.4,True
+2450,Butter,2011,R,90,33,0.0709,True
+2451,Comic-Con Episode IV: A Fan's Hope,2011,PG-13,88,83,0.0347,True
+2452,4:44 Last Day on Earth,2011,R,82,48,0.0157,True
+2453,Dorfman in Love,2011,R,92,15,0.0137,True
+2454,October Baby,2011,PG-13,107,22,5.4,True
+2455,Violet & Daisy,2011,R,88,22,0.01,True
+2456,You're Next,2011,R,95,75,18.5,True
+2457,Take Me Home,2011,PG-13,97,0,0.0154,True
+2458,Cassadaga,2011,R,108,10,0.0017,True
+2459,Forks Over Knives,2011,PG,90,61,1.0,True
+2460,Fort McCoy,2011,R,100,50,0.0782,True
+2461,The Devil Inside,2012,R,83,6,53.2,True
+2462,Joyful Noise,2012,PG-13,118,33,30.9,True
+2463,Contraband,2012,R,109,51,66.5,True
+2464,Runaway Slave,2012,PG,108,0,0.0478,True
+2465,Red Tails,2012,PG-13,125,40,49.5,True
+2466,Carol Channing: Larger Than Life,2012,PG,87,89,0.0155,True
+2467,Underworld: Awakening,2012,R,88,26,62.3,True
+2468,LUV,2012,R,94,36,0.2,True
+2469,One for the Money,2012,PG-13,91,2,26.4,True
+2470,Tim and Eric's Billion Dollar Movie,2012,R,93,38,0.2,True
+2471,Man on a Ledge,2012,PG-13,102,31,18.6,True
+2472,An Inconsistent Truth,2012,PG,89,0,0.0528,True
+2473,Chronicle,2012,PG-13,84,85,64.6,True
+2474,Big Miracle,2012,PG,107,73,20.1,True
+2475,The Vow,2012,PG-13,104,29,125.0,True
+2476,Journey 2: The Mysterious Island,2012,PG,94,42,103.8,True
+2477,Safe House,2012,R,115,53,126.1,True
+2478,This Means War,2012,PG-13,103,26,54.8,True
+2479,Act of Valor,2012,R,110,25,70.0,True
+2480,Gone,2012,PG-13,94,11,11.7,True
+2481,Good Deeds,2012,PG-13,110,31,35.0,True
+2482,Wanderlust,2012,R,98,59,17.3,True
+2483,Red Lights,2012,R,114,29,0.0493,True
+2484,The Lorax,2012,PG,86,54,213.9,True
+2485,Project X,2012,R,88,28,54.7,True
+2486,ATM,2012,R,90,9,0.002,True
+2487,John Carter,2012,PG-13,132,51,73.1,True
+2488,A Thousand Words,2012,PG-13,91,0,18.4,True
+2489,Brooklyn Castle,2012,PG,101,96,0.2,True
+2490,The Do-Deca-Pentathlon,2012,R,76,74,0.01,True
+2491,Big Star: Nothing Can Hurt Me,2012,PG-13,113,92,0.1,True
+2492,21 Jump Street,2012,R,109,85,138.4,True
+2493,The Hunger Games,2012,PG-13,142,84,408.0,True
+2494,Mirror Mirror,2012,PG,106,49,64.9,True
+2495,Meeting Evil,2012,R,89,13,0.000181,True
+2496,Wrath of the Titans,2012,PG-13,99,25,83.6,True
+2497,American Reunion,2012,R,113,43,56.7,True
+2498,The Cabin in the Woods,2012,R,95,91,42.0,True
+2499,The Three Stooges,2012,PG,92,51,44.3,True
+2500,Blue Like Jazz,2012,PG-13,108,38,0.6,True
+2501,Woman Thou Art Loosed: On the 7th Day,2012,PG-13,101,20,1.2,True
+2502,Being Flynn,2012,R,102,51,0.5,True
+2503,Think Like a Man,2012,PG-13,122,53,91.5,True
+2504,Marley,2012,PG-13,144,95,1.4,True
+2505,The Lucky One,2012,PG-13,101,20,60.4,True
+2506,Jesus Henry Christ,2012,PG-13,92,24,0.0184,True
+2507,To the Arctic 3D,2012,G,40,67,0.000712,True
+2508,Jack & Diane,2012,R,110,13,0.001,True
+2509,The Giant Mechanical Man,2012,PG-13,94,71,0.0054,True
+2510,Safe,2012,R,94,57,17.1,True
+2511,The Raven,2012,R,110,22,16.0,True
+2512,The Pirates! Band of Misfits,2012,PG,88,86,31.1,True
+2513,The Five-Year Engagement,2012,R,124,63,28.6,True
+2514,The Avengers,2012,PG-13,143,92,623.3,True
+2515,Dark Shadows,2012,PG-13,113,37,79.7,True
+2516,Otter 501,2012,G,85,60,0.0129,True
+2517,Casa de mi Padre,2012,R,84,42,5.9,True
+2518,Piranha 3DD,2012,R,83,13,0.4,True
+2519,The Dictator,2012,R,83,57,59.6,True
+2520,Brake,2012,R,92,44,0.0043,True
+2521,What to Expect When You're Expecting,2012,PG-13,110,22,41.1,True
+2522,Crooked Arrows,2012,PG-13,105,38,1.7,True
+2523,Battleship,2012,PG-13,131,34,65.2,True
+2524,On the Road,2012,R,124,43,0.7,True
+2525,Darling Companion,2012,PG-13,103,22,0.8,True
+2526,Men in Black 3,2012,PG-13,106,69,179.0,True
+2527,Snow White and the Huntsman,2012,PG-13,127,48,155.1,True
+2528,Lola Versus,2012,R,87,35,0.3,True
+2529,Prometheus,2012,R,124,73,126.5,True
+2530,Madagascar 3: Europe's Most Wanted,2012,PG,93,79,216.4,True
+2531,Ai Weiwei: Never Sorry,2012,R,91,97,0.5,True
+2532,That's My Boy,2012,R,116,20,36.9,True
+2533,Rock of Ages,2012,PG-13,123,41,38.5,True
+2534,Battlefield America,2012,PG-13,106,8,0.2,True
+2535,Lay the Favorite,2012,R,94,19,0.021,True
+2536,Brave,2012,PG,93,78,237.3,True
+2537,Seeking a Friend for the End of the World,2012,R,101,55,6.6,True
+2538,The Last Ride,2012,PG-13,102,44,0.0163,True
+2539,Abraham Lincoln: Vampire Hunter,2012,R,105,35,37.5,True
+2540,People Like Us,2012,PG-13,114,55,12.4,True
+2541,Magic Mike,2012,R,110,80,113.7,True
+2542,Moonrise Kingdom,2012,PG-13,94,94,45.5,True
+2543,Ted,2012,R,106,67,218.6,True
+2544,Madea's Witness Protection,2012,PG-13,114,21,65.6,True
+2545,The Amazing Spider-Man,2012,PG-13,136,72,262.0,True
+2546,Katy Perry: Part of Me,2012,PG,93,77,25.3,True
+2547,Beasts of the Southern Wild,2012,PG-13,93,86,12.8,True
+2548,Cowgirls 'n Angels,2012,PG,92,0,0.1,True
+2549,Savages,2012,R,131,51,47.3,True
+2550,The Magic of Belle Isle,2012,PG,109,30,0.1,True
+2551,To Rome with Love,2012,R,112,44,16.7,True
+2552,The Obama Effect,2012,PG-13,85,0,0.1,True
+2553,Ice Age: Continental Drift,2012,PG,88,37,161.3,True
+2554,Soldiers of Fortune,2012,R,94,14,0.0388,True
+2555,The Dark Knight Rises,2012,PG-13,165,87,448.1,True
+2556,Something from Nothing: The Art of Rap,2012,R,106,92,0.3,True
+2557,The Watch,2012,R,102,17,34.4,True
+2558,Step Up Revolution,2012,PG-13,99,42,35.1,True
+2559,Total Recall,2012,PG-13,118,30,58.9,True
+2560,Diary of a Wimpy Kid: Dog Days,2012,PG,94,51,49.0,True
+2561,Nitro Circus: The Movie,2012,PG-13,92,6,3.4,True
+2562,Hope Springs,2012,PG-13,100,74,63.5,True
+2563,About Cherry,2012,R,98,10,0.0028,True
+2564,No,2012,R,118,93,2.3,True
+2565,The Campaign,2012,R,85,64,86.9,True
+2566,Girl in Progress,2012,PG-13,93,30,2.6,True
+2567,The Bourne Legacy,2012,PG-13,135,55,113.2,True
+2568,The Odd Life of Timothy Green,2012,PG,105,34,51.9,True
+2569,ParaNorman,2012,PG,92,87,56.0,True
+2570,Why Stop Now?,2012,R,85,24,0.0016,True
+2571,Sparkle,2012,PG-13,116,57,24.4,True
+2572,The Expendables 2,2012,R,103,65,85.0,True
+2573,Hit and Run,2012,R,100,49,13.7,True
+2574,Celeste & Jesse Forever,2012,R,92,70,3.1,True
+2575,Premium Rush,2012,PG-13,91,75,20.3,True
+2576,The Apparition,2012,PG-13,82,3,4.9,True
+2577,2016: Obama's America,2012,PG,87,26,33.3,True
+2578,The Babymakers,2012,R,95,8,0.0052,True
+2579,The Oogieloves in the Big Balloon Adventure,2012,G,88,27,1.1,True
+2580,Lawless,2012,R,116,67,37.4,True
+2581,The Possession,2012,PG-13,92,40,49.1,True
+2582,Bachelorette,2012,R,87,56,0.4,True
+2583,Stolen,2012,R,96,16,0.3,True
+2584,V/H/S,2012,R,116,55,0.0998,True
+2585,Nobody Walks,2012,R,83,38,0.025,True
+2586,Ruby Sparks,2012,R,104,79,2.5,True
+2587,Branded,2012,R,106,10,0.4,True
+2588,The Cold Light of Day,2012,PG-13,93,5,3.7,True
+2589,The Words,2012,PG-13,102,22,11.4,True
+2590,Arbitrage,2012,R,107,87,7.9,True
+2591,Last Ounce of Courage,2012,PG,101,0,3.3,True
+2592,Resident Evil: Retribution,2012,R,96,31,42.3,True
+2593,Robot & Frank,2012,PG-13,89,86,3.3,True
+2594,Dredd,2012,R,95,78,13.4,True
+2595,The Master,2012,R,144,85,16.2,True
+2596,Trouble with the Curve,2012,PG-13,111,50,35.8,True
+2597,Head Games,2012,PG-13,95,88,0.0141,True
+2598,House at the End of the Street,2012,PG-13,101,10,31.6,True
+2599,My Uncle Rafael,2012,PG-13,102,20,0.2,True
+2600,Backwards,2012,PG,89,28,0.0615,True
+2601,End of Watch,2012,R,109,85,41.0,True
+2602,Compliance,2012,R,90,89,0.3,True
+2603,Looper,2012,R,119,93,66.3,True
+2604,Hotel Transylvania,2012,PG,91,44,148.3,True
+2605,Trade of Innocents,2012,PG-13,88,0,0.0151,True
+2606,Won't Back Down,2012,PG,121,32,5.3,True
+2607,Nature Calls,2012,R,79,5,0.00038199999999999996,True
+2608,Escape Fire: The Fight to Rescue American Healthcare,2012,PG-13,95,81,0.0973,True
+2609,Pitch Perfect,2012,PG-13,112,81,61.1,True
+2610,Frankenweenie,2012,PG,87,87,35.3,True
+2611,Liberal Arts,2012,PG-13,97,70,0.3,True
+2612,Argo,2012,R,120,96,136.0,True
+2613,Atlas Shrugged II: The Strike,2012,PG-13,111,4,3.3,True
+2614,The Perks of Being a Wallflower,2012,PG-13,102,85,17.7,True
+2615,Here Comes the Boom,2012,PG,105,38,45.3,True
+2616,Least Among Saints,2012,R,107,36,0.027999999999999997,True
+2617,Sinister,2012,R,110,62,48.1,True
+2618,The Paperboy,2012,R,107,43,0.7,True
+2619,Just 45 Minutes from Broadway,2012,R,110,10,0.0886,True
+2620,Safety Not Guaranteed,2012,R,86,90,4.0,True
+2621,Paranormal Activity 4,2012,R,88,24,53.9,True
+2622,Alex Cross,2012,PG-13,101,12,25.9,True
+2623,Hating Breitbart,2012,PG-13,85,0,0.0814,True
+2624,Universal Soldier: Day of Reckoning,2012,R,114,51,0.0052,True
+2625,Chasing Mavericks,2012,PG,116,31,6.0,True
+2626,Silent Hill: Revelation 3D,2012,R,95,5,17.5,True
+2627,Fun Size,2012,PG-13,86,25,9.4,True
+2628,Cloud Atlas,2012,R,172,66,27.1,True
+2629,Long Shot: The Kevin Laue Story,2012,PG-13,93,67,0.0284,True
+2630,The Man with the Iron Fists,2012,R,95,49,15.6,True
+2631,Flight,2012,R,138,77,93.7,True
+2632,"For a Good Time, Call...",2012,R,85,55,1.2,True
+2633,Vamps,2012,PG-13,92,53,0.003,True
+2634,Wreck-It Ralph,2012,PG,101,86,189.4,True
+2635,Save the Date,2012,R,97,46,0.0038,True
+2636,Deadfall,2012,R,95,32,0.0658,True
+2637,Grassroots,2012,R,98,52,0.0065,True
+2638,Skyfall,2012,PG-13,143,92,304.4,True
+2639,The Sessions,2012,R,95,93,6.0,True
+2640,30 Beats,2012,R,88,5,0.0147,True
+2641,The Twilight Saga: Breaking Dawn - Part 2,2012,PG-13,115,48,292.3,True
+2642,Lincoln,2012,PG-13,150,90,182.2,True
+2643,Rise of the Guardians,2012,PG,97,74,103.4,True
+2644,Life of Pi,2012,PG,127,87,125.0,True
+2645,The Bay,2012,R,84,77,0.0305,True
+2646,Red Dawn,2012,PG-13,93,12,44.8,True
+2647,West of Memphis,2012,R,147,95,0.3,True
+2648,A Late Quartet,2012,R,105,78,1.6,True
+2649,Mansome,2012,PG-13,82,25,0.0184,True
+2650,The Collection,2012,R,82,37,6.8,True
+2651,Killing Them Softly,2012,R,97,75,15.0,True
+2652,Silent Night,2012,R,94,64,0.0097,True
+2653,Playing for Keeps,2012,PG-13,105,3,13.1,True
+2654,Waiting for Lightning,2012,PG-13,96,43,0.0195,True
+2655,Smashed,2012,R,81,84,0.4,True
+2656,The Hobbit: An Unexpected Journey,2012,PG-13,169,64,303.0,True
+2657,Chasing Ice,2012,PG-13,75,96,1.3,True
+2658,Hitchcock,2012,PG-13,98,62,6.0,True
+2659,The Guilt Trip,2012,PG-13,95,12,25.9,True
+2660,Cirque du Soleil: Worlds Away,2012,PG,91,47,12.5,True
+2661,Jack Reacher,2012,PG-13,130,62,80.0,True
+2662,This Is 40,2012,R,134,51,67.5,True
+2663,Parental Guidance,2012,PG,105,18,77.3,True
+2664,Django Unchained,2012,R,165,88,162.8,True
+2665,Silver Linings Playbook,2012,R,122,92,132.1,True
+2666,Les Misérables,2012,PG-13,158,70,148.8,True
+2667,Promised Land,2012,R,106,51,7.5,True
+2668,The Impossible,2012,PG-13,114,81,19.0,True
+2669,Zero Dark Thirty,2012,R,157,93,95.7,True
+2670,John Dies at the End,2012,R,99,61,0.1,True
+2671,Hello I Must Be Going,2012,R,95,74,0.0838,True
+2672,Girls Against Boys,2012,R,93,19,0.0061,True
+2673,Stand Up Guys,2012,R,95,38,3.3,True
+2674,Bullet to the Head,2012,R,92,46,9.5,True
+2675,The First Time,2012,PG-13,95,47,0.0171,True
+2676,The Package,2012,R,95,0,0.0011,True
+2677,To the Wonder,2012,R,112,45,0.6,True
+2678,A Place at the Table,2012,PG,84,90,0.2,True
+2679,Don't Stop Believin': Everyman's Journey,2012,R,105,62,0.0596,True
+2680,Greedy Lying Bastards,2012,PG-13,90,69,0.045,True
+2681,A Glimpse Inside the Mind of Charles Swan III,2012,R,86,15,0.0356,True
+2682,Spring Breakers,2012,R,94,66,14.1,True
+2683,Kiss of the Damned,2012,R,97,58,0.0143,True
+2684,Sleepwalk with Me,2012,PG-13,81,83,2.3,True
+2685,The Brass Teapot,2012,R,101,33,0.0066,True
+2686,The Lords of Salem,2012,R,101,45,1.2,True
+2687,The Place Beyond the Pines,2012,R,140,80,21.4,True
+2688,Filly Brown,2012,R,80,45,2.8,True
+2689,The Company You Keep,2012,R,125,55,5.1,True
+2690,At Any Price,2012,R,105,51,0.4,True
+2691,Stuck in Love,2012,R,97,58,0.079,True
+2692,The Iceman,2012,R,106,66,1.9,True
+2693,What Maisie Knew,2012,R,99,87,1.1,True
+2694,The Reluctant Fundamentalist,2012,R,130,53,0.5,True
+2695,No Place on Earth,2012,PG-13,83,79,0.2,True
+2696,No One Lives,2012,R,86,49,0.0721,True
+2697,Mud,2012,PG-13,130,98,21.6,True
+2698,Disconnect,2012,R,115,68,1.4,True
+2699,Red Hook Summer,2012,R,121,58,0.3,True
+2700,Byzantium,2012,R,118,63,0.0843,True
+2701,It's a Disaster,2012,R,88,77,0.0572,True
+2702,Tiger Eyes,2012,PG-13,92,66,0.0252,True
+2703,Évocateur: The Morton Downey Jr. Movie,2012,R,90,90,0.0215,True
+2704,Arthur Newman,2012,R,101,20,0.2,True
+2705,Much Ado About Nothing,2012,PG-13,109,84,4.3,True
+2706,Frances Ha,2012,R,86,93,4.1,True
+2707,Venus and Serena,2012,PG-13,99,77,0.051,True
+2708,Girl Most Likely,2012,PG-13,103,21,1.4,True
+2709,Emperor,2012,PG-13,105,31,3.3,True
+2710,Jayne Mansfield's Car,2012,R,122,34,0.0143,True
+2711,Any Day Now,2012,R,98,79,0.2,True
+2712,Thanks for Sharing,2012,R,112,49,1.1,True
+2713,The Citizen,2012,PG-13,99,0,0.0243,True
+2714,Best Man Down,2012,PG-13,89,33,0.0018,True
+2715,The Summit,2012,R,95,61,0.2,True
+2716,Great Expectations,2012,PG-13,128,64,0.3,True
+2717,Bettie Page Reveals All,2012,R,101,72,0.1,True
+2718,The Girl,2012,PG-13,95,53,0.0342,True
+2719,For No Good Reason,2012,R,89,63,0.0671,True
+2720,Aftershock,2012,R,89,35,0.0402,True
+2721,War of the Worlds: Goliath,2012,PG-13,85,0,1.0,True
+2722,The Queen of Versailles,2012,PG,100,94,2.4,True
+2723,A Haunted House,2013,R,86,10,40.0,True
+2724,Gangster Squad,2013,R,113,31,46.0,True
+2725,The Last Stand,2013,R,107,60,12.0,True
+2726,Mother of George,2013,R,107,93,0.1,True
+2727,Broken City,2013,R,109,28,19.7,True
+2728,Blue Caprice,2013,R,93,83,0.0911,True
+2729,C.O.G.,2013,R,88,70,0.0553,True
+2730,Ghost Team One,2013,R,84,36,0.0073,True
+2731,A.C.O.D.,2013,R,88,50,0.2,True
+2732,Hansel & Gretel: Witch Hunters,2013,R,88,15,55.7,True
+2733,Movie 43,2013,R,94,4,8.8,True
+2734,Parker,2013,R,118,41,17.6,True
+2735,The Inevitable Defeat of Mister & Pete,2013,R,108,91,0.5,True
+2736,Warm Bodies,2013,PG-13,98,81,66.4,True
+2737,Identity Thief,2013,R,111,19,134.5,True
+2738,Side Effects,2013,R,106,83,32.2,True
+2739,A Good Day to Die Hard,2013,R,98,14,67.3,True
+2740,Beautiful Creatures,2013,PG-13,124,46,19.4,True
+2741,Safe Haven,2013,PG-13,115,12,71.3,True
+2742,Escape from Planet Earth,2013,PG,89,33,57.0,True
+2743,The Power of Few,2013,R,96,57,0.0304,True
+2744,Snitch,2013,PG-13,112,56,42.9,True
+2745,Dark Skies,2013,PG-13,97,40,17.4,True
+2746,"Bless Me, Ultima",2013,PG-13,106,71,1.6,True
+2747,Camp,2013,PG-13,109,0,0.3,True
+2748,Aftermath,2013,R,84,0,0.003,True
+2749,Jack the Giant Slayer,2013,PG-13,114,52,65.2,True
+2750,Stoker,2013,R,99,69,1.7,True
+2751,Phantom,2013,R,98,25,1.0,True
+2752,The Last Exorcism Part II,2013,PG-13,88,16,15.2,True
+2753,21 & Over,2013,R,93,27,25.7,True
+2754,Girl on a Bicycle,2013,R,101,8,0.0894,True
+2755,Dead Man Down,2013,R,118,38,10.9,True
+2756,Oz the Great and Powerful,2013,PG,130,59,234.9,True
+2757,The Wait,2013,R,96,18,0.0021,True
+2758,The Call,2013,R,94,43,51.9,True
+2759,The Incredible Burt Wonderstone,2013,PG-13,100,36,22.5,True
+2760,Olympus Has Fallen,2013,R,119,48,98.9,True
+2761,The Croods,2013,PG,98,70,187.2,True
+2762,Admission,2013,PG-13,107,38,18.0,True
+2763,Love and Honor,2013,PG-13,100,13,0.0163,True
+2764,Trance,2013,R,101,68,2.3,True
+2765,G.I. Joe: Retaliation,2013,PG-13,110,28,122.5,True
+2766,The Host,2013,PG-13,125,8,26.6,True
+2767,Temptation: Confessions of a Marriage Counselor,2013,PG-13,111,15,51.9,True
+2768,Evil Dead,2013,R,91,62,54.2,True
+2769,Redwood Highway,2013,PG-13,90,80,0.1,True
+2770,Underdogs,2013,PG,102,0,0.0348,True
+2771,42,2013,PG-13,128,79,95.0,True
+2772,Not Today,2013,PG-13,118,50,0.3,True
+2773,Scary Movie 5,2013,PG-13,86,4,32.0,True
+2774,Oblivion,2013,PG-13,124,54,89.0,True
+2775,Home Run,2013,PG-13,113,45,2.9,True
+2776,The Girl on the Train,2013,R,80,0,0.0029,True
+2777,King's Faith,2013,PG-13,108,0,0.0593,True
+2778,Pain & Gain,2013,R,129,49,49.9,True
+2779,The Big Wedding,2013,R,89,7,21.8,True
+2780,Syrup,2013,R,90,14,0.000656,True
+2781,Scatter My Ashes at Bergdorf's,2013,PG-13,93,49,0.5,True
+2782,Iron Man 3,2013,PG-13,130,79,409.0,True
+2783,Peeples,2013,PG-13,95,37,9.1,True
+2784,The Great Gatsby,2013,PG-13,143,48,144.8,True
+2785,Star Trek Into Darkness,2013,PG-13,132,87,228.8,True
+2786,Only God Forgives,2013,R,90,40,0.8,True
+2787,The Hangover Part III,2013,R,100,19,112.2,True
+2788,Fast & Furious 6,2013,PG-13,130,69,238.7,True
+2789,Now You See Me,2013,PG-13,115,50,117.7,True
+2790,After Earth,2013,PG-13,100,11,60.5,True
+2791,V/H/S/2,2013,R,96,70,0.0214,True
+2792,The Internship,2013,PG-13,119,34,44.7,True
+2793,The Purge,2013,R,85,38,64.4,True
+2794,This Is the End,2013,R,107,83,101.5,True
+2795,Before Midnight,2013,R,109,98,8.1,True
+2796,Man of Steel,2013,PG-13,143,56,291.0,True
+2797,Axe Giant: The Wrath of Paul Bunyan,2013,R,90,0,0.0025,True
+2798,The Bling Ring,2013,R,90,60,5.8,True
+2799,World War Z,2013,PG-13,116,68,202.4,True
+2800,Monsters University,2013,G,104,78,268.5,True
+2801,Life of a King,2013,PG-13,100,38,0.0042,True
+2802,Europa Report,2013,PG-13,90,80,0.1,True
+2803,The Heat,2013,R,117,65,159.6,True
+2804,Redemption,2013,R,100,48,0.035,True
+2805,Copperhead,2013,PG-13,120,21,0.2,True
+2806,White House Down,2013,PG-13,131,51,73.1,True
+2807,The East,2013,PG-13,116,74,2.3,True
+2808,Despicable Me 2,2013,PG,98,74,368.0,True
+2809,The Lone Ranger,2013,PG-13,149,31,89.3,True
+2810,Kevin Hart: Let Me Explain,2013,R,75,63,32.2,True
+2811,Man of Tai Chi,2013,R,105,70,0.1,True
+2812,We Steal Secrets: The Story of WikiLeaks,2013,R,130,93,0.2,True
+2813,Pacific Rim,2013,PG-13,131,72,101.8,True
+2814,Grown Ups 2,2013,PG-13,101,7,133.7,True
+2815,Turbo,2013,PG,96,67,83.0,True
+2816,Breathe In,2013,R,98,55,0.0814,True
+2817,R.I.P.D.,2013,PG-13,96,13,33.6,True
+2818,RED 2,2013,PG-13,116,43,53.2,True
+2819,The Conjuring,2013,R,112,86,137.4,True
+2820,Drinking Buddies,2013,R,90,83,0.3,True
+2821,Fruitvale Station,2013,R,85,94,16.1,True
+2822,The To Do List,2013,R,104,52,3.4,True
+2823,The Way Way Back,2013,PG-13,103,85,21.5,True
+2824,The Wolverine,2013,PG-13,126,69,132.6,True
+2825,The Smurfs 2,2013,PG,105,14,71.0,True
+2826,The English Teacher,2013,R,93,42,0.0602,True
+2827,2 Guns,2013,R,109,64,75.6,True
+2828,The Canyons,2013,R,99,24,0.0495,True
+2829,Percy Jackson: Sea of Monsters,2013,PG,106,42,68.6,True
+2830,We're the Millers,2013,R,110,47,150.4,True
+2831,Lovelace,2013,R,93,54,0.4,True
+2832,Elysium,2013,R,109,68,93.1,True
+2833,Planes,2013,PG,91,26,90.3,True
+2834,Jobs,2013,PG-13,128,27,16.1,True
+2835,Ain't Them Bodies Saints,2013,R,96,79,0.4,True
+2836,Kick-Ass 2,2013,R,103,30,28.8,True
+2837,Lee Daniels' The Butler,2013,PG-13,132,72,116.6,True
+2838,Paranoia,2013,PG-13,106,6,7.4,True
+2839,The Mortal Instruments: City of Bones,2013,PG-13,130,12,31.2,True
+2840,The Kings of Summer,2013,R,95,75,1.3,True
+2841,Blue Jasmine,2013,PG-13,98,91,33.4,True
+2842,The World's End,2013,R,109,89,26.0,True
+2843,Bad Milo,2013,R,85,60,0.0196,True
+2844,Getaway,2013,PG-13,90,2,10.5,True
+2845,Last Flight of the Champion,2013,PG,88,0,0.0015,True
+2846,One Direction: This Is Us,2013,PG,92,63,28.9,True
+2847,Salinger,2013,PG-13,120,35,0.6,True
+2848,Snake and Mongoose,2013,PG-13,102,80,0.2,True
+2849,Good Ol' Freda,2013,PG,86,84,0.1,True
+2850,The Ultimate Life,2013,PG,105,18,1.3,True
+2851,Riddick,2013,R,119,59,42.0,True
+2852,All Is Bright,2013,R,107,48,0.0046,True
+2853,In a World...,2013,R,93,92,3.0,True
+2854,The Investigator,2013,PG-13,101,0,0.0937,True
+2855,The Spectacular Now,2013,R,95,93,6.9,True
+2856,Insidious: Chapter 2,2013,PG-13,106,38,83.6,True
+2857,Charlie Countryman,2013,R,103,29,0.008,True
+2858,The Family,2013,R,111,29,36.9,True
+2859,Prince Avalanche,2013,R,94,83,0.2,True
+2860,Kill Your Darlings,2013,R,104,76,1.0,True
+2861,Prisoners,2013,R,153,82,61.0,True
+2862,Battle of the Year,2013,PG-13,110,6,8.9,True
+2863,The Lunchbox,2013,PG,104,96,4.2,True
+2864,The Short Game,2013,PG,99,83,0.0389,True
+2865,Nothing Left to Fear,2013,R,100,8,0.0079,True
+2866,Cloudy with a Chance of Meatballs 2,2013,PG,95,70,119.8,True
+2867,Baggage Claim,2013,PG-13,96,14,21.6,True
+2868,Alone Yet Not Alone,2013,PG-13,103,0,0.7,True
+2869,Don Jon,2013,R,90,80,24.5,True
+2870,Austenland,2013,PG-13,97,30,2.2,True
+2871,Rush,2013,R,123,89,26.9,True
+2872,Linsanity,2013,PG,89,63,0.3,True
+2873,Parkland,2013,PG-13,93,49,0.7,True
+2874,Tim's Vermeer,2013,PG-13,80,89,1.7,True
+2875,Gravity,2013,PG-13,91,97,274.1,True
+2876,Grace Unplugged,2013,PG,102,50,2.5,True
+2877,Runner Runner,2013,R,91,8,19.3,True
+2878,Metallica Through the Never,2013,R,93,78,3.4,True
+2879,Captain Phillips,2013,PG-13,134,93,107.1,True
+2880,Machete Kills,2013,R,107,29,7.9,True
+2881,Enough Said,2013,PG-13,93,96,17.5,True
+2882,Walking with the Enemy,2013,PG-13,124,44,0.4,True
+2883,Plush,2013,R,99,29,0.0028,True
+2884,Escape Plan,2013,R,115,49,25.1,True
+2885,The Fifth Estate,2013,R,128,37,3.3,True
+2886,Blackfish,2013,PG-13,83,98,2.1,True
+2887,Carrie,2013,R,100,48,35.3,True
+2888,As I Lay Dying,2013,R,110,41,0.015,True
+2889,Muscle Shoals,2013,PG,111,96,0.7,True
+2890,Jackass Presents: Bad Grandpa,2013,R,92,60,102.0,True
+2891,One Chance,2013,PG-13,103,63,0.0897,True
+2892,We Are What We Are,2013,R,105,85,0.0766,True
+2893,The Counselor,2013,R,117,34,17.0,True
+2894,Innocence,2013,PG-13,96,13,0.3,True
+2895,Missionary,2013,R,90,40,0.0021,True
+2896,Blood Ties,2013,R,127,54,0.0412,True
+2897,A Perfect Man,2013,R,95,20,0.000388,True
+2898,Big Sur,2013,R,81,45,0.0359,True
+2899,Free Birds,2013,PG,91,18,55.7,True
+2900,Last Vegas,2013,PG-13,105,46,63.9,True
+2901,Cutie and the Boxer,2013,R,82,96,0.2,True
+2902,Thor: The Dark World,2013,PG-13,112,65,206.4,True
+2903,The Armstrong Lie,2013,R,124,84,0.4,True
+2904,The Best Man Holiday,2013,R,123,68,70.5,True
+2905,The Christmas Candle,2013,PG,100,18,2.2,True
+2906,Kids for Cash,2013,PG-13,102,91,0.0366,True
+2907,"No God, No Master",2013,PG-13,94,69,0.0068,True
+2908,Pawn Shop Chronicles,2013,R,112,13,0.0049,True
+2909,Delivery Man,2013,PG-13,105,39,30.7,True
+2910,Dallas Buyers Club,2013,R,117,93,27.3,True
+2911,The Hunger Games: Catching Fire,2013,PG-13,146,89,424.6,True
+2912,Frozen,2013,PG,102,89,400.7,True
+2913,The Book Thief,2013,PG-13,131,46,21.5,True
+2914,Oldboy,2013,R,104,41,2.2,True
+2915,Black Nativity,2013,PG,93,48,7.0,True
+2916,Homefront,2013,R,100,42,20.1,True
+2917,Concussion,2013,R,96,74,0.0384,True
+2918,Out of the Furnace,2013,R,116,53,11.3,True
+2919,I'm in Love with a Church Girl,2013,PG,118,6,2.4,True
+2920,Afternoon Delight,2013,R,98,67,0.2,True
+2921,The Hobbit: The Desolation of Smaug,2013,PG-13,161,74,258.4,True
+2922,Tyler Perry's A Madea Christmas,2013,PG-13,100,18,52.5,True
+2923,Anchorman 2: The Legend Continues,2013,R,119,75,127.3,True
+2924,Saving Mr. Banks,2013,PG-13,125,80,83.3,True
+2925,American Hustle,2013,R,138,93,150.1,True
+2926,Walking with Dinosaurs 3D,2013,PG,87,24,3.5,True
+2927,The Secret Life of Walter Mitty,2013,PG,114,50,58.2,True
+2928,47 Ronin,2013,PG-13,118,15,38.3,True
+2929,The Wolf of Wall Street,2013,R,180,77,116.9,True
+2930,Cold Comes the Night,2013,R,90,44,0.0116,True
+2931,Her,2013,R,126,94,25.6,True
+2932,Lone Survivor,2013,R,121,75,125.1,True
+2933,After Tiller,2013,PG-13,85,94,0.0663,True
+2934,August: Osage County,2013,R,121,64,37.7,True
+2935,Inside Llewyn Davis,2013,R,104,94,13.2,True
+2936,The Unknown Known,2013,PG-13,103,83,0.1,True
+2937,Raze,2013,R,92,45,0.0035,True
+2938,I Spit on Your Grave 2,2013,R,106,0,0.00044100000000000004,True
+2939,Nebraska,2013,R,115,91,17.6,True
+2940,Labor Day,2013,PG-13,111,34,13.4,True
+2941,At Middleton,2013,R,99,58,0.0529,True
+2942,The Pretty One,2013,R,90,47,0.0112,True
+2943,Adult World,2013,R,97,56,0.0167,True
+2944,Hell Baby,2013,R,98,32,0.005,True
+2945,Touchy Feely,2013,R,89,36,0.036000000000000004,True
+2946,Twenty Feet from Stardom,2013,PG-13,91,99,4.9,True
+2947,Under the Skin,2013,R,108,85,2.6,True
+2948,Narco Cultura,2013,R,103,86,0.1,True
+2949,Bad Words,2013,R,89,65,7.8,True
+2950,The Retrieval,2013,R,92,92,0.0503,True
+2951,In Secret,2013,R,107,41,0.4,True
+2952,Fading Gigolo,2013,R,90,54,3.8,True
+2953,Joe,2013,R,117,86,0.4,True
+2954,Oculus,2013,R,104,73,27.7,True
+2955,Make Your Move,2013,PG-13,110,43,0.1,True
+2956,Locke,2013,R,85,91,1.4,True
+2957,Night Moves,2013,R,112,85,0.3,True
+2958,Filth,2013,R,97,62,0.0343,True
+2959,Savannah,2013,PG-13,101,8,0.0367,True
+2960,The Sacrament,2013,R,99,62,0.009000000000000001,True
+2961,Decoding Annie Parker,2013,R,91,58,0.0398,True
+2962,Legends of Oz: Dorothy's Return,2013,PG,88,16,8.5,True
+2963,Palo Alto,2013,R,100,73,0.8,True
+2964,Chinese Puzzle,2013,R,117,75,0.3,True
+2965,Words and Pictures,2013,PG-13,111,42,2.2,True
+2966,The Immigrant,2013,R,120,88,2.0,True
+2967,Supermensch: The Legend of Shep Gordon,2013,R,85,77,0.2,True
+2968,Hateship Loveship,2013,R,104,50,0.0506,True
+2969,Jodorowsky's Dune,2013,PG-13,88,98,0.6,True
+2970,The Art of the Steal,2013,R,90,44,0.0614,True
+2971,Snowpiercer,2013,R,126,95,4.6,True
+2972,InAPPropriate Comedy,2013,R,83,0,0.2,True
+2973,Jake Squared,2013,R,100,14,0.0017,True
+2974,Knights of Badassdom,2013,R,86,58,0.0868,True
+2975,The Zero Theorem,2013,R,107,52,0.3,True
+2976,Child of God,2013,R,104,38,0.0379,True
+2977,Life of Crime,2013,R,98,64,0.3,True
+2978,Girl Rising,2013,PG-13,101,89,0.8,True
+2979,Repentance,2013,R,90,0,1.2,True
+2980,The Disappearance of Eleanor Rigby: Him,2013,R,89,63,0.6,True
+2981,Jimi: All Is by My Side,2013,R,118,66,0.3,True
+2982,Gimme Shelter,2013,PG-13,101,22,1.4,True
+2983,Third Person,2013,R,137,23,1.0,True
+2984,The Last of Robin Hood,2013,R,94,29,0.3,True
+2985,Afflicted,2013,R,85,79,0.1,True
+2986,Inequality for All,2013,PG,89,90,1.2,True
+2987,Paranormal Activity: The Marked Ones,2014,R,84,37,32.4,True
+2988,3 Nights in the Desert,2014,R,90,40,0.0013,True
+2989,The Legend of Hercules,2014,PG-13,99,3,18.8,True
+2990,Jack Ryan: Shadow Recruit,2014,PG-13,105,56,50.5,True
+2991,Devil's Due,2014,R,89,18,15.8,True
+2992,Ride Along,2014,PG-13,99,18,134.1,True
+2993,The Nut Job,2014,PG,85,10,64.2,True
+2994,Fed Up,2014,PG,92,81,1.5,True
+2995,Land Ho!,2014,R,95,80,0.7,True
+2996,That Awkward Moment,2014,R,94,23,26.0,True
+2997,The Lego Movie,2014,PG,100,96,257.8,True
+2998,Vampire Academy,2014,PG-13,104,9,7.8,True
+2999,The Monuments Men,2014,PG-13,118,31,78.0,True
+3000,RoboCop,2014,PG-13,117,49,58.6,True
+3001,Winter's Tale,2014,PG-13,118,13,12.6,True
+3002,Endless Love,2014,PG-13,104,15,23.4,True
+3003,About Last Night,2014,R,100,68,48.6,True
+3004,3 Days to Kill,2014,PG-13,117,28,30.7,True
+3005,Pompeii,2014,PG-13,105,28,23.2,True
+3006,Non-Stop,2014,PG-13,106,60,91.7,True
+3007,Son of God,2014,PG-13,138,21,59.7,True
+3008,Mr. Peabody & Sherman,2014,PG,92,79,111.5,True
+3009,300: Rise of an Empire,2014,R,102,42,106.6,True
+3010,The Great Invisible,2014,PG-13,92,90,0.01,True
+3011,Take Me to the River,2014,PG,95,70,0.0686,True
+3012,Veronica Mars,2014,PG-13,107,78,3.3,True
+3013,Need for Speed,2014,PG-13,132,22,43.6,True
+3014,The Single Moms Club,2014,PG-13,111,16,16.0,True
+3015,The Bag Man,2014,R,108,10,0.0488,True
+3016,Divergent,2014,PG-13,139,40,150.8,True
+3017,50 to 1,2014,PG-13,110,17,1.1,True
+3018,Muppets Most Wanted,2014,PG,107,78,51.2,True
+3019,God's Not Dead,2014,PG,113,16,60.8,True
+3020,Noah,2014,PG-13,138,77,101.2,True
+3021,Sabotage,2014,R,109,19,10.5,True
+3022,Cesar Chavez,2014,PG-13,102,41,5.6,True
+3023,Captain America: The Winter Soldier,2014,PG-13,136,89,259.7,True
+3024,13 Sins,2014,R,93,62,0.0091,True
+3025,Draft Day,2014,R,110,61,28.8,True
+3026,Rio 2,2014,G,101,48,131.5,True
+3027,The Raid 2,2014,R,150,79,2.6,True
+3028,Jinn,2014,PG-13,97,10,0.1,True
+3029,Heaven Is for Real,2014,PG,99,46,91.4,True
+3030,A Haunted House 2,2014,R,86,8,17.3,True
+3031,Transcendence,2014,PG-13,119,19,23.0,True
+3032,Bears,2014,G,78,89,17.8,True
+3033,Ballet 422,2014,PG,75,86,0.3,True
+3034,Glen Campbell: I'll Be Me,2014,PG,116,100,0.4,True
+3035,Two-Bit Waltz,2014,R,81,0,0.0021,True
+3036,The Quiet Ones,2014,PG-13,98,36,8.5,True
+3037,The Other Woman,2014,PG-13,109,23,83.9,True
+3038,The M Word,2014,R,117,38,0.1,True
+3039,Walk of Shame,2014,R,95,12,0.0398,True
+3040,The Amazing Spider-Man 2,2014,PG-13,142,53,202.9,True
+3041,Moms' Night Out,2014,PG,98,18,10.4,True
+3042,The Hornet's Nest,2014,R,93,76,0.3,True
+3043,Neighbors,2014,R,97,73,150.1,True
+3044,Million Dollar Arm,2014,PG,124,62,36.4,True
+3045,Godzilla,2014,PG-13,123,74,200.7,True
+3046,Blended,2014,PG-13,117,14,46.3,True
+3047,X-Men: Days of Future Past,2014,PG-13,132,91,233.9,True
+3048,A Million Ways to Die in the West,2014,R,116,33,42.6,True
+3049,Maleficent,2014,PG,97,49,241.4,True
+3050,Edge of Tomorrow,2014,PG-13,113,90,100.1,True
+3051,The Fault in Our Stars,2014,PG-13,126,81,124.9,True
+3052,22 Jump Street,2014,R,112,85,191.7,True
+3053,Hellion,2014,R,99,60,0.0461,True
+3054,How to Train Your Dragon 2,2014,PG,102,92,177.0,True
+3055,Think Like a Man Too,2014,PG-13,106,23,65.2,True
+3056,Jersey Boys,2014,R,134,52,47.0,True
+3057,The Rover,2014,R,103,65,1.1,True
+3058,The Homesman,2014,R,122,82,2.4,True
+3059,The Living,2014,R,89,43,0.0054,True
+3060,Happy Christmas,2014,R,82,75,0.0289,True
+3061,Whitey: United States of America v. James J. Bulger,2014,R,107,80,0.0756,True
+3062,Transformers: Age of Extinction,2014,PG-13,165,18,245.4,True
+3063,Deliver Us from Evil,2014,R,118,28,30.6,True
+3064,Earth to Echo,2014,PG,91,48,38.9,True
+3065,America: Imagine the World Without Her,2014,PG-13,105,8,14.4,True
+3066,Tammy,2014,R,97,23,84.5,True
+3067,Life Itself,2014,R,120,97,0.8,True
+3068,The Signal,2014,PG-13,97,58,4.7,True
+3069,Dawn of the Planet of the Apes,2014,PG-13,130,90,5.1,True
+3070,Life After Beth,2014,R,89,45,0.0573,True
+3071,Sex Tape,2014,R,94,17,38.5,True
+3072,Persecuted,2014,PG-13,91,0,1.6,True
+3073,The Purge: Anarchy,2014,R,103,56,71.5,True
+3074,The Fluffy Movie: Unity Through Laughter,2014,PG-13,101,54,2.8,True
+3075,Wish I Was Here,2014,R,106,46,3.6,True
+3076,Come Back to Me,2014,R,90,20,0.0042,True
+3077,Hercules,2014,PG-13,98,60,72.7,True
+3078,Rob the Mob,2014,R,104,84,0.2,True
+3079,Frontera,2014,PG-13,103,52,0.0593,True
+3080,Guardians of the Galaxy,2014,PG-13,121,91,333.2,True
+3081,The One I Love,2014,R,91,80,0.5,True
+3082,God's Pocket,2014,R,88,36,0.1,True
+3083,Teenage Mutant Ninja Turtles,2014,PG-13,101,21,191.2,True
+3084,Step Up All In,2014,PG-13,112,43,14.9,True
+3085,Into the Storm,2014,PG-13,89,22,47.6,True
+3086,The Hundred-Foot Journey,2014,PG,122,68,54.2,True
+3087,Let's Be Cops,2014,R,104,18,82.4,True
+3088,Boyhood,2014,R,165,98,25.4,True
+3089,The Expendables 3,2014,PG-13,126,33,39.3,True
+3090,Deepsea Challenge 3D,2014,PG,90,67,0.1,True
+3091,If I Stay,2014,PG-13,107,36,50.5,True
+3092,The November Man,2014,R,108,35,25.0,True
+3093,The Two Faces of January,2014,PG-13,96,82,0.5,True
+3094,Obvious Child,2014,R,84,90,3.1,True
+3095,Barefoot,2014,PG-13,90,14,0.0118,True
+3096,The Identical,2014,PG,107,7,2.8,True
+3097,Island of Lemurs: Madagascar,2014,G,39,80,9.8,True
+3098,The Skeleton Twins,2014,R,93,87,5.3,True
+3099,Honeymoon,2014,R,87,70,0.0092,True
+3100,Pump,2014,PG,88,75,0.0735,True
+3101,The Drop,2014,R,106,89,10.7,True
+3102,Atlas Shrugged: Who Is John Galt?,2014,PG-13,99,0,0.8,True
+3103,Dolphin Tale 2,2014,PG,107,67,42.0,True
+3104,No Good Deed,2014,PG-13,84,10,52.5,True
+3105,This Is Where I Leave You,2014,R,103,41,34.3,True
+3106,The Maze Runner,2014,PG-13,113,63,102.4,True
+3107,I Origins,2014,R,106,52,5.0,True
+3108,The Remaining,2014,PG-13,88,56,1.2,True
+3109,White Bird in a Blizzard,2014,R,91,55,0.0335,True
+3110,The Song,2014,PG-13,116,29,5.5,True
+3111,The Equalizer,2014,R,132,61,101.5,True
+3112,Two Night Stand,2014,R,86,34,0.0156,True
+3113,The Boxtrolls,2014,PG,96,75,50.8,True
+3114,Seymour: An Introduction,2014,PG,84,100,0.6,True
+3115,Annabelle,2014,R,99,29,84.3,True
+3116,Left Behind,2014,PG-13,110,2,14.0,True
+3117,"Like Sunday, Like Rain",2014,R,104,53,0.0276,True
+3118,Dead Snow 2: Red vs. Dead,2014,R,100,85,0.0321,True
+3119,The Hero of Color City,2014,G,77,25,0.032,True
+3120,Kill the Messenger,2014,R,112,77,2.4,True
+3121,Addicted,2014,R,106,8,17.4,True
+3122,The Judge,2014,R,141,47,47.1,True
+3123,Camp X-Ray,2014,R,117,73,0.0098,True
+3124,A Matter of Faith,2014,PG,89,0,0.5,True
+3125,Fury,2014,R,134,77,85.8,True
+3126,The Best of Me,2014,PG-13,118,8,26.8,True
+3127,The Sisterhood of Night,2014,PG-13,104,79,0.0053,True
+3128,V/H/S: Viral,2014,R,81,36,0.0026,True
+3129,The Principle,2014,PG,90,0,0.0862,True
+3130,23 Blast,2014,PG-13,98,38,0.5,True
+3131,St. Vincent,2014,PG-13,102,77,44.1,True
+3132,Before I Go to Sleep,2014,R,92,36,3.2,True
+3133,The Overnighters,2014,PG-13,102,98,0.1,True
+3134,Life Partners,2014,R,93,62,0.0076,True
+3135,Big Hero 6,2014,PG,102,89,222.5,True
+3136,Magician: The Astonishing Life and Work of Orson Welles,2014,PG-13,91,73,0.0155,True
+3137,Love Is Strange,2014,R,94,94,2.3,True
+3138,Dumb and Dumber To,2014,PG-13,109,29,86.2,True
+3139,The Good Lie,2014,PG-13,110,88,2.7,True
+3140,Beyond the Lights,2014,PG-13,116,81,14.6,True
+3141,Birdman: Or (The Unexpected Virtue of Ignorance),2014,R,119,92,42.3,True
+3142,Saving Christmas,2014,PG,80,0,2.8,True
+3143,The Hunger Games: Mockingjay - Part 1,2014,PG-13,123,65,337.1,True
+3144,My Old Lady,2014,PG-13,107,59,4.0,True
+3145,Penguins of Madagascar,2014,PG,92,72,83.3,True
+3146,The Green Prince,2014,PG-13,101,78,0.3,True
+3147,The One I Wrote for You,2014,PG,110,0,0.0486,True
+3148,Exodus: Gods and Kings,2014,PG-13,150,27,65.0,True
+3149,Merchants of Doubt,2014,PG-13,96,85,0.2,True
+3150,Annie,2014,PG,118,27,85.9,True
+3151,Night at the Museum: Secret of the Tomb,2014,PG,98,50,113.7,True
+3152,Wild,2014,R,115,90,37.9,True
+3153,Into the Woods,2014,PG,125,71,128.0,True
+3154,The Imitation Game,2014,PG-13,114,89,91.1,True
+3155,The Water Diviner,2014,R,111,62,4.2,True
+3156,The Woman in Black 2: Angel of Death,2014,PG-13,98,21,26.5,True
+3157,Match,2014,R,90,76,0.0305,True
+3158,Dear White People,2014,R,108,92,4.4,True
+3159,American Sniper,2014,R,132,73,350.1,True
+3160,Song One,2014,PG-13,86,36,0.0202,True
+3161,Low Down,2014,R,114,51,0.049,True
+3162,Red Army,2014,PG,76,96,0.7,True
+3163,A Most Violent Year,2014,R,125,90,5.7,True
+3164,Black or White,2014,PG-13,121,39,21.6,True
+3165,5 to 7,2014,R,95,67,0.1,True
+3166,Christian Mingle,2014,PG,103,0,0.0198,True
+3167,What We Do in the Shadows,2014,R,86,96,3.3,True
+3168,Still Alice,2014,PG-13,101,89,18.7,True
+3169,Rudderless,2014,R,105,63,0.055999999999999994,True
+3170,Citizenfour,2014,R,114,98,2.8,True
+3171,Serena,2014,R,109,18,0.2,True
+3172,Maps to the Stars,2014,R,111,61,0.3,True
+3173,Keep on Keepin' On,2014,R,84,97,0.2,True
+3174,Zombeavers,2014,R,85,66,0.0149,True
+3175,While We're Young,2014,R,97,84,7.5,True
+3176,Lambert & Stamp,2014,R,117,86,0.0333,True
+3177,Kill Me Three Times,2014,R,90,9,0.0238,True
+3178,Clouds of Sils Maria,2014,R,124,89,1.8,True
+3179,Beyond the Reach,2014,R,91,34,0.0446,True
+3180,Unfriended,2014,R,83,61,32.4,True
+3181,Skin Trade,2014,R,96,20,0.0012,True
+3182,Adult Beginners,2014,R,92,44,0.1,True
+3183,Welcome to Me,2014,R,87,70,0.3,True
+3184,The Seven Five,2014,R,104,78,0.0296,True
+3185,Good Kill,2014,R,102,75,0.3,True
+3186,Every Secret Thing,2014,R,93,26,0.09699999999999999,True
+3187,Sunshine Superman,2014,PG,100,89,0.0557,True
+3188,Heaven Knows What,2014,R,94,86,0.0702,True
+3189,Infinitely Polar Bear,2014,R,90,81,0.4,True
+3190,Love & Mercy,2014,PG-13,121,89,7.2,True
+3191,Blackhat,2015,R,133,34,7.8,True
+3192,Strange Magic,2015,PG,99,18,12.4,True
+3193,The Hunting Ground,2015,PG-13,90,92,0.4,True
+3194,Americons,2015,R,88,14,0.0144,True
+3195,Jupiter Ascending,2015,PG-13,127,25,47.4,True
+3196,"McFarland, USA",2015,PG,129,79,44.5,True
+3197,Hot Tub Time Machine 2,2015,R,93,14,12.3,True
+3198,The DUFF,2015,PG-13,101,72,34.0,True
+3199,Focus,2015,R,105,56,53.8,True
+3200,Chappie,2015,R,120,31,31.6,True
+3201,Unfinished Business,2015,R,91,11,10.2,True
+3202,Hayride 2,2015,R,92,0,0.0017,True
+3203,The Second Best Exotic Marigold Hotel,2015,PG,122,62,33.1,True
+3204,David and Goliath,2015,PG,92,0,0.2,True
+3205,Cinderella,2015,PG,105,85,200.6,True
+3206,Insurgent,2015,PG-13,119,30,130.0,True
+3207,Do You Believe?,2015,PG-13,120,18,13.0,True
+3208,Home,2015,PG,94,46,171.9,True
+3209,Get Hard,2015,R,100,29,90.2,True
+3210,Beyond the Mask,2015,PG,103,22,1.0,True
+3211,Freetown,2015,PG-13,113,38,7.9,True
+3212,Danny Collins,2015,R,106,78,5.6,True
+3213,Woman in Gold,2015,PG-13,109,53,33.0,True
+3214,Paul Blart: Mall Cop 2,2015,PG,94,6,68.4,True
+3215,Child 44,2015,R,137,24,1.2,True
+3216,Monkey Kingdom,2015,G,81,94,16.3,True
+3217,True Story,2015,R,99,48,6.6,True
+3218,The Age of Adaline,2015,PG-13,112,54,42.6,True
+3219,Little Boy,2015,PG-13,106,18,6.4,True
+3220,Barely Lethal,2015,PG-13,96,16,0.0049,True
+3221,Avengers: Age of Ultron,2015,PG-13,141,74,454.2,True
+3222,Hot Pursuit,2015,PG-13,87,7,33.4,True
+3223,Maggie,2015,PG-13,95,51,0.2,True
+3224,The D Train,2015,R,101,43,0.7,True
+3225,Mad Max: Fury Road,2015,R,120,98,149.0,True
+3226,Pitch Perfect 2,2015,PG-13,115,66,160.9,True
+3227,Poltergeist,2015,PG-13,93,31,46.1,True
+3228,Tomorrowland,2015,PG,130,50,91.0,True
+3229,Far from the Madding Crowd,2015,PG-13,119,85,9.9,True
+3230,Aloha,2015,PG-13,105,20,19.0,True
+3231,Insidious: Chapter 3,2015,PG-13,97,58,22.7,True
+3232,Me and Earl and the Dying Girl,2015,PG-13,105,82,1.9,True
+3233,Jurassic World,2015,PG-13,124,71,556.5,True
+3234,The Overnight,2015,R,79,81,0.6,True
+3235,Dope,2015,R,103,89,11.7,True
+3236,Ted 2,2015,R,115,46,58.5,True
+3237,L.A. Slasher,2015,R,86,0,0.0024,True
+3238,Magic Mike XXL,2015,R,115,64,27.9,True
