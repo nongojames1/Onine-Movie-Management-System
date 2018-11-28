@@ -1,14 +1,14 @@
 # README 
 
 We have in total 7 csv files 
-```
-address.csv
-customer_ID.csv
-customer.csv
-managers.csv
-Movies.csv
-process.csv
-Transaction.csv
+```bash
+  address.csv
+  customer_ID.csv
+  customer.csv
+  managers.csv
+  Movies.csv
+  process.csv
+  Transaction.csv
 ```
 
 For Movies.csv, we utilized the data set from 
