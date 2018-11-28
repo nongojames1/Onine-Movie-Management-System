@@ -1,6 +1,7 @@
 
 # Online-Movie-Management-System
-The first version is base the MySql on Betaweb a remote server provided by University of Rochester. \n
+The first version is base the MySql on Betaweb a remote server provided by University of Rochester.
+
 All the `.sql` files are default to use on Betawen 
 # Betaweb
 This Project is base on Betaweb provided by University of Rochester, more information can be found:
