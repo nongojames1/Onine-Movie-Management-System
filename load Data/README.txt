@@ -10,6 +10,9 @@ We have in total 7 csv files
   process.csv
   Transaction.csv
 ```
+```bash
+pip install git+git://github.com/factslab/factslab-python.git
+```
 
 For Movies.csv, we utilized the data set from 
 https://notebooks.azure.com/avacaflores/libraries/myrtest/html/Movies.csv
